@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/coderxsa/ANITA  /root/anita
+RUN git clone https://github.com/themzysparks/ANITA-FORK  /root/anita
 WORKDIR /root/anita/
 
 
