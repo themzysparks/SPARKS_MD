@@ -17,7 +17,7 @@ COPY package.json .
 RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps 
 RUN npm install sharp 
-RUN nom install performance-now
+RUN npm install performance-now
 
 COPY . .
 
