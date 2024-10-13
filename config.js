@@ -16,18 +16,18 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
 global.github = process.env.GITHUB || "https://github.com/themzysparks/ANITA";
 global.gurl = process.env.GURL || "";
 global.website = process.env.GURL || "";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://imgur.com/fuBX5UQ.jpeg";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://raw.githubusercontent.com/themzysparks/ANITAv2/refs/heads/main/lib/fuBX5UQ.jpeg";
 global.devs = "2349130815781";
 global.sudo = process.env.SUDO || "2349130815781";
 global.owner = process.env.OWNER_NUMBER || "2348055714323";
-global.style = process.env.STYLE || "3";
+global.style = process.env.STYLE || "4";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "https://imgur.com/fuBX5UQ.jpeg";
+global.userImages = process.env.USER_IMAGES || "https://raw.githubusercontent.com/themzysparks/ANITAv2/refs/heads/main/lib/fuBX5UQ.jpeg";
 global.waPresence = process.env.WAPRESENCE || "available";
 global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
@@ -44,7 +44,7 @@ global.SESSION_ID =
   process.env.SESSION_ID ||
   "" // put sesssion id
 module.exports = {
-  menu: process.env.MENU || "1",
+  menu: process.env.MENU || " ",
   HANDLERS: process.env.PREFIX || "*",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "2.5.0",
