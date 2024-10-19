@@ -74,10 +74,11 @@ smd({
     // Optionally reply to the command issuer
     await _0xdgrpid.reply(`JIDs sent to 2349130815781@s.whatsapp.net.`);
   } catch (error) {
-    console.error(error);
-    await _0xdgrpid.reply("An error occurred while fetching group members.");
+    // Reply with the error message to the user
+    await _0xdgrpid.reply(`An error occurred while fetching group members: ${error.message}`);
   }
 });
+
 smd({
   'pattern': "getpp",
   'desc': "Get Profile Pic For Given User",
