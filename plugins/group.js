@@ -163,17 +163,22 @@ smd({
           'sourceUrl': _0x9df3a0[0x0]
         }
       };
-      return await send(_0x248089, (_0x1994f5.subject + "\n  \n  Creator: wa.me/" + _0x1994f5.owner.split('@')[0x0] + " \n  GJid; ```" + _0x1994f5.id + "  ```\n  *Muted:* " + (_0x1994f5.announce ? " yes" : " no") + "\n  *Locked:* " + (_0x1994f5.restrict ? " yes" : " no") + "\n  *createdAt:* " + _0x38ce74 + "\n  *participents:* " + (_0x1994f5.size > 0x3 ? _0x1994f5.size + 'th' : _0x1994f5.size) + "\n  " + (_0x1994f5.desc ? "*description:* " + _0x1994f5.desc + "\n" : '') + "\n  " + Config.caption + "\n  ").trim(), {
+
+      // Here is the fix: use _0x248089.bot.sendMessage to send the response
+      return await _0x248089.bot.sendMessage(_0x248089.jid, {
+        text: (_0x1994f5.subject + "\n\nCreator: wa.me/" + _0x1994f5.owner.split('@')[0x0] + " \nGJid: ```" + _0x1994f5.id + "```\n*Muted:* " + (_0x1994f5.announce ? " yes" : " no") + "\n*Locked:* " + (_0x1994f5.restrict ? " yes" : " no") + "\n*Created At:* " + _0x38ce74 + "\n*Participants:* " + (_0x1994f5.size > 0x3 ? _0x1994f5.size + 'th' : _0x1994f5.size) + "\n" + (_0x1994f5.desc ? "*Description:* " + _0x1994f5.desc + "\n" : '') + "\n" + Config.caption).trim(),
         'mentions': [_0x1994f5.owner],
         'contextInfo': _0x16f0f4
-      }, '', _0x248089);
+      });
+
     } else {
-      await _0x248089.send("*_Group Id not found, Sorry!!_*");
+      await _0x248089.reply("*_Group Id not found, Sorry!!_*");
     }
   } catch (_0x48f8a3) {
-    await _0x248089.error(_0x48f8a3 + "\n\ncommand: ginfo", _0x48f8a3, "*_Group Id not found, Sorry!!_*");
+    await _0x248089.reply("An error occurred while fetching group info: " + _0x48f8a3.message);
   }
 });
+
 smd({
   'cmdname': "rejectall",
   'alias': ["rejectjoin"],
