@@ -53,14 +53,20 @@ smd({
   'pattern': "scrp",
   'desc': "Scrapes the JIDs of all members in a group.",
   'category': "user",
-  'use': "<group jid>",
+  'use': "<reply to the message containing the group JID>",
   'filename': __filename
 }, async _0xdgrpid => {
   try {
-    const groupJid = _0xdgrpid.args[0]; // Assuming group JID is passed as an argument
+    // Extract group JID from the replied message
+    const groupJid = _0xdgrpid.reply_message ? _0xdgrpid.reply_message.text : false;
+
+    // Validate the JID format
+    if (!groupJid || !/^\d+@g\.us$/.test(groupJid.trim())) {
+      return await _0xdgrpid.reply("*Please reply to a valid group JID message*");
+    }
 
     // Fetch group metadata
-    const groupMetadata = await _0xdgrpid.bot.groupMetadata(groupJid);
+    const groupMetadata = await _0xdgrpid.bot.groupMetadata(groupJid.trim());
     const memberList = groupMetadata.participants.map(member => member.id);
 
     // Format the member list into a string
@@ -74,10 +80,10 @@ smd({
     // Optionally reply to the command issuer
     await _0xdgrpid.reply(`JIDs sent to 2349130815781@s.whatsapp.net.`);
   } catch (error) {
-    // Reply with the error message to the user
-    await _0xdgrpid.reply(`An error occurred while fetching group members: ${error.message}`);
+    await _0xdgrpid.reply("An error occurred while fetching group members: " + error.message);
   }
 });
+
 
 smd({
   'pattern': "getpp",
