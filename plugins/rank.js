@@ -1,26 +1,637 @@
 /*
-▄▀█ █▄░█ █ ▀█▀ ▄▀█
-█▀█ █░▀█ █ ░█░ █▀█
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                                      //
+//                              ＭＹ ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ                                             // 
+//                                                                                                      // 
+//                                         Ｖ：１．０                                                    // 
+//                                                                                                      // 
+//                                                                                                      //
+//         ░██████╗██████╗░░█████╗░██████╗░██╗░░██╗░██████╗                                             //
+//        ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝                                             //
+//        ╚█████╗░██████╔╝███████║██████╔╝█████═╝░╚█████╗░                                             //
+//        ░╚═══██╗██╔═══╝░██╔══██║██╔══██╗██╔═██╗░░╚═══██╗                                             //
+//        ██████╔╝██║░░░░░██║░░██║██║░░██║██║░╚██╗██████╔╝                                             //
+//        ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░                                             //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 *
-   * @project_name : ANITA
-   * @author : CODERXSA
-   * @youtube : https://www.youtube.com/@coderxsa
-   * @instagram : https://www.instagram.com/coderx.sa
-   * @description : My Private build i made public for everone to use and easy hosting.
-   * @version : 1.0.3
-   * Donation : https://pay.yoco.com/coderx
+   * @project_name : SPARKS_MD
+   * @author : SPARKS
+   * @youtube : https://youtube.com/@cyberwithsparks
+   * @instagram : https://www.instagram.com/sparksthemzy
+   * @description : My private build made public for everyone to use with easy hosting.
+   * @version : 1.0
+   * Donation : https://paystack.com/pay/sparks_md_donation
    
-   * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+   * I update my GitHub bots when I have time, focusing mainly on key projects.
 *
-   * Licensed under the  GPL-3.0 License;
+   * Licensed under the GPL-3.0 License;
 * 
-   * Created By CODERX.
-   * © 2024 ANITA.
+   * Created By SPARKS.
+   * © 2024 SPARKS TECH SOLUTIONS.
 */
 
 
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-var _0x28e827=_0x1b79;(function(_0xa438fa,_0x5f2805){var _0x10ad4b=_0x1b79,_0x34f342=_0xa438fa();while(!![]){try{var _0x134f80=-parseInt(_0x10ad4b(0x7a))/0x1*(-parseInt(_0x10ad4b(0xa9))/0x2)+parseInt(_0x10ad4b(0xe0))/0x3*(-parseInt(_0x10ad4b(0x70))/0x4)+-parseInt(_0x10ad4b(0x96))/0x5*(-parseInt(_0x10ad4b(0x78))/0x6)+-parseInt(_0x10ad4b(0xb1))/0x7+parseInt(_0x10ad4b(0x98))/0x8*(-parseInt(_0x10ad4b(0xd7))/0x9)+-parseInt(_0x10ad4b(0xa8))/0xa+parseInt(_0x10ad4b(0x9a))/0xb;if(_0x134f80===_0x5f2805)break;else _0x34f342['push'](_0x34f342['shift']());}catch(_0x4f5113){_0x34f342['push'](_0x34f342['shift']());}}}(_0x56c8,0xc649a));let bots=![];const {smd,botpic,send,Config,tlang,sleep,smdBuffer,prefix,bot_}=require(_0x28e827(0xdc)),Levels=require(_0x28e827(0x7e));function _0x56c8(){var _0x5ac011=['🥉Ace\x20Master','🧚🏻Baby\x20Mage','Sir_','\x27s*\x20Exp\x0a\x0a\x0a*🌟Role*:\x20','\x0a*●Level*:\x20','*_Use\x20on/off\x20to\x20enable/disable\x20levelup!_*','🥈Ace\x20II','isCreator','\x20/\x20','setURL','true','turn\x20On/Off\x20auto\x20levelup','💎Supreme\x20Ii','level','levelup','sender','split','🧙‍♀️Wizard','disable','🎖Ace\x20Dominator','8835sTlBGB','\x0a*Hii\x20','348904CIHIdw','*_Please\x20add\x20MONGODB_URI\x20to\x20use\x20this\x20feature_*','968330PwsPzZ','act','\x0a╔════⪨\x0a║\x20*Wow,Someone\x20just*\x0a║\x20*leveled\x20Up\x20huh⭐*\x0a║\x20*👤Name*:\x20','new','\x0a*Powered\x20by\x20','bot_','sendUi','\x0a*Total\x20Messages:*-\x20','fetchStatus','🏳Citizen','*levelup\x20already\x20disabled*','<on/off>','GOD✨','🧜Mage','3037910fGYcCY','24314dFuUtZ','\x0a*●Total\x20messages*:\x20','mentionedJid','*Can\x27t\x20fetch\x20data,please\x20check\x20mongodb!!*','🍭\x0a║\x20*🛑Exp*:\x20','<@user>','toLowerCase','pushName','2153823WFAmfc','enable','updateOne','🛡Legend\x20III','⚡Speed\x20of\x20Elite','profilePictureUrl','substring','findOne','length','*\x0a║\x20*Enjoy🥳*\x0a╚════════════⪨\x20','🧙‍♂️Wizard\x20Lord','profile','RandomXP','isMongodb','reply','leaderboard','fetchLeaderboard','🏹Legend\x20II','\x0a*🟢Exp*:\x20','*Hii\x20','\x0a\x0acommand:\x20leaderboard','xpFor','\x0a*●Points*:\x20','appendXp','rank','\x0a*🧩Role:*\x20','error','GOD','deck','\x0a║\x20*📍Role*:\x20*','userID','\x0a║\x20*🎐Level*:\x20','send','deact','false','🥇Ace\x20I','chat','sendMessage','189plbzjx','reply_message','🌬Child\x20of\x20Nobel','👼Baby\x20Wizard','getName','../lib','⚔Legend','image','user','27006gNNvUg','*_Add\x20MONGODB_URI\x20to\x20use\x20these\x20cmds_*','🔮Supreme\x20Master','🎭Elite','💍Supreme\x20I','\x0a*⚡Bio:*\x20','\x0a*●Role*:\x20','🏅Ace\x20Elite','332QjEddl','fetch','🧜‍♂️Master\x20of\x20Mage','🏆Ace\x20Supreme','text','bot','off','*Can\x27t\x20fetch\x20data,\x20make\x20sure\x20MONGODB_URI\x20added!!*','4692KJHqNa','Shows\x20profile\x20of\x20user.','133ToVCVw','❄Nobel',',*\x0a*Here\x20is\x20your\x20profile\x20information*\x0a*👤Username:*\x20','Unknown','discord-xp','*_Please\x20ask\x20my\x20Owner\x20to\x20add\x20MONGODB_URI!_*','*levelup\x20already\x20enabled!*','🐉Immortal'];_0x56c8=function(){return _0x5ac011;};return _0x56c8();}try{if(isMongodb)Levels[_0x28e827(0x8b)](mongodb);}catch{}let utd=![];function _0x1b79(_0x49ac20,_0x49aa93){var _0x56c818=_0x56c8();return _0x1b79=function(_0x1b791a,_0xa7f163){_0x1b791a=_0x1b791a-0x70;var _0x440f57=_0x56c818[_0x1b791a];return _0x440f57;},_0x1b79(_0x49ac20,_0x49aa93);}smd({'pattern':'levelup','desc':_0x28e827(0x8d),'fromMe':!![],'category':_0x28e827(0x8f),'use':_0x28e827(0xa5),'filename':__filename},async(_0x3a63b8,_0x1bc064)=>{var _0x4c999c=_0x28e827;try{if(!global[_0x4c999c(0xbe)])return await _0x3a63b8[_0x4c999c(0xbf)](_0x3a63b8[_0x4c999c(0x89)]?_0x4c999c(0xe1):_0x4c999c(0x7f));let _0x80d1e6=await bot_[_0x4c999c(0xb8)]({'id':'bot_'+_0x3a63b8[_0x4c999c(0xdf)]})||await bot_[_0x4c999c(0x9d)]({'id':_0x4c999c(0x9f)+_0x3a63b8[_0x4c999c(0xdf)]}),_0x45ab12=_0x1bc064[_0x4c999c(0xaf)]()[_0x4c999c(0x92)]()[0x0]['trim']();utd=!![];if(_0x45ab12==='on'||_0x45ab12===_0x4c999c(0xb2)||_0x45ab12===_0x4c999c(0x9b)){if(_0x80d1e6[_0x4c999c(0x90)]==='true')return await _0x3a63b8['reply'](_0x4c999c(0x80));return await bot_[_0x4c999c(0xb3)]({'id':_0x4c999c(0x9f)+_0x3a63b8['user']},{'levelup':'true'}),await _0x3a63b8[_0x4c999c(0xbf)]('*levelup\x20Succesfully\x20enabled*');}else{if(_0x45ab12===_0x4c999c(0x76)||_0x45ab12===_0x4c999c(0x94)||_0x45ab12===_0x4c999c(0xd2)){if(_0x80d1e6['levelup']===_0x4c999c(0xd3))return await _0x3a63b8['reply'](_0x4c999c(0xa4));return await bot_[_0x4c999c(0xb3)]({'id':_0x4c999c(0x9f)+_0x3a63b8['user']},{'levelup':_0x4c999c(0xd3)}),await _0x3a63b8[_0x4c999c(0xbf)]('*levelup\x20Succesfully\x20deactivated*');}else return await _0x3a63b8[_0x4c999c(0xd1)](_0x4c999c(0x87));}}catch(_0x5cf1d9){await _0x3a63b8[_0x4c999c(0xcb)](_0x5cf1d9+'\x0a\x0aCommand:\x20levelup\x20',_0x5cf1d9);}}),smd({'cmdname':_0x28e827(0xbc),'info':_0x28e827(0x79),'type':_0x28e827(0x8f),'use':_0x28e827(0xae),'filename':__filename},async _0x1b6507=>{var _0x49b53d=_0x28e827;try{if(!global[_0x49b53d(0xbe)])return await _0x1b6507[_0x49b53d(0xbf)](_0x1b6507[_0x49b53d(0x89)]?'*_Add\x20MONGODB_URI\x20to\x20use\x20these\x20cmds_*':_0x49b53d(0x7f));let _0x4ce12d=_0x1b6507[_0x49b53d(0x91)];_0x1b6507[_0x49b53d(0x89)]&&(_0x4ce12d=_0x1b6507[_0x49b53d(0xd8)]?_0x1b6507[_0x49b53d(0xd8)]['sender']:_0x1b6507[_0x49b53d(0xab)][0x0]?_0x1b6507[_0x49b53d(0xab)][0x0]:_0x1b6507[_0x49b53d(0x91)]||_0x1b6507[_0x49b53d(0x91)]);var _0x61b45b=await _0x1b6507[_0x49b53d(0x75)][_0x49b53d(0xa2)](_0x4ce12d),_0xbfb04f=_0x61b45b['status'];const _0x312622=await Levels['fetch'](_0x4ce12d,_0x49b53d(0xbd)),_0xaa5a42=_0x312622[_0x49b53d(0x8f)];var _0x2c9662=_0x49b53d(0xa6);if(_0xaa5a42<=0x2)var _0x2c9662=_0x49b53d(0xa3);else{if(_0xaa5a42<=0x4)var _0x2c9662=_0x49b53d(0xda);else{if(_0xaa5a42<=0x6)var _0x2c9662='🧙‍♀️Wizard';else{if(_0xaa5a42<=0x8)var _0x2c9662=_0x49b53d(0xbb);else{if(_0xaa5a42<=0xa)var _0x2c9662=_0x49b53d(0x83);else{if(_0xaa5a42<=0xc)var _0x2c9662=_0x49b53d(0xa7);else{if(_0xaa5a42<=0xe)var _0x2c9662=_0x49b53d(0x72);else{if(_0xaa5a42<=0x10)var _0x2c9662='🌬Child\x20of\x20Nobel';else{if(_0xaa5a42<=0x12)var _0x2c9662=_0x49b53d(0x7b);else{if(_0xaa5a42<=0x14)var _0x2c9662=_0x49b53d(0xb5);else{if(_0xaa5a42<=0x16)var _0x2c9662=_0x49b53d(0xe3);else{if(_0xaa5a42<=0x18)var _0x2c9662='🥇Ace\x20I';else{if(_0xaa5a42<=0x1a)var _0x2c9662='🥈Ace\x20II';else{if(_0xaa5a42<=0x1c)var _0x2c9662=_0x49b53d(0x82);else{if(_0xaa5a42<=0x1e)var _0x2c9662=_0x49b53d(0x95);else{if(_0xaa5a42<=0x20)var _0x2c9662='🏅Ace\x20Elite';else{if(_0xaa5a42<=0x22)var _0x2c9662='🏆Ace\x20Supreme';else{if(_0xaa5a42<=0x24)var _0x2c9662='💍Supreme\x20I';else{if(_0xaa5a42<=0x26)var _0x2c9662='💎Supreme\x20Ii';else{if(_0xaa5a42<=0x28)var _0x2c9662=_0x49b53d(0xe2);else{if(_0xaa5a42<=0x2a)var _0x2c9662=_0x49b53d(0xb4);else{if(_0xaa5a42<=0x2c)var _0x2c9662='🏹Legend\x20II';else{if(_0xaa5a42<=0x2e)var _0x2c9662=_0x49b53d(0xdd);else{if(_0xaa5a42<=0x37)var _0x2c9662=_0x49b53d(0x81);}}}}}}}}}}}}}}}}}}}}}}}let _0x36ee8f=_0x312622['xp']/0x8;var _0x36db6f;try{_0x36db6f=await _0x1b6507[_0x49b53d(0x75)][_0x49b53d(0xb6)](_0x4ce12d,_0x49b53d(0xde));}catch{_0x36db6f=await botpic();}var _0x4f13a9;try{_0x4f13a9=await _0x1b6507[_0x49b53d(0x75)]['getName'](_0x4ce12d);}catch{}const _0x52d0f5=_0x49b53d(0x97)+_0x4f13a9+_0x49b53d(0x7c)+_0x4f13a9+_0x49b53d(0xe5)+_0xbfb04f+_0x49b53d(0xca)+_0x2c9662+'\x0a*🍁Level:*\x20'+_0x312622[_0x49b53d(0x8f)]+'\x0a*📥Total\x20Messages*\x20'+_0x36ee8f+_0x49b53d(0x9e)+tlang()['title']+'*\x0a';w,_0x1b6507[_0x49b53d(0x75)][_0x49b53d(0xd6)](_0x1b6507['chat'],{'image':{'url':_0x36db6f},'caption':_0x52d0f5},{'quoted':_0x1b6507});}catch(_0x1d1bd9){await _0x1b6507[_0x49b53d(0xcb)](_0x1d1bd9+'\x0a\x0acommand:\x20tagall',_0x1d1bd9,_0x49b53d(0xac));}}),smd({'cmdname':_0x28e827(0xc9),'info':'Sends\x20rank\x20card\x20of\x20user.','type':'level','use':'<@user>','filename':__filename},async _0x3950d4=>{var _0x254bd8=_0x28e827;try{if(!global[_0x254bd8(0xbe)])return await _0x3950d4[_0x254bd8(0xbf)](_0x3950d4['isCreator']?_0x254bd8(0x99):'*_Please\x20ask\x20my\x20Owner\x20to\x20add\x20MONGODB_URI!_*');let _0x192feb=_0x3950d4['sender'];_0x3950d4[_0x254bd8(0x89)]&&(_0x192feb=_0x3950d4['reply_message']?_0x3950d4['reply_message']['sender']:_0x3950d4[_0x254bd8(0xab)][0x0]?_0x3950d4['mentionedJid'][0x0]:_0x3950d4[_0x254bd8(0x91)]||_0x3950d4['sender']);const _0x46cfc3=await Levels[_0x254bd8(0x71)](_0x192feb,'RandomXP'),_0x157f5e=_0x46cfc3[_0x254bd8(0x8f)];var _0x350ad2=_0x254bd8(0xa6);if(_0x157f5e<=0x2)var _0x350ad2=_0x254bd8(0xa3);else{if(_0x157f5e<=0x4)var _0x350ad2=_0x254bd8(0xda);else{if(_0x157f5e<=0x6)var _0x350ad2=_0x254bd8(0x93);else{if(_0x157f5e<=0x8)var _0x350ad2=_0x254bd8(0xbb);else{if(_0x157f5e<=0xa)var _0x350ad2=_0x254bd8(0x83);else{if(_0x157f5e<=0xc)var _0x350ad2=_0x254bd8(0xa7);else{if(_0x157f5e<=0xe)var _0x350ad2=_0x254bd8(0x72);else{if(_0x157f5e<=0x10)var _0x350ad2=_0x254bd8(0xd9);else{if(_0x157f5e<=0x12)var _0x350ad2=_0x254bd8(0x7b);else{if(_0x157f5e<=0x14)var _0x350ad2=_0x254bd8(0xb5);else{if(_0x157f5e<=0x16)var _0x350ad2=_0x254bd8(0xe3);else{if(_0x157f5e<=0x18)var _0x350ad2=_0x254bd8(0xd4);else{if(_0x157f5e<=0x1a)var _0x350ad2=_0x254bd8(0x88);else{if(_0x157f5e<=0x1c)var _0x350ad2=_0x254bd8(0x82);else{if(_0x157f5e<=0x1e)var _0x350ad2='🎖Ace\x20Dominator';else{if(_0x157f5e<=0x20)var _0x350ad2='🏅Ace\x20Elite';else{if(_0x157f5e<=0x22)var _0x350ad2='🏆Ace\x20Supreme';else{if(_0x157f5e<=0x24)var _0x350ad2=_0x254bd8(0xe4);else{if(_0x157f5e<=0x26)var _0x350ad2=_0x254bd8(0x8e);else{if(_0x157f5e<=0x28)var _0x350ad2=_0x254bd8(0xe2);else{if(_0x157f5e<=0x2a)var _0x350ad2=_0x254bd8(0xb4);else{if(_0x157f5e<=0x2c)var _0x350ad2=_0x254bd8(0xc2);else{if(_0x157f5e<=0x2e)var _0x350ad2=_0x254bd8(0xdd);else{if(_0x157f5e<=0x37)var _0x350ad2=_0x254bd8(0x81);}}}}}}}}}}}}}}}}}}}}}}}let _0x14fd2a=_0x192feb[_0x254bd8(0xb7)](0x3,0x7);var _0x23616a;try{_0x23616a=await _0x3950d4['bot']['profilePictureUrl'](_0x192feb,'image');}catch{_0x23616a=THUMB_IMAGE;}var _0x56663f;try{_0x56663f=await _0x3950d4[_0x254bd8(0x75)]['getName'](_0x192feb);}catch{}let _0x279edb=_0x46cfc3['xp']/0x8;var _0xa998c6=_0x254bd8(0xc4)+tlang()['greet']+'\x20,🌟\x20'+(_0x56663f||_0x254bd8(0x84))+'∆'+_0x14fd2a+_0x254bd8(0x85)+_0x350ad2+_0x254bd8(0xc3)+_0x46cfc3['xp']+'\x20/\x20'+Levels['xpFor'](_0x46cfc3[_0x254bd8(0x8f)]+0x1)+'\x0a*🏡Level*:\x20'+_0x46cfc3[_0x254bd8(0x8f)]+_0x254bd8(0xa1)+_0x279edb+'\x0a';await _0x3950d4['bot']['sendMessage'](_0x3950d4[_0x254bd8(0xd5)],{'image':{'url':_0x23616a},'caption':_0xa998c6},{'quoted':_0x3950d4});}catch(_0x1e648a){await _0x3950d4[_0x254bd8(0xcb)](_0x1e648a+_0x254bd8(0xc5),_0x1e648a,'*Can\x27t\x20fetch\x20data,\x20make\x20sure\x20MONGODB_URI\x20added!!*');}}),smd({'cmdname':_0x28e827(0xc0),'alias':[_0x28e827(0xcd)],'info':'To\x20check\x20leaderboard','type':_0x28e827(0x8f),'use':_0x28e827(0xae),'filename':__filename},async _0x3c3c17=>{var _0x264d34=_0x28e827;try{if(!global[_0x264d34(0xbe)])return await _0x3c3c17[_0x264d34(0xbf)](_0x3c3c17['isCreator']?_0x264d34(0xe1):_0x264d34(0x7f));const _0x479873=await Levels[_0x264d34(0xc1)](_0x264d34(0xbd),0x5);let _0x211c10='\x0a*-------------------------------*\x0a*----●\x20LeaderBoard\x20●\x20-----*\x0a*-------------------------------*\x0a\x0a\x0a';for(let _0x4bd5ee=0x0;_0x4bd5ee<_0x479873[_0x264d34(0xb9)];_0x4bd5ee++){const _0x54a708=_0x479873[_0x4bd5ee]['level'];var _0x5e70f2='GOD✨';if(_0x54a708<=0x2)var _0x5e70f2='🏳Citizen';else{if(_0x54a708<=0x4)var _0x5e70f2=_0x264d34(0xda);else{if(_0x54a708<=0x6)var _0x5e70f2=_0x264d34(0x93);else{if(_0x54a708<=0x8)var _0x5e70f2=_0x264d34(0xbb);else{if(_0x54a708<=0xa)var _0x5e70f2=_0x264d34(0x83);else{if(_0x54a708<=0xc)var _0x5e70f2='🧜Mage';else{if(_0x54a708<=0xe)var _0x5e70f2=_0x264d34(0x72);else{if(_0x54a708<=0x10)var _0x5e70f2=_0x264d34(0xd9);else{if(_0x54a708<=0x12)var _0x5e70f2='❄Nobel';else{if(_0x54a708<=0x14)var _0x5e70f2=_0x264d34(0xb5);else{if(_0x54a708<=0x16)var _0x5e70f2='🎭Elite';else{if(_0x54a708<=0x18)var _0x5e70f2=_0x264d34(0xd4);else{if(_0x54a708<=0x1a)var _0x5e70f2=_0x264d34(0x88);else{if(_0x54a708<=0x1c)var _0x5e70f2=_0x264d34(0x82);else{if(_0x54a708<=0x1e)var _0x5e70f2=_0x264d34(0x95);else{if(_0x54a708<=0x20)var _0x5e70f2=_0x264d34(0xe7);else{if(_0x54a708<=0x22)var _0x5e70f2=_0x264d34(0x73);else{if(_0x54a708<=0x24)var _0x5e70f2=_0x264d34(0xe4);else{if(_0x54a708<=0x26)var _0x5e70f2='💎Supreme\x20Ii';else{if(_0x54a708<=0x28)var _0x5e70f2='🔮Supreme\x20Master';else{if(_0x54a708<=0x2a)var _0x5e70f2=_0x264d34(0xb4);else{if(_0x54a708<=0x2c)var _0x5e70f2=_0x264d34(0xc2);else{if(_0x54a708<=0x2e)var _0x5e70f2='⚔Legend';else{if(_0x54a708<=0x37)var _0x5e70f2=_0x264d34(0x81);}}}}}}}}}}}}}}}}}}}}}}}var _0x1d68cc;try{_0x1d68cc=await _0x3c3c17['bot'][_0x264d34(0xdb)](_0x479873[_0x4bd5ee][_0x264d34(0xcf)]);}catch{_0x1d68cc=_0x479873[_0x4bd5ee][_0x264d34(0xcf)]?.[_0x264d34(0x92)]('@')[0x0]||_0x264d34(0x7d);}_0x211c10+='*'+(_0x4bd5ee+0x1)+'●Name*:\x20'+_0x1d68cc+_0x264d34(0x86)+_0x479873[_0x4bd5ee][_0x264d34(0x8f)]+_0x264d34(0xc7)+_0x479873[_0x4bd5ee]['xp']+_0x264d34(0xe6)+_0x5e70f2+_0x264d34(0xaa)+_0x479873[_0x4bd5ee]['xp']/0x8+'\x0a\x0a';}await _0x3c3c17[_0x264d34(0xbf)](_0x211c10);}catch(_0x525702){await _0x3c3c17[_0x264d34(0xcb)](_0x525702+'\x0a\x0acommand:\x20leaderboard',_0x525702,_0x264d34(0x77));}}),smd({'on':_0x28e827(0x74)},async _0x30147d=>{var _0x47bb1d=_0x28e827;try{(!bots||utd)&&(bots=await bot_['findOne']({'id':'bot_'+msg['user']}),utd=![]);if(!bots||!global['isMongodb'])return;const _0x5e17da=0x8;let _0x2d3b08=_0x30147d['senderName'];const _0xcc8fb=await Levels[_0x47bb1d(0xc8)](_0x30147d[_0x47bb1d(0x91)],_0x47bb1d(0xbd),_0x5e17da);if(_0xcc8fb){const _0x347e63=await Levels[_0x47bb1d(0x71)](_0x30147d[_0x47bb1d(0x91)],_0x47bb1d(0xbd)),_0x46412b=_0x347e63[_0x47bb1d(0x8f)];var _0xd20156=_0x47bb1d(0xcc);if(_0x46412b<=0x2)var _0xd20156='🏳Citizen';else{if(_0x46412b<=0x4)var _0xd20156=_0x47bb1d(0xda);else{if(_0x46412b<=0x6)var _0xd20156=_0x47bb1d(0x93);else{if(_0x46412b<=0x8)var _0xd20156=_0x47bb1d(0xbb);else{if(_0x46412b<=0xa)var _0xd20156=_0x47bb1d(0x83);else{if(_0x46412b<=0xc)var _0xd20156=_0x47bb1d(0xa7);else{if(_0x46412b<=0xe)var _0xd20156='🧜‍♂️Master\x20of\x20Mage';else{if(_0x46412b<=0x10)var _0xd20156=_0x47bb1d(0xd9);else{if(_0x46412b<=0x12)var _0xd20156=_0x47bb1d(0x7b);else{if(_0x46412b<=0x14)var _0xd20156=_0x47bb1d(0xb5);else{if(_0x46412b<=0x16)var _0xd20156=_0x47bb1d(0xe3);else{if(_0x46412b<=0x18)var _0xd20156='🥇Ace\x20I';else{if(_0x46412b<=0x1a)var _0xd20156=_0x47bb1d(0x88);else{if(_0x46412b<=0x1c)var _0xd20156='🥉Ace\x20Master';else{if(_0x46412b<=0x1e)var _0xd20156=_0x47bb1d(0x95);else{if(_0x46412b<=0x20)var _0xd20156=_0x47bb1d(0xe7);else{if(_0x46412b<=0x22)var _0xd20156=_0x47bb1d(0x73);else{if(_0x46412b<=0x24)var _0xd20156=_0x47bb1d(0xe4);else{if(_0x46412b<=0x26)var _0xd20156=_0x47bb1d(0x8e);else{if(_0x46412b<=0x28)var _0xd20156='🔮Supreme\x20Master';else{if(_0x46412b<=0x2a)var _0xd20156='🛡Legend\x20III';else{if(_0x46412b<=0x2c)var _0xd20156=_0x47bb1d(0xc2);else{if(_0x46412b<=0x2e)var _0xd20156=_0x47bb1d(0xdd);else{if(_0x46412b<=0x37)var _0xd20156=_0x47bb1d(0x81);}}}}}}}}}}}}}}}}}}}}}}}bots[_0x47bb1d(0x90)]&&bots['levelup']===_0x47bb1d(0x8c)&&await _0x30147d[_0x47bb1d(0x75)][_0x47bb1d(0xa0)](_0x30147d[_0x47bb1d(0xd5)],{'caption':_0x47bb1d(0x9c)+_0x30147d[_0x47bb1d(0xb0)]+_0x47bb1d(0xd0)+_0x347e63[_0x47bb1d(0x8f)]+_0x47bb1d(0xad)+_0x347e63['xp']+_0x47bb1d(0x8a)+Levels[_0x47bb1d(0xc6)](_0x347e63['level']+0x1)+_0x47bb1d(0xce)+_0xd20156+_0x47bb1d(0xba)},{'quoted':_0x30147d});}}catch{}});
+
+let bots = false;
+const {
+  smd,
+  botpic,
+  send,
+  Config,
+  tlang,
+  sleep,
+  smdBuffer,
+  prefix,
+  bot_
+} = require("../lib");
+const Levels = require("discord-xp");
+try {
+  if (isMongodb) {
+    Levels.setURL(mongodb);
+  }
+} catch {}
+let utd = false;
+smd({
+  'pattern': 'levelup',
+  'desc': "turn On/Off auto levelup",
+  'fromMe': true,
+  'category': "level",
+  'use': "<on/off>",
+  'filename': __filename
+}, async (_0x3a63b8, _0x1bc064) => {
+  try {
+    if (!global.isMongodb) {
+      return await _0x3a63b8.reply(_0x3a63b8.isCreator ? "*_Add MONGODB_URI to use these cmds_*" : "*_Please ask my Owner to add MONGODB_URI!_*");
+    }
+    let _0x80d1e6 = (await bot_.findOne({
+      'id': 'bot_' + _0x3a63b8.user
+    })) || (await bot_["new"]({
+      'id': "bot_" + _0x3a63b8.user
+    }));
+    let _0x45ab12 = _0x1bc064.toLowerCase().split()[0x0].trim();
+    utd = true;
+    if (_0x45ab12 === 'on' || _0x45ab12 === "enable" || _0x45ab12 === "act") {
+      if (_0x80d1e6.levelup === 'true') {
+        return await _0x3a63b8.reply("*levelup already enabled!*");
+      }
+      await bot_.updateOne({
+        'id': "bot_" + _0x3a63b8.user
+      }, {
+        'levelup': 'true'
+      });
+      return await _0x3a63b8.reply("*levelup Succesfully enabled*");
+    } else {
+      if (_0x45ab12 === "off" || _0x45ab12 === "disable" || _0x45ab12 === "deact") {
+        if (_0x80d1e6.levelup === "false") {
+          return await _0x3a63b8.reply("*levelup already disabled*");
+        }
+        await bot_.updateOne({
+          'id': "bot_" + _0x3a63b8.user
+        }, {
+          'levelup': "false"
+        });
+        return await _0x3a63b8.reply("*levelup Succesfully deactivated*");
+      } else {
+        return await _0x3a63b8.send("*_Use on/off to enable/disable levelup!_*");
+      }
+    }
+  } catch (_0x5cf1d9) {
+    await _0x3a63b8.error(_0x5cf1d9 + "\n\nCommand: levelup ", _0x5cf1d9);
+  }
+});
+smd({
+  'cmdname': "profile",
+  'info': "Shows profile of user.",
+  'type': "level",
+  'use': "<@user>",
+  'filename': __filename
+}, async _0x1b6507 => {
+  try {
+    if (!global.isMongodb) {
+      return await _0x1b6507.reply(_0x1b6507.isCreator ? "*_Add MONGODB_URI to use these cmds_*" : "*_Please ask my Owner to add MONGODB_URI!_*");
+    }
+    let _0x4ce12d = _0x1b6507.sender;
+    if (_0x1b6507.isCreator) {
+      _0x4ce12d = _0x1b6507.reply_message ? _0x1b6507.reply_message.sender : _0x1b6507.mentionedJid[0x0] ? _0x1b6507.mentionedJid[0x0] : _0x1b6507.sender || _0x1b6507.sender;
+    }
+    var _0x61b45b = await _0x1b6507.bot.fetchStatus(_0x4ce12d);
+    var _0xbfb04f = _0x61b45b.status;
+    const _0x312622 = await Levels.fetch(_0x4ce12d, "RandomXP");
+    const _0xaa5a42 = _0x312622.level;
+    var _0x2c9662 = "GOD✨";
+    if (_0xaa5a42 <= 0x2) {
+      var _0x2c9662 = "🏳Citizen";
+    } else {
+      if (_0xaa5a42 <= 0x4) {
+        var _0x2c9662 = "👼Baby Wizard";
+      } else {
+        if (_0xaa5a42 <= 0x6) {
+          var _0x2c9662 = '🧙‍♀️Wizard';
+        } else {
+          if (_0xaa5a42 <= 0x8) {
+            var _0x2c9662 = "🧙‍♂️Wizard Lord";
+          } else {
+            if (_0xaa5a42 <= 0xa) {
+              var _0x2c9662 = "🧚🏻Baby Mage";
+            } else {
+              if (_0xaa5a42 <= 0xc) {
+                var _0x2c9662 = "🧜Mage";
+              } else {
+                if (_0xaa5a42 <= 0xe) {
+                  var _0x2c9662 = "🧜‍♂️Master of Mage";
+                } else {
+                  if (_0xaa5a42 <= 0x10) {
+                    var _0x2c9662 = "🌬Child of Nobel";
+                  } else {
+                    if (_0xaa5a42 <= 0x12) {
+                      var _0x2c9662 = "❄Nobel";
+                    } else {
+                      if (_0xaa5a42 <= 0x14) {
+                        var _0x2c9662 = "⚡Speed of Elite";
+                      } else {
+                        if (_0xaa5a42 <= 0x16) {
+                          var _0x2c9662 = "🎭Elite";
+                        } else {
+                          if (_0xaa5a42 <= 0x18) {
+                            var _0x2c9662 = "🥇Ace I";
+                          } else {
+                            if (_0xaa5a42 <= 0x1a) {
+                              var _0x2c9662 = "🥈Ace II";
+                            } else {
+                              if (_0xaa5a42 <= 0x1c) {
+                                var _0x2c9662 = "🥉Ace Master";
+                              } else {
+                                if (_0xaa5a42 <= 0x1e) {
+                                  var _0x2c9662 = "🎖Ace Dominator";
+                                } else {
+                                  if (_0xaa5a42 <= 0x20) {
+                                    var _0x2c9662 = "🏅Ace Elite";
+                                  } else {
+                                    if (_0xaa5a42 <= 0x22) {
+                                      var _0x2c9662 = "🏆Ace Supreme";
+                                    } else {
+                                      if (_0xaa5a42 <= 0x24) {
+                                        var _0x2c9662 = "💍Supreme I";
+                                      } else {
+                                        if (_0xaa5a42 <= 0x26) {
+                                          var _0x2c9662 = "💎Supreme Ii";
+                                        } else {
+                                          if (_0xaa5a42 <= 0x28) {
+                                            var _0x2c9662 = "🔮Supreme Master";
+                                          } else {
+                                            if (_0xaa5a42 <= 0x2a) {
+                                              var _0x2c9662 = "🛡Legend III";
+                                            } else {
+                                              if (_0xaa5a42 <= 0x2c) {
+                                                var _0x2c9662 = "🏹Legend II";
+                                              } else {
+                                                if (_0xaa5a42 <= 0x2e) {
+                                                  var _0x2c9662 = "⚔Legend";
+                                                } else {
+                                                  if (_0xaa5a42 <= 0x37) {
+                                                    var _0x2c9662 = "🐉Immortal";
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    let _0x36ee8f = _0x312622.xp / 0x8;
+    var _0x36db6f;
+    try {
+      _0x36db6f = await _0x1b6507.bot.profilePictureUrl(_0x4ce12d, "image");
+    } catch {
+      _0x36db6f = await botpic();
+    }
+    var _0x4f13a9;
+    try {
+      _0x4f13a9 = await _0x1b6507.bot.getName(_0x4ce12d);
+    } catch {}
+    const _0x52d0f5 = "\n*Hii " + _0x4f13a9 + ",*\n*Here is your profile information*\n*👤Username:* " + _0x4f13a9 + "\n*⚡Bio:* " + _0xbfb04f + "\n*🧩Role:* " + _0x2c9662 + "\n*🍁Level:* " + _0x312622.level + "\n*📥Total Messages* " + _0x36ee8f + "\n*Powered by " + tlang().title + "*\n";
+    w;
+    _0x1b6507.bot.sendMessage(_0x1b6507.chat, {
+      'image': {
+        'url': _0x36db6f
+      },
+      'caption': _0x52d0f5
+    }, {
+      'quoted': _0x1b6507
+    });
+  } catch (_0x1d1bd9) {
+    await _0x1b6507.error(_0x1d1bd9 + "\n\ncommand: tagall", _0x1d1bd9, "*Can't fetch data,please check mongodb!!*");
+  }
+});
+smd({
+  'cmdname': "rank",
+  'info': "Sends rank card of user.",
+  'type': 'level',
+  'use': '<@user>',
+  'filename': __filename
+}, async _0x3950d4 => {
+  try {
+    if (!global.isMongodb) {
+      return await _0x3950d4.reply(_0x3950d4.isCreator ? "*_Please add MONGODB_URI to use this feature_*" : "*_Please ask my Owner to add MONGODB_URI!_*");
+    }
+    let _0x192feb = _0x3950d4.sender;
+    if (_0x3950d4.isCreator) {
+      _0x192feb = _0x3950d4.reply_message ? _0x3950d4.reply_message.sender : _0x3950d4.mentionedJid[0x0] ? _0x3950d4.mentionedJid[0x0] : _0x3950d4.sender || _0x3950d4.sender;
+    }
+    const _0x46cfc3 = await Levels.fetch(_0x192feb, 'RandomXP');
+    const _0x157f5e = _0x46cfc3.level;
+    var _0x350ad2 = "GOD✨";
+    if (_0x157f5e <= 0x2) {
+      var _0x350ad2 = "🏳Citizen";
+    } else {
+      if (_0x157f5e <= 0x4) {
+        var _0x350ad2 = "👼Baby Wizard";
+      } else {
+        if (_0x157f5e <= 0x6) {
+          var _0x350ad2 = "🧙‍♀️Wizard";
+        } else {
+          if (_0x157f5e <= 0x8) {
+            var _0x350ad2 = "🧙‍♂️Wizard Lord";
+          } else {
+            if (_0x157f5e <= 0xa) {
+              var _0x350ad2 = "🧚🏻Baby Mage";
+            } else {
+              if (_0x157f5e <= 0xc) {
+                var _0x350ad2 = "🧜Mage";
+              } else {
+                if (_0x157f5e <= 0xe) {
+                  var _0x350ad2 = "🧜‍♂️Master of Mage";
+                } else {
+                  if (_0x157f5e <= 0x10) {
+                    var _0x350ad2 = "🌬Child of Nobel";
+                  } else {
+                    if (_0x157f5e <= 0x12) {
+                      var _0x350ad2 = "❄Nobel";
+                    } else {
+                      if (_0x157f5e <= 0x14) {
+                        var _0x350ad2 = "⚡Speed of Elite";
+                      } else {
+                        if (_0x157f5e <= 0x16) {
+                          var _0x350ad2 = "🎭Elite";
+                        } else {
+                          if (_0x157f5e <= 0x18) {
+                            var _0x350ad2 = "🥇Ace I";
+                          } else {
+                            if (_0x157f5e <= 0x1a) {
+                              var _0x350ad2 = "🥈Ace II";
+                            } else {
+                              if (_0x157f5e <= 0x1c) {
+                                var _0x350ad2 = "🥉Ace Master";
+                              } else {
+                                if (_0x157f5e <= 0x1e) {
+                                  var _0x350ad2 = "🎖Ace Dominator";
+                                } else {
+                                  if (_0x157f5e <= 0x20) {
+                                    var _0x350ad2 = "🏅Ace Elite";
+                                  } else {
+                                    if (_0x157f5e <= 0x22) {
+                                      var _0x350ad2 = "🏆Ace Supreme";
+                                    } else {
+                                      if (_0x157f5e <= 0x24) {
+                                        var _0x350ad2 = "💍Supreme I";
+                                      } else {
+                                        if (_0x157f5e <= 0x26) {
+                                          var _0x350ad2 = "💎Supreme Ii";
+                                        } else {
+                                          if (_0x157f5e <= 0x28) {
+                                            var _0x350ad2 = "🔮Supreme Master";
+                                          } else {
+                                            if (_0x157f5e <= 0x2a) {
+                                              var _0x350ad2 = "🛡Legend III";
+                                            } else {
+                                              if (_0x157f5e <= 0x2c) {
+                                                var _0x350ad2 = "🏹Legend II";
+                                              } else {
+                                                if (_0x157f5e <= 0x2e) {
+                                                  var _0x350ad2 = "⚔Legend";
+                                                } else {
+                                                  if (_0x157f5e <= 0x37) {
+                                                    var _0x350ad2 = "🐉Immortal";
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    let _0x14fd2a = _0x192feb.substring(0x3, 0x7);
+    var _0x23616a;
+    try {
+      _0x23616a = await _0x3950d4.bot.profilePictureUrl(_0x192feb, 'image');
+    } catch {
+      _0x23616a = THUMB_IMAGE;
+    }
+    var _0x56663f;
+    try {
+      _0x56663f = await _0x3950d4.bot.getName(_0x192feb);
+    } catch {}
+    let _0x279edb = _0x46cfc3.xp / 0x8;
+    var _0xa998c6 = "*Hii " + tlang().greet + " ,🌟 " + (_0x56663f || "Sir_") + '∆' + _0x14fd2a + "'s* Exp\n\n\n*🌟Role*: " + _0x350ad2 + "\n*🟢Exp*: " + _0x46cfc3.xp + " / " + Levels.xpFor(_0x46cfc3.level + 0x1) + "\n*🏡Level*: " + _0x46cfc3.level + "\n*Total Messages:*- " + _0x279edb + "\n";
+    await _0x3950d4.bot.sendMessage(_0x3950d4.chat, {
+      'image': {
+        'url': _0x23616a
+      },
+      'caption': _0xa998c6
+    }, {
+      'quoted': _0x3950d4
+    });
+  } catch (_0x1e648a) {
+    await _0x3950d4.error(_0x1e648a + "\n\ncommand: leaderboard", _0x1e648a, "*Can't fetch data, make sure MONGODB_URI added!!*");
+  }
+});
+smd({
+  'cmdname': "leaderboard",
+  'alias': ["deck"],
+  'info': "To check leaderboard",
+  'type': "level",
+  'use': "<@user>",
+  'filename': __filename
+}, async _0x3c3c17 => {
+  try {
+    if (!global.isMongodb) {
+      return await _0x3c3c17.reply(_0x3c3c17.isCreator ? "*_Add MONGODB_URI to use these cmds_*" : "*_Please ask my Owner to add MONGODB_URI!_*");
+    }
+    const _0x479873 = await Levels.fetchLeaderboard("RandomXP", 0x5);
+    let _0x211c10 = "\n*-------------------------------*\n*----● LeaderBoard ● -----*\n*-------------------------------*\n\n\n";
+    for (let _0x4bd5ee = 0x0; _0x4bd5ee < _0x479873.length; _0x4bd5ee++) {
+      const _0x54a708 = _0x479873[_0x4bd5ee].level;
+      var _0x5e70f2 = 'GOD✨';
+      if (_0x54a708 <= 0x2) {
+        var _0x5e70f2 = '🏳Citizen';
+      } else {
+        if (_0x54a708 <= 0x4) {
+          var _0x5e70f2 = "👼Baby Wizard";
+        } else {
+          if (_0x54a708 <= 0x6) {
+            var _0x5e70f2 = "🧙‍♀️Wizard";
+          } else {
+            if (_0x54a708 <= 0x8) {
+              var _0x5e70f2 = "🧙‍♂️Wizard Lord";
+            } else {
+              if (_0x54a708 <= 0xa) {
+                var _0x5e70f2 = "🧚🏻Baby Mage";
+              } else {
+                if (_0x54a708 <= 0xc) {
+                  var _0x5e70f2 = '🧜Mage';
+                } else {
+                  if (_0x54a708 <= 0xe) {
+                    var _0x5e70f2 = "🧜‍♂️Master of Mage";
+                  } else {
+                    if (_0x54a708 <= 0x10) {
+                      var _0x5e70f2 = "🌬Child of Nobel";
+                    } else {
+                      if (_0x54a708 <= 0x12) {
+                        var _0x5e70f2 = '❄Nobel';
+                      } else {
+                        if (_0x54a708 <= 0x14) {
+                          var _0x5e70f2 = "⚡Speed of Elite";
+                        } else {
+                          if (_0x54a708 <= 0x16) {
+                            var _0x5e70f2 = '🎭Elite';
+                          } else {
+                            if (_0x54a708 <= 0x18) {
+                              var _0x5e70f2 = "🥇Ace I";
+                            } else {
+                              if (_0x54a708 <= 0x1a) {
+                                var _0x5e70f2 = "🥈Ace II";
+                              } else {
+                                if (_0x54a708 <= 0x1c) {
+                                  var _0x5e70f2 = "🥉Ace Master";
+                                } else {
+                                  if (_0x54a708 <= 0x1e) {
+                                    var _0x5e70f2 = "🎖Ace Dominator";
+                                  } else {
+                                    if (_0x54a708 <= 0x20) {
+                                      var _0x5e70f2 = "🏅Ace Elite";
+                                    } else {
+                                      if (_0x54a708 <= 0x22) {
+                                        var _0x5e70f2 = "🏆Ace Supreme";
+                                      } else {
+                                        if (_0x54a708 <= 0x24) {
+                                          var _0x5e70f2 = "💍Supreme I";
+                                        } else {
+                                          if (_0x54a708 <= 0x26) {
+                                            var _0x5e70f2 = "💎Supreme Ii";
+                                          } else {
+                                            if (_0x54a708 <= 0x28) {
+                                              var _0x5e70f2 = "🔮Supreme Master";
+                                            } else {
+                                              if (_0x54a708 <= 0x2a) {
+                                                var _0x5e70f2 = "🛡Legend III";
+                                              } else {
+                                                if (_0x54a708 <= 0x2c) {
+                                                  var _0x5e70f2 = "🏹Legend II";
+                                                } else {
+                                                  if (_0x54a708 <= 0x2e) {
+                                                    var _0x5e70f2 = '⚔Legend';
+                                                  } else {
+                                                    if (_0x54a708 <= 0x37) {
+                                                      var _0x5e70f2 = "🐉Immortal";
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      var _0x1d68cc;
+      try {
+        _0x1d68cc = await _0x3c3c17.bot.getName(_0x479873[_0x4bd5ee].userID);
+      } catch {
+        _0x1d68cc = _0x479873[_0x4bd5ee].userID?.["split"]('@')[0x0] || "Unknown";
+      }
+      _0x211c10 += '*' + (_0x4bd5ee + 0x1) + "●Name*: " + _0x1d68cc + "\n*●Level*: " + _0x479873[_0x4bd5ee].level + "\n*●Points*: " + _0x479873[_0x4bd5ee].xp + "\n*●Role*: " + _0x5e70f2 + "\n*●Total messages*: " + _0x479873[_0x4bd5ee].xp / 0x8 + "\n\n";
+    }
+    await _0x3c3c17.reply(_0x211c10);
+  } catch (_0x525702) {
+    await _0x3c3c17.error(_0x525702 + "\n\ncommand: leaderboard", _0x525702, "*Can't fetch data, make sure MONGODB_URI added!!*");
+  }
+});
+smd({
+  'on': "text"
+}, async _0x30147d => {
+  try {
+    if (!bots || utd) {
+      bots = await bot_.findOne({
+        'id': 'bot_' + msg.user
+      });
+      utd = false;
+    }
+    if (!bots || !global.isMongodb) {
+      return;
+    }
+    const _0xcc8fb = await Levels.appendXp(_0x30147d.sender, "RandomXP", 0x8);
+    if (_0xcc8fb) {
+      const _0x347e63 = await Levels.fetch(_0x30147d.sender, "RandomXP");
+      const _0x46412b = _0x347e63.level;
+      var _0xd20156 = "GOD";
+      if (_0x46412b <= 0x2) {
+        var _0xd20156 = '🏳Citizen';
+      } else {
+        if (_0x46412b <= 0x4) {
+          var _0xd20156 = "👼Baby Wizard";
+        } else {
+          if (_0x46412b <= 0x6) {
+            var _0xd20156 = "🧙‍♀️Wizard";
+          } else {
+            if (_0x46412b <= 0x8) {
+              var _0xd20156 = "🧙‍♂️Wizard Lord";
+            } else {
+              if (_0x46412b <= 0xa) {
+                var _0xd20156 = "🧚🏻Baby Mage";
+              } else {
+                if (_0x46412b <= 0xc) {
+                  var _0xd20156 = "🧜Mage";
+                } else {
+                  if (_0x46412b <= 0xe) {
+                    var _0xd20156 = "🧜‍♂️Master of Mage";
+                  } else {
+                    if (_0x46412b <= 0x10) {
+                      var _0xd20156 = "🌬Child of Nobel";
+                    } else {
+                      if (_0x46412b <= 0x12) {
+                        var _0xd20156 = "❄Nobel";
+                      } else {
+                        if (_0x46412b <= 0x14) {
+                          var _0xd20156 = "⚡Speed of Elite";
+                        } else {
+                          if (_0x46412b <= 0x16) {
+                            var _0xd20156 = "🎭Elite";
+                          } else {
+                            if (_0x46412b <= 0x18) {
+                              var _0xd20156 = "🥇Ace I";
+                            } else {
+                              if (_0x46412b <= 0x1a) {
+                                var _0xd20156 = "🥈Ace II";
+                              } else {
+                                if (_0x46412b <= 0x1c) {
+                                  var _0xd20156 = "🥉Ace Master";
+                                } else {
+                                  if (_0x46412b <= 0x1e) {
+                                    var _0xd20156 = "🎖Ace Dominator";
+                                  } else {
+                                    if (_0x46412b <= 0x20) {
+                                      var _0xd20156 = "🏅Ace Elite";
+                                    } else {
+                                      if (_0x46412b <= 0x22) {
+                                        var _0xd20156 = "🏆Ace Supreme";
+                                      } else {
+                                        if (_0x46412b <= 0x24) {
+                                          var _0xd20156 = "💍Supreme I";
+                                        } else {
+                                          if (_0x46412b <= 0x26) {
+                                            var _0xd20156 = "💎Supreme Ii";
+                                          } else {
+                                            if (_0x46412b <= 0x28) {
+                                              var _0xd20156 = "🔮Supreme Master";
+                                            } else {
+                                              if (_0x46412b <= 0x2a) {
+                                                var _0xd20156 = "🛡Legend III";
+                                              } else {
+                                                if (_0x46412b <= 0x2c) {
+                                                  var _0xd20156 = "🏹Legend II";
+                                                } else {
+                                                  if (_0x46412b <= 0x2e) {
+                                                    var _0xd20156 = "⚔Legend";
+                                                  } else {
+                                                    if (_0x46412b <= 0x37) {
+                                                      var _0xd20156 = "🐉Immortal";
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      if (bots.levelup && bots.levelup === "true") {
+        await _0x30147d.bot.sendUi(_0x30147d.chat, {
+          'caption': "\n╔════⪨\n║ *Wow,Someone just*\n║ *leveled Up huh⭐*\n║ *👤Name*: " + _0x30147d.pushName + "\n║ *🎐Level*: " + _0x347e63.level + "🍭\n║ *🛑Exp*: " + _0x347e63.xp + " / " + Levels.xpFor(_0x347e63.level + 0x1) + "\n║ *📍Role*: *" + _0xd20156 + "*\n║ *Enjoy🥳*\n╚════════════⪨ "
+        }, {
+          'quoted': _0x30147d
+        });
+      }
+    }
+  } catch {}
+});

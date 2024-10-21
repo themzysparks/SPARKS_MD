@@ -1,26 +1,136 @@
 /*
-▄▀█ █▄░█ █ ▀█▀ ▄▀█
-█▀█ █░▀█ █ ░█░ █▀█
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                                      //
+//                              ＭＹ ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ                                             // 
+//                                                                                                      // 
+//                                         Ｖ：１．０                                                    // 
+//                                                                                                      // 
+//                                                                                                      //
+//         ░██████╗██████╗░░█████╗░██████╗░██╗░░██╗░██████╗                                             //
+//        ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝                                             //
+//        ╚█████╗░██████╔╝███████║██████╔╝█████═╝░╚█████╗░                                             //
+//        ░╚═══██╗██╔═══╝░██╔══██║██╔══██╗██╔═██╗░░╚═══██╗                                             //
+//        ██████╔╝██║░░░░░██║░░██║██║░░██║██║░╚██╗██████╔╝                                             //
+//        ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░                                             //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 *
-   * @project_name : ANITA
-   * @author : CODERXSA
-   * @youtube : https://www.youtube.com/@coderxsa
-   * @instagram : https://www.instagram.com/coderx.sa
-   * @description : My Private build i made public for everone to use and easy hosting.
-   * @version : 1.0.3
-   * Donation : https://pay.yoco.com/coderx
+   * @project_name : SPARKS_MD
+   * @author : SPARKS
+   * @youtube : https://youtube.com/@cyberwithsparks
+   * @instagram : https://www.instagram.com/sparksthemzy
+   * @description : My private build made public for everyone to use with easy hosting.
+   * @version : 1.0
+   * Donation : https://paystack.com/pay/sparks_md_donation
    
-   * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+   * I update my GitHub bots when I have time, focusing mainly on key projects.
 *
-   * Licensed under the  GPL-3.0 License;
+   * Licensed under the GPL-3.0 License;
 * 
-   * Created By CODERX.
-   * © 2024 ANITA.
+   * Created By SPARKS.
+   * © 2024 SPARKS TECH SOLUTIONS.
 */
 
 
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-const _0x14c4da=_0x2ae4;(function(_0x3829ff,_0x11078f){const _0x2a0eb7=_0x2ae4,_0x39c64d=_0x3829ff();while(!![]){try{const _0x4afd3f=-parseInt(_0x2a0eb7(0x165))/0x1*(-parseInt(_0x2a0eb7(0x13d))/0x2)+parseInt(_0x2a0eb7(0x142))/0x3*(-parseInt(_0x2a0eb7(0x16c))/0x4)+parseInt(_0x2a0eb7(0x16f))/0x5*(-parseInt(_0x2a0eb7(0x15a))/0x6)+-parseInt(_0x2a0eb7(0x169))/0x7*(-parseInt(_0x2a0eb7(0x164))/0x8)+-parseInt(_0x2a0eb7(0x13b))/0x9+parseInt(_0x2a0eb7(0x15c))/0xa*(parseInt(_0x2a0eb7(0x146))/0xb)+-parseInt(_0x2a0eb7(0x154))/0xc;if(_0x4afd3f===_0x11078f)break;else _0x39c64d['push'](_0x39c64d['shift']());}catch(_0x154986){_0x39c64d['push'](_0x39c64d['shift']());}}}(_0x1dcc,0x34229));function _0x1dcc(){const _0x3113ca=['VERSION','Update\x20Detected,\x20trying\x20to\x20update\x20your\x20bot!','syncgit','\x0a\x0aCommand:\x20updatenow','HEROKU\x20:\x20checking\x20for\x20auto\x20update!','https://','\x20\x0a*UPDATE\x20RUNNING*\x0a\x09','tools','*UPDATE\x20SUCCESS*','\x0a\x0aCommand:\x20update','replace','jid','1783704tzxChW','addRemote','ERROR!','HEROKU_API_KEY','Shows\x20repo\x27s\x20refreshed\x20commits.','log','6aJUQaB','checkupdate','2170200nKPJDj','Can\x27t\x20Update,\x20Request\x20Denied!','main','fetch','*`BOT\x20UPDATED`*\x0a*RESTART\x20YOUR\x20BOT\x20FOR\x20UPDATE\x20TO\x20TAKE\x20EFFECT*','git_url','../lib','botname','21624tgRCMS','1pBhSLM','\x20IS\x20ON\x20IT\x27S\x20LATEST\x20VERSION','HEROKU_APP_NAME','get','686ioqasa','heroku','total','4RYDkuf','simple-git','bot','272485GLSOiM','/apps/','heroku-client','UPDATED\x20YOUR\x20DEPLOYEMENT','[\x20start\x20]','../lib/scraper','1913931hOKPEo','chat','431374ntlPpz','Heroku\x20remote\x20adding\x20error','Bot\x20updated.\x20Restarting.','sync','env','204774nwpQpK','push','https://api:','reply','11pDbOrV','reset'];_0x1dcc=function(){return _0x3113ca;};return _0x1dcc();}const DB=require(_0x14c4da(0x174)),{Config,smd}=require(_0x14c4da(0x162)),simpleGit=require(_0x14c4da(0x16d)),git=simpleGit();function _0x2ae4(_0x59a5f9,_0x3520a6){const _0x1dcca4=_0x1dcc();return _0x2ae4=function(_0x2ae44b,_0x368538){_0x2ae44b=_0x2ae44b-0x13b;let _0x3c383e=_0x1dcca4[_0x2ae44b];return _0x3c383e;},_0x2ae4(_0x59a5f9,_0x3520a6);}try{const Heroku=require(_0x14c4da(0x171));async function updateHerokuApp(){const _0x25fc77=_0x14c4da;try{const _0x42a720=new Heroku({'token':process[_0x25fc77(0x141)][_0x25fc77(0x157)]});await git[_0x25fc77(0x15f)]();const _0x2f344b=await git[_0x25fc77(0x159)](['main..origin/main']);if(_0x2f344b[_0x25fc77(0x16b)]===0x0)return Config[_0x25fc77(0x163)]+_0x25fc77(0x166);else{console[_0x25fc77(0x159)](_0x25fc77(0x149));const _0x420fab=await _0x42a720[_0x25fc77(0x168)](_0x25fc77(0x170)+process[_0x25fc77(0x141)][_0x25fc77(0x167)]),_0x1edf7a=_0x420fab[_0x25fc77(0x161)][_0x25fc77(0x152)](_0x25fc77(0x14d),_0x25fc77(0x144)+process['env']['HEROKU_API_KEY']+'@');try{await git[_0x25fc77(0x155)]('heroku',_0x1edf7a);}catch(_0x16983f){print(_0x25fc77(0x13e),_0x16983f);}return await git[_0x25fc77(0x143)](_0x25fc77(0x16a),_0x25fc77(0x15e)),_0x25fc77(0x13f);}}catch(_0x5ba6cd){return print(_0x5ba6cd),_0x25fc77(0x15d);}}smd({'pattern':_0x14c4da(0x15b),'desc':_0x14c4da(0x158),'category':_0x14c4da(0x14f),'fromMe':!![],'react':'🍂','filename':__filename,'use':process[_0x14c4da(0x141)][_0x14c4da(0x157)]?_0x14c4da(0x173):''},async(_0xd6d080,_0x29f01f)=>{const _0x3b95ee=_0x14c4da;try{let _0x12825c=await DB[_0x3b95ee(0x14a)]();if(_0x12825c[_0x3b95ee(0x16b)]===0x0)return await _0xd6d080[_0x3b95ee(0x145)]('*ANITA\x20IS\x20RUNNING\x20ON\x20LATEST\x0aPATCHES\x0aFIXESUPGRADES*');let _0xbcf0dd=await DB['sync']();await _0xd6d080['bot']['sendMessage'](_0xd6d080[_0x3b95ee(0x13c)],{'text':_0xbcf0dd['replace'](/SuhailTechIMd/,'ANITA')},{'quoted':_0xd6d080});if(_0x29f01f=='start'&&process[_0x3b95ee(0x141)][_0x3b95ee(0x167)]&&process[_0x3b95ee(0x141)][_0x3b95ee(0x157)]){_0xd6d080['reply']('Build\x20started...');const _0x343cf5=await updateHerokuApp();return await _0xd6d080[_0x3b95ee(0x145)](_0x343cf5);}}catch(_0x4e5428){_0xd6d080['error'](_0x4e5428+_0x3b95ee(0x151),_0x4e5428,_0x3b95ee(0x156));}}),smd({'pattern':'update','desc':process[_0x14c4da(0x141)]['HEROKU_API_KEY']?_0x14c4da(0x150):_0x14c4da(0x172),'fromMe':!![],'category':_0x14c4da(0x14f),'filename':__filename},async _0x334ae6=>{const _0x4c31e9=_0x14c4da;try{let _0x41f012=await DB[_0x4c31e9(0x14a)]();if(_0x41f012[_0x4c31e9(0x16b)]===0x0)return await _0x334ae6[_0x4c31e9(0x145)]('*'+Config[_0x4c31e9(0x148)]+'\x20IS\x20Updating*');let _0x30006a=await DB[_0x4c31e9(0x140)](),_0x278e8d=_0x4c31e9(0x14e)+_0x30006a+'*';await _0x334ae6[_0x4c31e9(0x16e)]['sendMessage'](_0x334ae6[_0x4c31e9(0x153)],{'text':_0x278e8d}),await require(_0x4c31e9(0x16d))()[_0x4c31e9(0x147)]('hard',['HEAD']),await require(_0x4c31e9(0x16d))()['pull'](),await _0x334ae6['reply'](process[_0x4c31e9(0x141)]['HEROKU_APP_NAME']&&process[_0x4c31e9(0x141)][_0x4c31e9(0x157)]?_0x4c31e9(0x160):'```*Successfully\x20updated.\x20Now\x20You\x20Have\x20Latest\x20Version\x20Installed!*');}catch(_0x335fcc){_0x334ae6['error'](_0x335fcc+_0x4c31e9(0x14b),_0x335fcc,_0x4c31e9(0x156));}}),process[_0x14c4da(0x141)][_0x14c4da(0x157)]&&(print(_0x14c4da(0x14c)),updateHerokuApp());}catch(_0x5f93e7){}
+const DB = require("../lib/scraper");
+const {
+  Config,
+  smd
+} = require("../lib");
+const simpleGit = require("simple-git");
+const git = simpleGit();
+try {
+  const Heroku = require("heroku-client");
+  async function updateHerokuApp() {
+    try {
+      const _0x42a720 = new Heroku({
+        'token': process.env.HEROKU_API_KEY
+      });
+      await git.fetch();
+      const _0x2f344b = await git.log(['main..origin/main']);
+      if (_0x2f344b.total === 0x0) {
+        return Config.botname + " IS ON IT'S LATEST VERSION";
+      } else {
+        console.log("Update Detected, trying to update your bot!");
+        const _0x420fab = await _0x42a720.get("/apps/" + process.env.HEROKU_APP_NAME);
+        const _0x1edf7a = _0x420fab.git_url.replace("https://", "https://api:" + process.env.HEROKU_API_KEY + '@');
+        try {
+          await git.addRemote('heroku', _0x1edf7a);
+        } catch (_0x16983f) {
+          print("Heroku remote adding error", _0x16983f);
+        }
+        await git.push("heroku", "main");
+        return "Bot updated. Restarting.";
+      }
+    } catch (_0x5ba6cd) {
+      print(_0x5ba6cd);
+      return "Can't Update, Request Denied!";
+    }
+  }
+  smd({
+    'pattern': "checkupdate",
+    'desc': "Shows repo's refreshed commits.",
+    'category': "tools",
+    'fromMe': true,
+    'react': '🍂',
+    'filename': __filename,
+    'use': process.env.HEROKU_API_KEY ? "[ start ]" : ''
+  }, async (_0xd6d080, _0x29f01f) => {
+    try {
+      let _0x12825c = await DB.syncgit();
+      if (_0x12825c.total === 0x0) {
+        return await _0xd6d080.reply("*ANITA IS RUNNING ON LATEST\nPATCHES\nFIXESUPGRADES*");
+      }
+      let _0xbcf0dd = await DB.sync();
+      await _0xd6d080.bot.sendMessage(_0xd6d080.chat, {
+        'text': _0xbcf0dd.replace(/SuhailTechIMd/, 'ANITA')
+      }, {
+        'quoted': _0xd6d080
+      });
+      if (_0x29f01f == 'start' && process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY) {
+        _0xd6d080.reply("Build started...");
+        const _0x343cf5 = await updateHerokuApp();
+        return await _0xd6d080.reply(_0x343cf5);
+      }
+    } catch (_0x4e5428) {
+      _0xd6d080.error(_0x4e5428 + "\n\nCommand: update", _0x4e5428, "ERROR!");
+    }
+  });
+  smd({
+    'pattern': 'update',
+    'desc': process.env.HEROKU_API_KEY ? "*UPDATE SUCCESS*" : "UPDATED YOUR DEPLOYEMENT",
+    'fromMe': true,
+    'category': "tools",
+    'filename': __filename
+  }, async _0x334ae6 => {
+    try {
+      let _0x41f012 = await DB.syncgit();
+      if (_0x41f012.total === 0x0) {
+        return await _0x334ae6.reply('*' + Config.VERSION + " IS Updating*");
+      }
+      let _0x30006a = await DB.sync();
+      let _0x278e8d = " \n*UPDATE RUNNING*\n\t" + _0x30006a + '*';
+      await _0x334ae6.bot.sendMessage(_0x334ae6.jid, {
+        'text': _0x278e8d
+      });
+      await require("simple-git")().reset('hard', ['HEAD']);
+      await require("simple-git")().pull();
+      await _0x334ae6.reply(process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY ? "*`BOT UPDATED`*\n*RESTART YOUR BOT FOR UPDATE TO TAKE EFFECT*" : "```*Successfully updated. Now You Have Latest Version Installed!*");
+    } catch (_0x335fcc) {
+      _0x334ae6.error(_0x335fcc + "\n\nCommand: updatenow", _0x335fcc, "ERROR!");
+    }
+  });
+  if (process.env.HEROKU_API_KEY) {
+    print("HEROKU : checking for auto update!");
+    updateHerokuApp();
+  }
+} catch (_0x5f93e7) {}

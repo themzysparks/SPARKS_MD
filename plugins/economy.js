@@ -1,26 +1,708 @@
 /*
-▄▀█ █▄░█ █ ▀█▀ ▄▀█
-█▀█ █░▀█ █ ░█░ █▀█
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                                      //
+//                              ＭＹ ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ                                             // 
+//                                                                                                      // 
+//                                         Ｖ：１．０                                                    // 
+//                                                                                                      // 
+//                                                                                                      //
+//         ░██████╗██████╗░░█████╗░██████╗░██╗░░██╗░██████╗                                             //
+//        ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝                                             //
+//        ╚█████╗░██████╔╝███████║██████╔╝█████═╝░╚█████╗░                                             //
+//        ░╚═══██╗██╔═══╝░██╔══██║██╔══██╗██╔═██╗░░╚═══██╗                                             //
+//        ██████╔╝██║░░░░░██║░░██║██║░░██║██║░╚██╗██████╔╝                                             //
+//        ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░                                             //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 *
-   * @project_name : ANITA
-   * @author : CODERXSA
-   * @youtube : https://www.youtube.com/@coderxsa
-   * @instagram : https://www.instagram.com/coderx.sa
-   * @description : My Private build i made public for everone to use and easy hosting.
-   * @version : 1.0.3
-   * Donation : https://pay.yoco.com/coderx
+   * @project_name : SPARKS_MD
+   * @author : SPARKS
+   * @youtube : https://youtube.com/@cyberwithsparks
+   * @instagram : https://www.instagram.com/sparksthemzy
+   * @description : My private build made public for everyone to use with easy hosting.
+   * @version : 1.0
+   * Donation : https://paystack.com/pay/sparks_md_donation
    
-   * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+   * I update my GitHub bots when I have time, focusing mainly on key projects.
 *
-   * Licensed under the  GPL-3.0 License;
+   * Licensed under the GPL-3.0 License;
 * 
-   * Created By CODERX.
-   * © 2024 ANITA.
+   * Created By SPARKS.
+   * © 2024 SPARKS TECH SOLUTIONS.
 */
 
 
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-function _0x3aad(){const _0x3cc489=['*What\x20are\x20you\x20trying\x20to\x20do📉*.','*What\x20are\x20you\x20trying\x20to\x20do👀*.','../config','https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/leftr.webp?raw=true','userID','🍀User:\x20','\x20wallet🛸.','*_You\x20need\x20to\x20pay\x20🪙100\x20to\x20increase\x20bank\x20capacity\x20~\x201000\x20sp_*','⛩️\x20User:\x20@','*👛\x20','6\x20:\x202\x20:\x207','mentionedJid','gamble\x20100\x20direction(left,right,up,down)','9tmWAXg','participant','*You\x20harvested\x20a\x20basket\x20of*\x0a\x0a_-->\x20🍎+🍎+🍎_','shows\x20wallet.','You\x20don\x27t\x20have\x20enough\x20💰amount\x20in\x20your👛\x20wallet.\x0a-\x20Please\x20don\x27t\x20provide\x20🤑amount.','getName','*🏧\x20Insufficient\x20fund\x20in\x20bank🫤*','\x0a*Small\x20Win\x20-->*\x20_🪙20_','127735bevcZT','*You\x20need\x20to\x20pay\x20🪙1000\x20to\x20increase\x20bank\x20capacity\x20~\x20100000\x20sp*','\x20🪙\x20for\x20today🎉.','_\x0a╰─────────────◆\x0a\x0a','\x0a\x0a\x20\x20\x20\x20\x20\x20','5\x20:\x202\x20:\x205','Baka!!\x20Provide\x20the\x20💰amount\x20you\x20want\x20to\x20deposit!','18932903iwWvqe','you\x20dont\x20have\x20sufficient\x20money\x20to\x20transfer👎','slot2','*📠\x20Transaction\x20successful\x20of\x20','\x20\x0a\x20*🧧\x20@','1000','6Esvypj','floor','\x20has\x20been\x20withdrawn\x20from\x20your\x20wallet💰._','connect','*Impressive,\x20You\x20must\x20be\x20a\x20specialist\x20in\x20plucking\x20coconuts*\x0a\x0a_-->\x20🥥+🥥+🥥_','down','slot\x20game.','\x20to\x20@','\x0a\x0a_🎊\x20JackPot\x20-->\x20_🪙1000_','log','Use\x20','\x0a*_Little\x20Jackpot\x20-->*\x20_🪙100_','help','4\x20:\x203\x20:\x202','rob\x20bank\x20amount.','_\x0a│\x20*Wallet:-*\x20_','\x0a*Small\x20Win\x20-->*\x20_🪙','check\x20your\x20text\x20plz\x20u\x20r\x20using\x20the\x20command\x20in\x20a\x20wrong\x20way👀','\x0a\x0acommand:\x20transfer','\x20🪙\x20from\x20wallet🥹.*','*Top\x20','you\x20claimed\x20daily\x20','*You\x20don\x27t\x20have\x20sufficient\x20🪙\x20Diamond\x20to\x20gamble\x20with*','bank','206428GDTgpS','noten','\x0a\x0acommand:\x20gamble','../lib','random','\x0a*_Little\x20Jackpot\x20-->*\x20_🪙','withdraw\x20money\x20from\x20bank\x20account.','Please\x20provide\x20direction(left,right,up,down).\x0aEg:-\x20','\x0a\x0acommand:\x20withdraw','*Please,\x20specify\x20the\x20amount\x20you\x20are\x20gambling\x20with!*',',\x20you\x20can\x20only\x20gamble\x20with\x20more\x20than\x20🪙50.*','left','💴\x20*Bank-capacity*\x20💳\x0a\x0a1\x20|\x20*1000\x20sp*\x20=\x20🪙100\x0a\x0a2\x20|\x20*100000\x20sp*\x20=\x20🪙1000\x0a\x0a3\x20|\x20*10000000\x20sp*\x20=\x20🪙10000000\x0a\x0aExample-\x20','senderName','\x0a\x0a*Big\x20Lose\x20-->*\x20_🪙50_','msg','\x0a\x0acommand:\x20slot','\x20in\x20your\x20wallet.','deposit','bankCapacity','Add\x20money\x20in\x20wallet.','daily\x20gold.','check\x20leaderboard.','\x0a\x0acommand:\x20capacity','\x0a\x0a_🪙','*You\x20suck\x20at\x20playing\x20this\x20game*\x0a\x0a_-->\x20🍍-🥥-🍎_','1\x20:\x202\x20:\x203','sender','6QsLVwj','1\x20:\x206\x20:\x203','update\x20capacity.','reset\x20wallet\x20of\x20quoted\x20user.','15pjCMzp','giveCapacity','*_Hey\x20Master,\x20only\x20my\x20owner\x20can\x20give\x20money!_*','\x0a\x0acommand:\x20bank','capacity','*Hmmm,\x20you\x20were\x20so\x20close\x20to\x20winning\x20Apples*\x0a\x0a_-->\x20🍎+🍎-🍍_','3\x20:\x205\x20:\x203','new','*Specify\x20the\x20direction\x20you\x20are\x20betting\x20on!*','Asta','\x20users\x20with\x20more\x20money\x20in\x20wallet.*\x0a','\x20\x20\x20\x20','_\x0a│\x20*User:-*\x20_@','*\x0a╭─────────────◆\x0a│\x20*Name:-*\x20_','trim','*Amazing,\x20you\x20are\x20going\x20to\x20be\x20making\x20pineapple\x20juice\x20for\x20the\x20family*\x0a\x0a_-->\x20🍍+🍍+🍍_','toLowerCase','daily','*Are\x20you\x20a\x20newbie?*\x0a\x0a_-->\x20🍎-🍍-🥥_','caught','1\x20:\x201\x20:\x201','1118823KGBKDW','isGroup','7094367ReWmOW','https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/downr.webp?raw=true','100000','\x27s\x20bank*','https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/rightr.webp?raw=true','\x20💰*','*Your\x20victim\x20escaped,\x20be\x20more\x20scary\x20next\x20time🫰.*','\x0a\x0a*Small\x20Win\x20-->*\x20_🪙','\x0a\x0a\x20\x20\x20\x20\x20','bot','pushName','Do\x20you\x20understand\x20what\x20you\x20are\x20doing?','6\x20:\x203\x20:\x202','contextInfo','slot\x20to\x20play\x0a\x0a*2:*\x20You\x20must\x20have\x20🪙100\x20in\x20your\x20wallet\x0a\x0a*3:*\x20If\x20you\x20don\x27t\x20have\x20money\x20in\x20wallet\x20then\x20👛withdraw\x20from\x20your\x20bank🏦\x0a\x0a*4:*\x20If\x20you\x20don\x27t\x20have\x20🤑\x20money\x20in\x20your\x20🏦bank\x20too\x20then\x20use\x20economy\x20features\x20to\x20📈gain\x20money','capacity\x201\x20OR\x20','*🤑\x20Robbery\x20operation\x20done\x20successfully.🗡️*\x0aYou\x20ran\x20with\x20','1\x20:\x205\x20:\x203','*You\x20can\x20only\x20play\x20this\x20game\x20during\x20weekends*\x0a\x0a*🌿\x20Friday*\x0a*🎏\x20Saturday*\x0a*🎐\x20Sunday*','give','Economy','*10000000\x20🪙diamond\x20storage\x20has\x20been\x20added\x20in\x20','\x20amount\x20in\x20your\x20wallet.','economy','\x0a\x0acommand:\x20wallet','wallet','transfer','14311024McypoJ','*1000\x20🪙diamond\x20storage\x20has\x20been\x20added\x20in\x20','\x20to\x20your\x20bank.Upgrade\x20your\x20bank\x20capacity\x20to\x20add\x20more\x20money📈.','right','balance','Please\x20give\x20me\x20user\x20to\x20rob.','⛩️\x20Sender:\x20','\x0a\x0acommand:\x20rob','shows\x20bank\x20amount.','deduct','getDay','*🎊\x20You\x20Just\x20hit\x20a\x20jackpot\x20worth\x20🪙1000*','length','\x0a\x0a*Big\x20Lose\x20-->*\x20_🪙','bankupgrade\x201000','*🚦Economy*\x20is\x20not\x20active\x20in\x20current\x20group.','\x20bank*','\x0a\x0acommand:\x20slot2','replace','4\x20:\x201\x20:\x207','sticker','\x0a\x0acommand:\x20daily','resetwallet','error','🧧\x20You\x20already\x20claimed\x20daily\x20for\x20today,\x20come\x20back\x20in\x20','5\x20:\x207\x20:\x202','*1:*\x20Use\x20','findOne','*1:*\x20Small\x20Win\x20-->\x20+🪙20\x0a\x0a*2:*\x20Small\x20Lose\x20-->\x20-🪙20\x0a\x0a*3:*\x20Big\x20Win\x20-->\x20+🪙100\x0a\x0a*4:*\x20Big\x20Lose\x20-->\x20-🪙50\x0a\x0a*5:*\x20🎉\x20JackPot\x20-->\x20+🪙1000','\x0a\x0acommand:\x20lb','🎰\x20Slot\x20Machine\x20Result\x0a\x20\x20\x20\x20\x20','\x27s\x20Purse:*\x0a\x0a_🪙','transfer\x20100\x20@user','\x0a🎰\x20Slot\x20Machine\x20Result\x0a\x20\x20\x20\x20\x20','*📉\x20You\x20lost\x20🪙','ran','reply','group','Connected\x20with\x20discord\x20economy!!','\x0a\x0a*Small\x20Lose\x20-->*\x20_🪙20_','isCreator','amount','*Sorry\x20FBI👮\x20caught\x20up\x20with\x20you,\x20you\x20paid\x20','*You\x20cannot\x20harvest\x20coconut\x20🥥\x20in\x20a\x20pineapple\x20🍍\x20farm*\x0a\x0a_-->\x20🍍>🥥<🍍_','transfer\x20gold.','split','Please\x20give\x20me\x20any\x20user🤦‍♂️.','\x0a\x0acommand:\x20give','false','chat','withdraw','*Provide\x20the\x20amount💰\x20you\x20want\x20to\x20withdraw💳!*','Added\x20📈\x20','You\x20are\x20going\x20to\x20be\x20spinning\x20on\x20your\x20wallet,\x20you\x20need\x20at\x20least\x20🪙100','rob','ANITA','*🎉\x20JaaackPooot!*\x0a\x0a_-->\x20🥥×🥥×🥥×🥥_','gamble\x20200\x20left','8956030EQYVaM'];_0x3aad=function(){return _0x3cc489;};return _0x3aad();}function _0x3f13(_0x5ae6ca,_0x48a838){const _0x3aadb4=_0x3aad();return _0x3f13=function(_0x3f138a,_0x490dbc){_0x3f138a=_0x3f138a-0x1ea;let _0x28077a=_0x3aadb4[_0x3f138a];return _0x28077a;},_0x3f13(_0x5ae6ca,_0x48a838);}const _0x1ebb9d=_0x3f13;(function(_0x120168,_0x3e3e98){const _0x32bc6c=_0x3f13,_0x38b9d3=_0x120168();while(!![]){try{const _0x49f96c=-parseInt(_0x32bc6c(0x269))/0x1+-parseInt(_0x32bc6c(0x2aa))/0x2*(-parseInt(_0x32bc6c(0x1fc))/0x3)+-parseInt(_0x32bc6c(0x28e))/0x4*(-parseInt(_0x32bc6c(0x2ae))/0x5)+-parseInt(_0x32bc6c(0x276))/0x6*(parseInt(_0x32bc6c(0x1fe))/0x7)+-parseInt(_0x32bc6c(0x219))/0x8*(parseInt(_0x32bc6c(0x261))/0x9)+parseInt(_0x32bc6c(0x253))/0xa+parseInt(_0x32bc6c(0x270))/0xb;if(_0x49f96c===_0x3e3e98)break;else _0x38b9d3['push'](_0x38b9d3['shift']());}catch(_0xbeaa4){_0x38b9d3['push'](_0x38b9d3['shift']());}}}(_0x3aad,0xea746));const {groupdb,smd,getBuffer,tlang,prefix}=require(_0x1ebb9d(0x291)),Config=require(_0x1ebb9d(0x256)),eco=require('discord-mongoose-economy');let ty=![];try{isMongodb&&(ty=eco[_0x1ebb9d(0x279)](mongodb),console['log'](_0x1ebb9d(0x23f)));}catch(_0x3a3a36){ty=![];}const sck=groupdb;ty&&(smd({'pattern':_0x1ebb9d(0x1f8),'desc':_0x1ebb9d(0x2a3),'category':_0x1ebb9d(0x215),'filename':__filename},async({reply:_0x26cb72,chat:_0x2fa94e,isGroup:_0x332dfd,sender:_0x3c895e,error:_0x2a8c0c})=>{const _0x4b0dcc=_0x1ebb9d;try{let _0x2a3356=await sck[_0x4b0dcc(0x234)]({'id':_0x2fa94e})||{};if(_0x2a3356?.['economy']==_0x4b0dcc(0x249))return _0x26cb72(_0x4b0dcc(0x228));if(!_0x332dfd)return _0x26cb72(tlang()[_0x4b0dcc(0x23e)]);const _0x328dda=await eco[_0x4b0dcc(0x1f8)](_0x3c895e,_0x4b0dcc(0x250),0x1f4);if(_0x328dda['cd'])return await _0x26cb72(_0x4b0dcc(0x231)+_0x328dda['cdL']+'🫡');else _0x26cb72(_0x4b0dcc(0x28b)+_0x328dda[_0x4b0dcc(0x242)]+_0x4b0dcc(0x26b));}catch(_0x8b34e4){_0x2a8c0c(_0x8b34e4+_0x4b0dcc(0x22e),_0x8b34e4);}}),smd({'pattern':_0x1ebb9d(0x22f),'desc':_0x1ebb9d(0x2ad),'category':'economy','filename':__filename,'react':'💷'},async _0x550c5b=>{const _0x329d79=_0x1ebb9d;try{let _0x159575=await sck[_0x329d79(0x234)]({'id':_0x550c5b['chat']})||await sck['new']({'id':_0x550c5b[_0x329d79(0x24a)]}),_0x4f8515=_0x159575[_0x329d79(0x215)]||_0x329d79(0x249);if(_0x4f8515==_0x329d79(0x249))return _0x550c5b[_0x329d79(0x23d)](_0x329d79(0x228));if(!isCreator)return _0x550c5b[_0x329d79(0x23d)](tlang()['owner']);let _0x972d67=_0x550c5b['mentionedJid']?_0x550c5b['mentionedJid'][0x0]:_0x550c5b[_0x329d79(0x29d)][_0x329d79(0x20b)][_0x329d79(0x262)]||![];if(!_0x972d67)return _0x550c5b[_0x329d79(0x23d)]('Please\x20give\x20me\x20user.');const _0xf7f0a4=await eco[_0x329d79(0x21d)](_0x972d67,_0x329d79(0x250));return await eco[_0x329d79(0x222)](_0x972d67,_0x329d79(0x250),_0xf7f0a4[_0x329d79(0x217)]),await _0x550c5b[_0x329d79(0x23d)](_0x329d79(0x25c)+_0x972d67[_0x329d79(0x246)]('@')[0x0]+_0x329d79(0x274)+_0x972d67[_0x329d79(0x246)]('@')[0x0]+'\x20lost\x20all\x20🪙\x20in\x20wallet.*\x0a_Now\x20live\x20with\x20that\x20poverty.🫡_',{'mentions':[_0x972d67]});}catch(_0xc3541){_0x550c5b[_0x329d79(0x230)](_0xc3541+'\x0a\x0acommand:\x20resetwallet',_0xc3541);}}),smd({'pattern':_0x1ebb9d(0x1eb),'desc':_0x1ebb9d(0x2ac),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async(_0x8dd0cb,_0x5b3dc5)=>{const _0x5c41ce=_0x1ebb9d;try{let _0x3dafd8=await sck[_0x5c41ce(0x234)]({'id':_0x8dd0cb[_0x5c41ce(0x24a)]})||await sck[_0x5c41ce(0x1ee)]({'id':_0x8dd0cb[_0x5c41ce(0x24a)]}),_0x268f00=_0x3dafd8[_0x5c41ce(0x215)]||_0x5c41ce(0x249);if(_0x268f00=='false')return _0x8dd0cb['reply'](_0x5c41ce(0x228));if(!_0x8dd0cb[_0x5c41ce(0x1fd)])return _0x8dd0cb[_0x5c41ce(0x23d)](tlang()[_0x5c41ce(0x23e)]);if(!_0x5b3dc5)return _0x8dd0cb[_0x5c41ce(0x23d)](_0x5c41ce(0x29a)+prefix+_0x5c41ce(0x20d)+prefix+_0x5c41ce(0x227));let _0x72714d=_0x8dd0cb[_0x5c41ce(0x25f)]?_0x8dd0cb[_0x5c41ce(0x25f)][0x0]:_0x8dd0cb[_0x5c41ce(0x29d)][_0x5c41ce(0x20b)][_0x5c41ce(0x262)]||![],_0x4956d2=_0x5b3dc5[_0x5c41ce(0x1f5)](),_0x5b4eed=parseInt(_0x4956d2);const _0xa891b9=await eco[_0x5c41ce(0x21d)](_0x72714d,'ANITA');switch(_0x4956d2){case _0x5c41ce(0x275):case'1':if(_0x5b4eed>_0xa891b9['wallet'])return _0x8dd0cb[_0x5c41ce(0x23d)](_0x5c41ce(0x25b));const _0xc9d8f2=await eco['deduct'](_0x72714d,'ANITA',0x64),_0x1fe3a1=eco[_0x5c41ce(0x2af)](_0x72714d,_0x5c41ce(0x250),0x3e8);return await _0x8dd0cb[_0x5c41ce(0x23d)](_0x5c41ce(0x21a)+_0x8dd0cb[_0x5c41ce(0x29b)]+_0x5c41ce(0x229));break;case _0x5c41ce(0x200):case'2':if(_0x5b4eed<_0xa891b9['wallet'])return _0x8dd0cb[_0x5c41ce(0x23d)](_0x5c41ce(0x26a));const _0x57cf66=await eco[_0x5c41ce(0x222)](_0x72714d,_0x5c41ce(0x250),0x3e8),_0x2c30ab=eco[_0x5c41ce(0x2af)](_0x72714d,'ANITA',0x186a0);return await _0x8dd0cb[_0x5c41ce(0x23d)]('*100000\x20🪙diamond\x20storage\x20has\x20been\x20added\x20in\x20'+_0x8dd0cb['pushName']+_0x5c41ce(0x229));break;case'10000000':case'3':if(_0x5b4eed<_0xa891b9[_0x5c41ce(0x217)])return _0x8dd0cb[_0x5c41ce(0x23d)]('You\x20need\x20to\x20pay\x20🪙10000\x20to\x20increase\x20bank\x20capacity\x20~\x201000\x20sp');const _0x21d38b=await eco[_0x5c41ce(0x222)](_0x72714d,_0x5c41ce(0x250),0x2710),_0x393612=eco[_0x5c41ce(0x2af)](_0x72714d,_0x5c41ce(0x250),0x989680);return await _0x8dd0cb[_0x5c41ce(0x23d)](_0x5c41ce(0x213)+_0x8dd0cb[_0x5c41ce(0x208)]+_0x5c41ce(0x201));break;default:await _0x8dd0cb[_0x5c41ce(0x23d)](_0x5c41ce(0x254));}}catch(_0x511a2e){_0x8dd0cb[_0x5c41ce(0x230)](_0x511a2e+_0x5c41ce(0x2a5),_0x511a2e);}}),smd({'pattern':_0x1ebb9d(0x2a0),'desc':'deposit\x20gold.','category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async(_0x622f40,_0x16d9dc)=>{const _0x4156eb=_0x1ebb9d;try{let _0x3bb9c0=await sck['findOne']({'id':_0x622f40[_0x4156eb(0x24a)]})||{},_0x225b49=_0x3bb9c0[_0x4156eb(0x215)]||'false';if(_0x225b49=='false')return _0x622f40[_0x4156eb(0x23d)](_0x4156eb(0x228));if(!_0x16d9dc)return _0x622f40[_0x4156eb(0x23d)](_0x4156eb(0x26f));let _0x41644d=parseInt(_0x16d9dc);const _0x4c1d53=await eco[_0x4156eb(0x2a0)](_0x622f40['sender'],_0x4156eb(0x1f0),_0x41644d),_0x3bd34c=await eco[_0x4156eb(0x21d)](_0x622f40[_0x4156eb(0x2a9)],'Asta');if(_0x4c1d53[_0x4156eb(0x28f)])return _0x622f40['reply']('You\x20can\x27t\x20deposit\x20what\x20you\x20don\x27t\x20have💰.');return await _0x622f40[_0x4156eb(0x23d)](_0x4156eb(0x21f)+_0x622f40['pushName']+'\x0a🍀Successfully\x20💰Deposited\x20🪙'+_0x4c1d53[_0x4156eb(0x242)]+_0x4156eb(0x21b));}catch(_0x357553){_0x622f40[_0x4156eb(0x230)](_0x357553+'\x0a\x0acommand:\x20deposit',_0x357553);}}),smd({'pattern':'lb','desc':_0x1ebb9d(0x2a4),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async _0x3c1fe2=>{const _0x4e0a81=_0x1ebb9d;try{let _0x35fef6=await eco['lb'](_0x4e0a81(0x1f0),0xa),_0x2e54ed=_0x4e0a81(0x28a)+_0x35fef6[_0x4e0a81(0x225)]+_0x4e0a81(0x1f1);const {sck1:_0x3d3a0a}=require(_0x4e0a81(0x291));let _0x2f4c6c=[];for(let _0x663b35=0x0;_0x663b35<_0x35fef6['length'];_0x663b35++){var _0x24f8ce=_0x3c1fe2['bot'][_0x4e0a81(0x266)](_0x35fef6[_0x663b35][_0x4e0a81(0x258)]);_0x2e54ed+='*'+(_0x663b35+0x1)+_0x4e0a81(0x1f4)+_0x24f8ce+_0x4e0a81(0x1f3)+_0x35fef6[_0x663b35]['userID'][_0x4e0a81(0x246)]('@')[0x0]+_0x4e0a81(0x285)+_0x35fef6[_0x663b35]['wallet']+'_\x0a│\x20*Bank\x20Amount:-*\x20_'+_0x35fef6[_0x663b35][_0x4e0a81(0x28d)]+'_\x0a│\x20*Bank\x20Capacity:-*\x20_'+_0x35fef6[_0x663b35][_0x4e0a81(0x2a1)]+_0x4e0a81(0x26c),_0x2f4c6c['push'](_0x35fef6[_0x663b35][_0x4e0a81(0x258)]);}await _0x3c1fe2['reply'](_0x2e54ed,{'mentions':_0x2f4c6c});}catch(_0x1b2197){_0x3c1fe2['error'](_0x1b2197+_0x4e0a81(0x236),_0x1b2197);}}),smd({'pattern':_0x1ebb9d(0x218),'desc':_0x1ebb9d(0x245),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async(_0x5b3546,_0x5c0223)=>{const _0x1155bc=_0x1ebb9d;try{let _0x1977cc=await sck[_0x1155bc(0x234)]({'id':_0x5b3546[_0x1155bc(0x24a)]})||{},_0x281657=_0x1977cc[_0x1155bc(0x215)]||_0x1155bc(0x249);if(_0x281657==_0x1155bc(0x249))return _0x5b3546[_0x1155bc(0x23d)]('*🚦Economy*\x20is\x20not\x20active\x20in\x20current\x20group.');let _0x2c6c88=_0x5c0223[_0x1155bc(0x1f5)]()['split']('\x20');if(_0x2c6c88[0x0]==='')return _0x5b3546[_0x1155bc(0x23d)](_0x1155bc(0x280)+prefix+_0x1155bc(0x239));let _0x173ec0=_0x5b3546['mentionedJid']?_0x5b3546[_0x1155bc(0x25f)][0x0]:_0x5b3546[_0x1155bc(0x29d)][_0x1155bc(0x20b)][_0x1155bc(0x262)]||![];if(!_0x173ec0)return _0x5b3546[_0x1155bc(0x23d)](_0x1155bc(0x247));const _0x26bf99=_0x5b3546[_0x1155bc(0x2a9)],_0x3ebfd0=_0x173ec0,_0x5a37eb=_0x2c6c88[0x0],_0x4759c6=_0x2c6c88[0x1];let _0x347b0f=parseInt(_0x5a37eb);if(!_0x347b0f)return _0x5b3546[_0x1155bc(0x23d)](_0x1155bc(0x287));const _0x432a5b=await eco[_0x1155bc(0x21d)](_0x26bf99,_0x1155bc(0x1f0));let _0x18c89d=_0x432a5b[_0x1155bc(0x217)]<parseInt(_0x5a37eb);if(_0x18c89d==!![])return _0x5b3546[_0x1155bc(0x23d)](_0x1155bc(0x271));const _0x30d7d5=await eco[_0x1155bc(0x222)](_0x26bf99,_0x1155bc(0x1f0),_0x2c6c88[0x0]),_0x2832b4=await eco[_0x1155bc(0x211)](_0x3ebfd0,_0x1155bc(0x1f0),_0x2c6c88[0x0]);return await _0x5b3546[_0x1155bc(0x23d)](_0x1155bc(0x273)+_0x2c6c88[0x0]+_0x1155bc(0x203));}catch(_0x2ccb5f){_0x5b3546[_0x1155bc(0x230)](_0x2ccb5f+_0x1155bc(0x288),_0x2ccb5f);}}),smd({'pattern':_0x1ebb9d(0x217),'desc':_0x1ebb9d(0x264),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async _0xbbd92c=>{const _0x2becf7=_0x1ebb9d;try{let _0x5527c2=await sck['findOne']({'id':_0xbbd92c[_0x2becf7(0x24a)]})||await sck['new']({'id':_0xbbd92c[_0x2becf7(0x24a)]}),_0x5e507b=_0x5527c2[_0x2becf7(0x215)]||_0x2becf7(0x249);if(_0x5e507b==_0x2becf7(0x249))return _0xbbd92c[_0x2becf7(0x23d)](_0x2becf7(0x228));const _0x31f31b=await eco[_0x2becf7(0x21d)](_0xbbd92c[_0x2becf7(0x2a9)],_0x2becf7(0x1f0));return await _0xbbd92c[_0x2becf7(0x23d)](_0x2becf7(0x25d)+_0xbbd92c[_0x2becf7(0x208)]+_0x2becf7(0x238)+_0x31f31b[_0x2becf7(0x217)]+'_');}catch(_0x4d9a9e){_0xbbd92c['error'](_0x4d9a9e+_0x2becf7(0x216),_0x4d9a9e);}}),smd({'pattern':_0x1ebb9d(0x211),'desc':_0x1ebb9d(0x2a2),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async(_0x208fc5,_0x34c677)=>{const _0x2c2f68=_0x1ebb9d;try{if(!_0x208fc5[_0x2c2f68(0x241)])return _0x208fc5[_0x2c2f68(0x23d)](_0x2c2f68(0x2b0));let _0x24590c=_0x208fc5[_0x2c2f68(0x25f)]?_0x208fc5[_0x2c2f68(0x25f)][0x0]:_0x208fc5[_0x2c2f68(0x29d)]?.[_0x2c2f68(0x20b)]?.[_0x2c2f68(0x262)]||![];if(!_0x24590c)return _0x208fc5[_0x2c2f68(0x23d)]('Please\x20give\x20me\x20user\x20to\x20add\x20money.');return await eco[_0x2c2f68(0x211)](_0x24590c,_0x2c2f68(0x1f0),parseInt(_0x34c677[_0x2c2f68(0x246)]('\x20')[0x0])),await _0x208fc5[_0x2c2f68(0x207)]['sendMessage'](_0x208fc5['chat'],{'text':_0x2c2f68(0x24d)+parseInt(_0x34c677['split']('\x20')[0x0])+_0x2c2f68(0x27d)+_0x24590c[_0x2c2f68(0x246)]('@')[0x0]+_0x2c2f68(0x25a),'mentions':[_0x24590c]},{'quoted':_0x208fc5});}catch(_0x38deea){_0x208fc5[_0x2c2f68(0x230)](_0x38deea+_0x2c2f68(0x248),_0x38deea);}}),smd({'pattern':_0x1ebb9d(0x28d),'desc':_0x1ebb9d(0x221),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async _0xbbd0da=>{const _0x556514=_0x1ebb9d;try{let _0x39199f=await sck['findOne']({'id':_0xbbd0da[_0x556514(0x24a)]})||await sck['new']({'id':_0xbbd0da['chat']}),_0x2fb7ad=_0x39199f['economy']||'false';if(_0x2fb7ad=='false')return _0xbbd0da[_0x556514(0x23d)](_0x556514(0x228));const _0x4ee6cb=await eco['balance'](_0xbbd0da['sender'],_0x556514(0x1f0));return await _0xbbd0da['reply'](_0x556514(0x259)+_0xbbd0da['pushName']+_0x556514(0x2a6)+_0x4ee6cb[_0x556514(0x28d)]+'/'+_0x4ee6cb[_0x556514(0x2a1)]+'_');}catch(_0x215270){_0xbbd0da[_0x556514(0x230)](_0x215270+_0x556514(0x1ea),_0x215270);}}),smd({'pattern':_0x1ebb9d(0x24f),'desc':_0x1ebb9d(0x284),'category':_0x1ebb9d(0x215),'filename':__filename},async _0x131bb9=>{const _0x4a6bea=_0x1ebb9d;try{let _0x9bef3e=await sck[_0x4a6bea(0x234)]({'id':_0x131bb9[_0x4a6bea(0x24a)]})||await sck[_0x4a6bea(0x1ee)]({'id':_0x131bb9['chat']}),_0x107006=_0x9bef3e['economy']||_0x4a6bea(0x249);if(_0x107006==_0x4a6bea(0x249))return _0x131bb9[_0x4a6bea(0x23d)](_0x4a6bea(0x228));let _0x209ec9=_0x131bb9[_0x4a6bea(0x25f)]?_0x131bb9[_0x4a6bea(0x25f)][0x0]:_0x131bb9[_0x4a6bea(0x29d)][_0x4a6bea(0x20b)][_0x4a6bea(0x262)]||![];if(!_0x209ec9)return _0x131bb9['reply'](_0x4a6bea(0x21e));const _0x54c97c=_0x131bb9[_0x4a6bea(0x2a9)],_0xffc49d=_0x209ec9,_0x1c64e0=0x3e8,_0x28adce=await eco[_0x4a6bea(0x21d)](_0x54c97c,_0x4a6bea(0x1f0)),_0x530d83=await eco['balance'](_0xffc49d,_0x4a6bea(0x1f0)),_0x36d3ff=[_0x4a6bea(0x23c),_0x4a6bea(0x24f),_0x4a6bea(0x1fa)],_0xf0beeb=_0x36d3ff[Math[_0x4a6bea(0x277)](Math[_0x4a6bea(0x292)]()*_0x36d3ff[_0x4a6bea(0x225)])];if(_0x1c64e0>_0x28adce[_0x4a6bea(0x217)])return _0x131bb9[_0x4a6bea(0x23d)]('*☹️\x20You\x20don\x27t\x20have\x20enough\x20money\x20to\x20pay\x20incase\x20you\x20get\x20caught*');if(_0x1c64e0>_0x530d83[_0x4a6bea(0x217)])return _0x131bb9[_0x4a6bea(0x23d)]('*Sorry,\x20your\x20victim\x20is\x20too\x20poor\x20🤷🏽‍♂️\x20let\x20go🫤.*');let _0x1c1454=_0xf0beeb;switch(_0xf0beeb){case'ran':await _0x131bb9[_0x4a6bea(0x23d)](_0x4a6bea(0x204));break;case _0x4a6bea(0x24f):const _0x4e82fd=Math[_0x4a6bea(0x277)](Math[_0x4a6bea(0x292)]()*0x3e8);await eco[_0x4a6bea(0x222)](_0xffc49d,_0x4a6bea(0x1f0),_0x4e82fd),await eco[_0x4a6bea(0x211)](_0x131bb9[_0x4a6bea(0x2a9)],_0x4a6bea(0x1f0),_0x4e82fd),await _0x131bb9['reply'](_0x4a6bea(0x20e)+_0x4e82fd+_0x4a6bea(0x214));break;case _0x4a6bea(0x1fa):const _0x54a031=Math['floor'](Math[_0x4a6bea(0x292)]()*0x3e8);await eco[_0x4a6bea(0x222)](_0x54c97c,'Asta',_0x54a031),await _0x131bb9[_0x4a6bea(0x23d)](_0x4a6bea(0x243)+_0x54a031+_0x4a6bea(0x289));break;default:await _0x131bb9[_0x4a6bea(0x23d)](_0x4a6bea(0x255));}}catch(_0x413c75){_0x131bb9[_0x4a6bea(0x230)](_0x413c75+_0x4a6bea(0x220),_0x413c75);}}),smd({'pattern':_0x1ebb9d(0x24b),'desc':_0x1ebb9d(0x294),'category':'economy','filename':__filename,'react':'💷'},async(_0x3d9e3c,_0x53be4f)=>{const _0x271c3d=_0x1ebb9d;try{let _0xafff0c=await sck['findOne']({'id':_0x3d9e3c[_0x271c3d(0x24a)]})||{},_0x5b0d93=_0xafff0c[_0x271c3d(0x215)]||_0x271c3d(0x249);if(_0x5b0d93==_0x271c3d(0x249))return _0x3d9e3c[_0x271c3d(0x23d)](_0x271c3d(0x228));const _0x18c84f=_0x3d9e3c[_0x271c3d(0x2a9)];if(!_0x53be4f)return _0x3d9e3c[_0x271c3d(0x23d)](_0x271c3d(0x24c));const _0x1a880d=_0x53be4f[_0x271c3d(0x1f5)](),_0x1669fc=await eco[_0x271c3d(0x24b)](_0x18c84f,_0x271c3d(0x1f0),_0x1a880d);if(_0x1669fc['noten'])return _0x3d9e3c[_0x271c3d(0x23d)](_0x271c3d(0x267));const _0x1b62c9=eco[_0x271c3d(0x211)](_0x18c84f,'Asta',_0x1a880d);_0x3d9e3c[_0x271c3d(0x23d)]('*🏧\x20ALERT*\x20\x0a\x20_🪙'+_0x1669fc[_0x271c3d(0x242)]+_0x271c3d(0x278));}catch(_0x4f04f8){_0x3d9e3c[_0x271c3d(0x230)](_0x4f04f8+_0x271c3d(0x296),_0x4f04f8);}}),smd({'pattern':'gamble','desc':'gamble\x20money.','category':'economy','filename':__filename,'react':'💷'},async(_0x1302d5,_0x4926c7)=>{const _0x48bb92=_0x1ebb9d;try{let _0x463904=await sck[_0x48bb92(0x234)]({'id':_0x1302d5[_0x48bb92(0x24a)]})||{},_0x248150=_0x463904['economy']||_0x48bb92(0x249);if(_0x248150==_0x48bb92(0x249))return _0x1302d5[_0x48bb92(0x23d)](_0x48bb92(0x228));const _0x5b9fce=_0x1302d5[_0x48bb92(0x2a9)];var _0x377b95=_0x4926c7[_0x48bb92(0x246)]('\x20'),_0x144e9f=_0x377b95[0x1],_0x3bfeb4=_0x377b95[0x0][_0x48bb92(0x1f7)](),_0x165801=parseInt(_0x3bfeb4);const _0xac58e8=await eco[_0x48bb92(0x21d)](_0x5b9fce,_0x48bb92(0x1f0)),_0x4990c1=_0xac58e8[_0x48bb92(0x217)]>parseInt(_0x3bfeb4),_0x2b8004=0x32,_0x51c78c=_0x2b8004>parseInt(_0x3bfeb4),_0x3f2245=_0x165801*0x2;var _0x301fcf;if(_0x144e9f===_0x48bb92(0x299))_0x301fcf=_0x48bb92(0x257);else{if(_0x144e9f===_0x48bb92(0x21c))_0x301fcf=_0x48bb92(0x202);else{if(_0x144e9f==='up')_0x301fcf='https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/upr.webp?raw=true';else _0x144e9f===_0x48bb92(0x27b)?_0x301fcf=_0x48bb92(0x1ff):_0x1302d5[_0x48bb92(0x23d)](_0x48bb92(0x295)+prefix+_0x48bb92(0x252));}}let _0x313ee6=await getBuffer(_0x301fcf);_0x1302d5['reply'](_0x313ee6,{'packname':_0x48bb92(0x1f0),'author':_0x48bb92(0x212)},_0x48bb92(0x22d));const _0x16c912=['up',_0x48bb92(0x21c),_0x48bb92(0x299),_0x48bb92(0x27b),'up',_0x48bb92(0x299),_0x48bb92(0x27b),'right','up',_0x48bb92(0x27b),_0x48bb92(0x21c),_0x48bb92(0x299)],_0x456c14=_0x16c912[Math['floor'](Math[_0x48bb92(0x292)]()*_0x16c912[_0x48bb92(0x225)])];if(!_0x4926c7)return _0x1302d5[_0x48bb92(0x23d)]('Example:\x20\x20'+prefix+_0x48bb92(0x260));if(!_0x3bfeb4)return _0x1302d5[_0x48bb92(0x23d)](_0x48bb92(0x297));if(!_0x144e9f)return _0x1302d5[_0x48bb92(0x23d)](_0x48bb92(0x1ef));if(!_0x165801)return _0x1302d5['reply']('*Check\x20your\x20text\x20please,\x20You\x20are\x20using\x20the\x20command\x20in\x20a\x20wrong\x20way*');if(_0x4990c1==![])return _0x1302d5[_0x48bb92(0x23d)](_0x48bb92(0x28c));if(_0x51c78c==!![])return _0x1302d5[_0x48bb92(0x23d)]('*Sorry\x20'+_0x1302d5['pushName']+_0x48bb92(0x298));if(_0x456c14==_0x144e9f){let _0x2bce5a=await eco['give'](_0x5b9fce,_0x48bb92(0x1f0),_0x3f2245);return await _0x1302d5['reply']('*📈\x20You\x20won\x20🪙'+_0x3f2245+'*');}else{let _0x23846c=await eco[_0x48bb92(0x222)](_0x5b9fce,_0x48bb92(0x1f0),_0x377b95[0x0]);return await _0x1302d5['reply'](_0x48bb92(0x23b)+_0x377b95[0x0]+'*');}}catch(_0x4f77dc){_0x1302d5['error'](_0x4f77dc+_0x48bb92(0x290),_0x4f77dc);}}),smd({'pattern':_0x1ebb9d(0x272),'desc':_0x1ebb9d(0x294),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async(_0x296a39,_0x1e20a3)=>{const _0x4622f2=_0x1ebb9d;try{let _0x2c32dd=await sck[_0x4622f2(0x234)]({'id':_0x296a39[_0x4622f2(0x24a)]})||{},_0x40d289=_0x2c32dd[_0x4622f2(0x215)]||_0x4622f2(0x249);if(_0x40d289==_0x4622f2(0x249))return _0x296a39[_0x4622f2(0x23d)](_0x4622f2(0x228));var _0x46bfbb=new Date();if(_0x46bfbb[_0x4622f2(0x223)]()==0x6||_0x46bfbb['getDay']()==0x5||_0x46bfbb[_0x4622f2(0x223)]()==0x0){if(_0x1e20a3==_0x4622f2(0x282))return _0x296a39['reply'](_0x4622f2(0x233)+prefix+_0x4622f2(0x20c));if(_0x1e20a3=='money')return _0x296a39[_0x4622f2(0x23d)](_0x4622f2(0x235));const _0x57a62e=['🥥','🍎','🍇'],_0x4ce6b8=['🍎','🍇','🥥'],_0x3b8bae=['🍇','🥥','🍎'],_0x3636fe='🍇',_0x365249=[_0x4622f2(0x2a7),'*Totally\x20out\x20of\x20line*\x0a\x0a_-->\x20🥥-🍎-🍍_',_0x4622f2(0x1f9)],_0x58fb73=[_0x4622f2(0x244),'*Apples\x20and\x20Coconut\x20are\x20not\x20best\x20Combo*\x0a\x0a_-->\x20🍎>🥥<🍎_','*Coconuts\x20and\x20Apple\x20are\x20not\x20great\x20deal*\x0a\x0a_-->\x20🥥>🍎<🥥_'],_0x52d689=[_0x4622f2(0x263),_0x4622f2(0x27a),_0x4622f2(0x1f6)],_0x397e0d=['*Wow,\x20you\x20were\x20so\x20close\x20to\x20winning\x20pineapples*\x0a\x0a_-->\x20🍎-🍍+🍍_',_0x4622f2(0x1ec)],_0x4f5ef9=['*🥳\x20JackPot\x20🤑*\x0a\x0a_-->\x20🍇×🍇×🍇×🍇_',_0x4622f2(0x251),_0x4622f2(0x224)],_0x54b91f=_0x296a39[_0x4622f2(0x2a9)],_0x2d9ac6=0x64,_0x2cbfe2=await eco[_0x4622f2(0x21d)](_0x54b91f,_0x4622f2(0x1f0));if(_0x2d9ac6>_0x2cbfe2[_0x4622f2(0x217)])return _0x296a39[_0x4622f2(0x23d)](_0x4622f2(0x24e));const _0x2930d3=_0x57a62e[Math['floor'](Math[_0x4622f2(0x292)]()*_0x57a62e[_0x4622f2(0x225)])],_0x4bd642=_0x4ce6b8[Math['floor'](Math[_0x4622f2(0x292)]()*_0x4ce6b8[_0x4622f2(0x225)])],_0x21cfd3=_0x3b8bae[Math[_0x4622f2(0x277)](Math[_0x4622f2(0x292)]()*_0x3b8bae['length'])],_0x3075d4=_0x365249[Math[_0x4622f2(0x277)](Math[_0x4622f2(0x292)]()*_0x365249[_0x4622f2(0x225)])],_0x25c6be=_0x52d689[Math['floor'](Math[_0x4622f2(0x292)]()*_0x52d689[_0x4622f2(0x225)])],_0x553ea5=_0x397e0d[Math[_0x4622f2(0x277)](Math[_0x4622f2(0x292)]()*_0x397e0d[_0x4622f2(0x225)])],_0x574743=_0x4f5ef9[Math[_0x4622f2(0x277)](Math['random']()*_0x4f5ef9[_0x4622f2(0x225)])],_0x426f4a=_0x58fb73[Math[_0x4622f2(0x277)](Math[_0x4622f2(0x292)]()*_0x58fb73[_0x4622f2(0x225)])];if(_0x1e20a3[_0x4622f2(0x246)]('\x20')[0x0]){let _0x3ec791=_0x1e20a3['split']('\x20')[0x0];const _0x46a4c9=await eco[_0x4622f2(0x21d)](_0x296a39[_0x4622f2(0x2a9)],'Asta');console[_0x4622f2(0x27f)](_0x46a4c9['wallet']);if(_0x3ec791<=_0x46a4c9['wallet']){const _0x71961a=Math[_0x4622f2(0x277)](Math[_0x4622f2(0x292)]()*_0x3ec791);if(_0x2930d3!==_0x4bd642&&_0x4bd642!==_0x21cfd3){const _0x481730=await eco['deduct'](_0x54b91f,_0x4622f2(0x1f0),_0x71961a);return _0x296a39['reply'](_0x3075d4+_0x4622f2(0x226)+_0x71961a+'_');}else{if(_0x2930d3==_0x4bd642&&_0x4bd642==_0x21cfd3){const _0x204844=await eco[_0x4622f2(0x211)](_0x54b91f,_0x4622f2(0x1f0),_0x71961a/0x2);return _0x296a39[_0x4622f2(0x23d)](_0x25c6be+_0x4622f2(0x293)+_0x71961a/0x2+'_');}else{if(_0x2930d3==_0x4bd642&&_0x4bd642!==_0x21cfd3){const _0x5d5825=await eco['give'](_0x54b91f,_0x4622f2(0x1f0),_0x71961a);return _0x296a39[_0x4622f2(0x23d)](_0x553ea5+_0x4622f2(0x286)+_0x71961a+'_');}else{if(_0x2930d3!==_0x4bd642&&_0x2930d3==_0x21cfd3){const _0x59815a=await eco['deduct'](_0x54b91f,_0x4622f2(0x1f0),_0x71961a);return _0x296a39[_0x4622f2(0x23d)](_0x426f4a+'\x0a\x0a*Small\x20Lose\x20-->*\x20_🪙'+_0x71961a+'_');}else{if(_0x2930d3!==_0x4bd642&&_0x4bd642==_0x21cfd3){const _0x57b23b=eco[_0x4622f2(0x211)](_0x54b91f,_0x4622f2(0x1f0),_0x71961a);return _0x296a39['reply'](_0x553ea5+_0x4622f2(0x205)+_0x71961a+'_');}else{if(_0x2930d3==_0x4bd642&&_0x4bd642==_0x21cfd3&&_0x21cfd3==f4){const _0x516ee3=eco['give'](_0x54b91f,'Asta',_0x71961a*0x14);return _0x296a39[_0x4622f2(0x23d)](_0x574743+'\x0a\x0a_🎊\x20JackPot\x20-->\x20_🪙'+_0x71961a*0x14+'_');}else return _0x296a39[_0x4622f2(0x23d)](_0x4622f2(0x209));}}}}}}else return _0x296a39[_0x4622f2(0x23d)](_0x4622f2(0x265));}if(_0x2930d3!==_0x4bd642&&_0x4bd642!==_0x21cfd3){const _0x1a1a24=await eco[_0x4622f2(0x222)](_0x54b91f,_0x4622f2(0x1f0),0x32);_0x296a39[_0x4622f2(0x23d)](_0x3075d4+_0x4622f2(0x29c));}else{if(_0x2930d3==_0x4bd642&&_0x4bd642==_0x21cfd3){const _0x4d8c0d=await eco[_0x4622f2(0x211)](_0x54b91f,_0x4622f2(0x1f0),0x64);_0x296a39[_0x4622f2(0x23d)](_0x25c6be+_0x4622f2(0x281));}else{if(_0x2930d3==_0x4bd642&&_0x4bd642!==_0x21cfd3){const _0x44da6b=await eco[_0x4622f2(0x211)](_0x54b91f,_0x4622f2(0x1f0),0x14);_0x296a39[_0x4622f2(0x23d)](_0x553ea5+_0x4622f2(0x268));}else{if(_0x2930d3!==_0x4bd642&&_0x2930d3==_0x21cfd3){const _0x580a00=await eco[_0x4622f2(0x222)](_0x54b91f,_0x4622f2(0x1f0),0x14);_0x296a39['reply'](_0x426f4a+_0x4622f2(0x240));}else{if(_0x2930d3!==_0x4bd642&&_0x4bd642==_0x21cfd3){const _0x359648=eco[_0x4622f2(0x211)](_0x54b91f,_0x4622f2(0x1f0),0x14);_0x296a39['reply'](_0x553ea5+'\x0a\x0a*Small\x20Win\x20-->*\x20_🪙20_');}else{if(_0x2930d3==_0x4bd642&&_0x4bd642==_0x21cfd3&&_0x21cfd3==f4){const _0x17ecd5=eco[_0x4622f2(0x211)](_0x54b91f,_0x4622f2(0x1f0),0x3e8);_0x296a39[_0x4622f2(0x23d)](_0x574743+_0x4622f2(0x27e));}else _0x296a39[_0x4622f2(0x23d)](_0x4622f2(0x209));}}}}}}else _0x296a39[_0x4622f2(0x23d)](_0x4622f2(0x210));}catch(_0x555eaf){_0x296a39[_0x4622f2(0x230)](_0x555eaf+_0x4622f2(0x22a),_0x555eaf);}}),smd({'pattern':'slot','desc':_0x1ebb9d(0x27c),'category':_0x1ebb9d(0x215),'filename':__filename,'react':'💷'},async _0x22bbb8=>{const _0x371bb3=_0x1ebb9d;try{let _0xd34521=await sck[_0x371bb3(0x234)]({'id':_0x22bbb8['chat']})||{},_0x692af5=_0xd34521['economy']||_0x371bb3(0x249);if(_0x692af5==_0x371bb3(0x249))return _0x22bbb8[_0x371bb3(0x23d)](_0x371bb3(0x228));const _0x551ba8=0x64,_0x5a8453=await eco[_0x371bb3(0x21d)](_0x22bbb8['sender'],_0x371bb3(0x1f0));if(_0x551ba8>_0x5a8453[_0x371bb3(0x217)])return _0x22bbb8[_0x371bb3(0x23d)](_0x371bb3(0x24e));var _0x1e88e1=new Array();_0x1e88e1[0x0]=_0x371bb3(0x2a8),_0x1e88e1[0x1]=_0x371bb3(0x2a8),_0x1e88e1[0x2]='1\x20:\x202\x20:\x203',_0x1e88e1[0x3]='4\x20:\x203\x20:\x203',_0x1e88e1[0x4]=_0x371bb3(0x1fb),_0x1e88e1[0x5]=_0x371bb3(0x26e),_0x1e88e1[0x6]=_0x371bb3(0x1ed),_0x1e88e1[0x7]='1\x20:\x203\x20:\x206',_0x1e88e1[0x8]=_0x371bb3(0x25e),_0x1e88e1[0x9]=_0x371bb3(0x2ab),_0x1e88e1[0xa]=_0x371bb3(0x20a),_0x1e88e1[0xb]='5\x20:\x205\x20:\x206',_0x1e88e1[0xc]=_0x371bb3(0x20f),_0x1e88e1[0xd]=_0x371bb3(0x22c),_0x1e88e1[0xe]='4\x20:\x203\x20:\x202',_0x1e88e1[0xf]=_0x371bb3(0x283),_0x1e88e1[0x10]='7\x20:\x204\x20:\x206',_0x1e88e1[0x11]='6\x20:\x205\x20:\x201',_0x1e88e1[0x12]=_0x371bb3(0x232);var _0xeaa62c=Math[_0x371bb3(0x277)](0x13*Math['random']()),_0x538127=Math[_0x371bb3(0x277)](0x13*Math[_0x371bb3(0x292)]()),_0x44cccf=Math[_0x371bb3(0x277)](0x13*Math[_0x371bb3(0x292)]()),_0x4a82a2=_0x1e88e1[_0xeaa62c],_0x2d1a79=_0x1e88e1[_0x538127],_0x8aa502=_0x1e88e1[_0x44cccf];console['log'](_0x4a82a2+'\x0a'+_0x2d1a79+'\x0a'+_0x8aa502);let _0x4aee7d=_0x4a82a2[_0x371bb3(0x246)](':'),_0xe3fb1e=_0x2d1a79[_0x371bb3(0x246)](':'),_0x3f46dc=_0x8aa502[_0x371bb3(0x246)](':');var _0x5a1e40;if(_0x4aee7d[0x2]===_0xe3fb1e[0x1]&&_0xe3fb1e[0x1]===_0x3f46dc[0x0])_0x5a1e40=!![];if(_0x4aee7d[0x0]===_0xe3fb1e[0x1]&&_0xe3fb1e[0x1]===_0x3f46dc[0x2])_0x5a1e40=!![];if(_0x4aee7d[0x0]===_0xe3fb1e[0x0]&&_0xe3fb1e[0x0]===_0x3f46dc[0x0])_0x5a1e40=!![];if(_0x4aee7d[0x1]===_0xe3fb1e[0x1]&&_0xe3fb1e[0x1]===_0x3f46dc[0x1])_0x5a1e40=!![];if(_0x4aee7d[0x2]===_0xe3fb1e[0x2]&&_0xe3fb1e[0x2]===_0x3f46dc[0x2])_0x5a1e40=!![];if(_0x4aee7d[0x0]===_0xe3fb1e[0x1]&&_0xe3fb1e[0x1]===_0x3f46dc[0x2])_0x5a1e40=!![];if(_0x4aee7d[0x2]===_0xe3fb1e[0x1]&&_0xe3fb1e[0x1]===_0x3f46dc[0x0])_0x5a1e40=!![];if(_0x4aee7d[0x0]===_0x4aee7d[0x1]&&_0x4aee7d[0x0]===_0x4aee7d[0x2])_0x5a1e40=!![];if(_0xe3fb1e[0x0]===_0xe3fb1e[0x1]&&_0xe3fb1e[0x0]===_0xe3fb1e[0x2])_0x5a1e40=!![];if(_0x3f46dc[0x0]===_0x3f46dc[0x1]&&_0x3f46dc[0x0]===_0x3f46dc[0x2])_0x5a1e40=!![];if(_0x4aee7d[0x0]===_0x3f46dc[0x1]&&_0x4aee7d[0x0]===_0x3f46dc[0x2])_0x5a1e40=!![];if(_0x5a1e40){const _0x197ffa=Math[_0x371bb3(0x277)](Math[_0x371bb3(0x292)]()*0x1388),_0x12354f=await eco[_0x371bb3(0x211)](_0x22bbb8['sender'],_0x371bb3(0x1f0),_0x197ffa*0x2);let _0x10fa51=_0x371bb3(0x237)+_0x4a82a2+'\x0a\x0a\x20\x20\x20\x20\x20'+_0x2d1a79+_0x371bb3(0x206)+_0x8aa502+'\x0a\x0aWow\x20Jackpot🎊.',_0x3f57c2=_0x10fa51[_0x371bb3(0x22b)](/1/g,'🔴')[_0x371bb3(0x22b)](/2/g,'🔵')[_0x371bb3(0x22b)](/3/g,'🟣')[_0x371bb3(0x22b)](/4/g,'🟢')[_0x371bb3(0x22b)](/5/g,'🟡')[_0x371bb3(0x22b)](/6/g,'⚪️')[_0x371bb3(0x22b)](/7/g,'⚫️')[_0x371bb3(0x22b)](/:/g,'\x20\x20');return await _0x22bbb8[_0x371bb3(0x23d)]('You\x20got\x20'+_0x197ffa*0xa+_0x371bb3(0x29f));}else{const _0x5be3c2=Math[_0x371bb3(0x277)](Math[_0x371bb3(0x292)]()*0x12c),_0x2363a9=await eco[_0x371bb3(0x222)](_0x22bbb8[_0x371bb3(0x2a9)],_0x371bb3(0x1f0),_0x5be3c2);let _0x219c9e=_0x371bb3(0x23a)+_0x4a82a2+_0x371bb3(0x26d)+_0x2d1a79+_0x371bb3(0x26d)+_0x8aa502+'\x0a\x0aNot\x20Jacpot📉\x20but\x20lost\x20',_0x512098=_0x219c9e[_0x371bb3(0x22b)](/1/g,'🔴')[_0x371bb3(0x22b)](/2/g,'🔵')['replace'](/3/g,'🟣')['replace'](/4/g,'🟢')[_0x371bb3(0x22b)](/5/g,'🟡')[_0x371bb3(0x22b)](/6/g,'⚪️')['replace'](/7/g,'⚫️')['replace'](/:/g,_0x371bb3(0x1f2));return await _0x22bbb8['reply'](_0x512098+('\x20'+_0x5be3c2+'.'));}}catch(_0x43ed74){_0x22bbb8[_0x371bb3(0x230)](_0x43ed74+_0x371bb3(0x29e),_0x43ed74);}}));
+const {
+  groupdb,
+  smd,
+  getBuffer,
+  tlang,
+  prefix
+} = require("../lib");
+const eco = require('discord-mongoose-economy');
+let ty = false;
+try {
+  if (isMongodb) {
+    ty = eco.connect(mongodb);
+    console.log("Connected with discord economy!!");
+  }
+} catch (_0x3a3a36) {
+  ty = false;
+}
+if (ty) {
+  smd({
+    'pattern': "daily",
+    'desc': "daily gold.",
+    'category': "economy",
+    'filename': __filename
+  }, async ({
+    reply: _0x26cb72,
+    chat: _0x2fa94e,
+    isGroup: _0x332dfd,
+    sender: _0x3c895e,
+    error: _0x2a8c0c
+  }) => {
+    try {
+      let _0x2a3356 = (await groupdb.findOne({
+        'id': _0x2fa94e
+      })) || {};
+      if (_0x2a3356?.['economy'] == "false") {
+        return _0x26cb72("*🚦Economy* is not active in current group.");
+      }
+      if (!_0x332dfd) {
+        return _0x26cb72(tlang().group);
+      }
+      const _0x328dda = await eco.daily(_0x3c895e, "ANITA", 0x1f4);
+      if (_0x328dda.cd) {
+        return await _0x26cb72("🧧 You already claimed daily for today, come back in " + _0x328dda.cdL + '🫡');
+      } else {
+        _0x26cb72("you claimed daily " + _0x328dda.amount + " 🪙 for today🎉.");
+      }
+    } catch (_0x8b34e4) {
+      _0x2a8c0c(_0x8b34e4 + "\n\ncommand: daily", _0x8b34e4);
+    }
+  });
+  smd({
+    'pattern': "resetwallet",
+    'desc': "reset wallet of quoted user.",
+    'category': 'economy',
+    'filename': __filename,
+    'react': '💷'
+  }, async _0x550c5b => {
+    try {
+      let _0x159575 = (await groupdb.findOne({
+        'id': _0x550c5b.chat
+      })) || (await groupdb['new']({
+        'id': _0x550c5b.chat
+      }));
+      let _0x4f8515 = _0x159575.economy || "false";
+      if (_0x4f8515 == "false") {
+        return _0x550c5b.reply("*🚦Economy* is not active in current group.");
+      }
+      if (!isCreator) {
+        return _0x550c5b.reply(tlang().owner);
+      }
+      let _0x972d67 = _0x550c5b.mentionedJid ? _0x550c5b.mentionedJid[0x0] : _0x550c5b.msg.contextInfo.participant || false;
+      if (!_0x972d67) {
+        return _0x550c5b.reply("Please give me user.");
+      }
+      const _0xf7f0a4 = await eco.balance(_0x972d67, "ANITA");
+      await eco.deduct(_0x972d67, "ANITA", _0xf7f0a4.wallet);
+      return await _0x550c5b.reply("⛩️ User: @" + _0x972d67.split('@')[0x0] + " \n *🧧 @" + _0x972d67.split('@')[0x0] + " lost all 🪙 in wallet.*\n_Now live with that poverty.🫡_", {
+        'mentions': [_0x972d67]
+      });
+    } catch (_0xc3541) {
+      _0x550c5b.error(_0xc3541 + "\n\ncommand: resetwallet", _0xc3541);
+    }
+  });
+  smd({
+    'pattern': "capacity",
+    'desc': "update capacity.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async (_0x8dd0cb, _0x5b3dc5) => {
+    try {
+      let _0x3dafd8 = (await groupdb.findOne({
+        'id': _0x8dd0cb.chat
+      })) || (await groupdb["new"]({
+        'id': _0x8dd0cb.chat
+      }));
+      let _0x268f00 = _0x3dafd8.economy || "false";
+      if (_0x268f00 == 'false') {
+        return _0x8dd0cb.reply("*🚦Economy* is not active in current group.");
+      }
+      if (!_0x8dd0cb.isGroup) {
+        return _0x8dd0cb.reply(tlang().group);
+      }
+      if (!_0x5b3dc5) {
+        return _0x8dd0cb.reply("💴 *Bank-capacity* 💳\n\n1 | *1000 sp* = 🪙100\n\n2 | *100000 sp* = 🪙1000\n\n3 | *10000000 sp* = 🪙10000000\n\nExample- " + prefix + "capacity 1 OR " + prefix + "bankupgrade 1000");
+      }
+      let _0x72714d = _0x8dd0cb.mentionedJid ? _0x8dd0cb.mentionedJid[0x0] : _0x8dd0cb.msg.contextInfo.participant || false;
+      let _0x4956d2 = _0x5b3dc5.trim();
+      let _0x5b4eed = parseInt(_0x4956d2);
+      const _0xa891b9 = await eco.balance(_0x72714d, 'ANITA');
+      switch (_0x4956d2) {
+        case "1000":
+        case '1':
+          if (_0x5b4eed > _0xa891b9.wallet) {
+            return _0x8dd0cb.reply("*_You need to pay 🪙100 to increase bank capacity ~ 1000 sp_*");
+          }
+          return await _0x8dd0cb.reply("*1000 🪙diamond storage has been added in " + _0x8dd0cb.senderName + " bank*");
+          break;
+        case "100000":
+        case '2':
+          if (_0x5b4eed < _0xa891b9.wallet) {
+            return _0x8dd0cb.reply("*You need to pay 🪙1000 to increase bank capacity ~ 100000 sp*");
+          }
+          return await _0x8dd0cb.reply("*100000 🪙diamond storage has been added in " + _0x8dd0cb.pushName + " bank*");
+          break;
+        case '10000000':
+        case '3':
+          if (_0x5b4eed < _0xa891b9.wallet) {
+            return _0x8dd0cb.reply("You need to pay 🪙10000 to increase bank capacity ~ 1000 sp");
+          }
+          return await _0x8dd0cb.reply("*10000000 🪙diamond storage has been added in " + _0x8dd0cb.pushName + "'s bank*");
+          break;
+        default:
+          await _0x8dd0cb.reply("*What are you trying to do📉*.");
+      }
+    } catch (_0x511a2e) {
+      _0x8dd0cb.error(_0x511a2e + "\n\ncommand: capacity", _0x511a2e);
+    }
+  });
+  smd({
+    'pattern': "deposit",
+    'desc': "deposit gold.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async (_0x622f40, _0x16d9dc) => {
+    try {
+      let _0x3bb9c0 = (await groupdb.findOne({
+        'id': _0x622f40.chat
+      })) || {};
+      let _0x225b49 = _0x3bb9c0.economy || 'false';
+      if (_0x225b49 == 'false') {
+        return _0x622f40.reply("*🚦Economy* is not active in current group.");
+      }
+      if (!_0x16d9dc) {
+        return _0x622f40.reply("Baka!! Provide the 💰amount you want to deposit!");
+      }
+      let _0x41644d = parseInt(_0x16d9dc);
+      const _0x4c1d53 = await eco.deposit(_0x622f40.sender, "Asta", _0x41644d);
+      if (_0x4c1d53.noten) {
+        return _0x622f40.reply("You can't deposit what you don't have💰.");
+      }
+      return await _0x622f40.reply("⛩️ Sender: " + _0x622f40.pushName + "\n🍀Successfully 💰Deposited 🪙" + _0x4c1d53.amount + " to your bank.Upgrade your bank capacity to add more money📈.");
+    } catch (_0x357553) {
+      _0x622f40.error(_0x357553 + "\n\ncommand: deposit", _0x357553);
+    }
+  });
+  smd({
+    'pattern': 'lb',
+    'desc': "check leaderboard.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async _0x3c1fe2 => {
+    try {
+      let _0x35fef6 = await eco.lb("Asta", 0xa);
+      let _0x2e54ed = "*Top " + _0x35fef6.length + " users with more money in wallet.*\n";
+      let _0x2f4c6c = [];
+      for (let _0x663b35 = 0x0; _0x663b35 < _0x35fef6.length; _0x663b35++) {
+        var _0x24f8ce = _0x3c1fe2.bot.getName(_0x35fef6[_0x663b35].userID);
+        _0x2e54ed += '*' + (_0x663b35 + 0x1) + "*\n╭─────────────◆\n│ *Name:-* _" + _0x24f8ce + "_\n│ *User:-* _@" + _0x35fef6[_0x663b35].userID.split('@')[0x0] + "_\n│ *Wallet:-* _" + _0x35fef6[_0x663b35].wallet + "_\n│ *Bank Amount:-* _" + _0x35fef6[_0x663b35].bank + "_\n│ *Bank Capacity:-* _" + _0x35fef6[_0x663b35].bankCapacity + "_\n╰─────────────◆\n\n";
+        _0x2f4c6c.push(_0x35fef6[_0x663b35].userID);
+      }
+      await _0x3c1fe2.reply(_0x2e54ed, {
+        'mentions': _0x2f4c6c
+      });
+    } catch (_0x1b2197) {
+      _0x3c1fe2.error(_0x1b2197 + "\n\ncommand: lb", _0x1b2197);
+    }
+  });
+  smd({
+    'pattern': "transfer",
+    'desc': "transfer gold.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async (_0x5b3546, _0x5c0223) => {
+    try {
+      let _0x1977cc = (await groupdb.findOne({
+        'id': _0x5b3546.chat
+      })) || {};
+      let _0x281657 = _0x1977cc.economy || "false";
+      if (_0x281657 == "false") {
+        return _0x5b3546.reply("*🚦Economy* is not active in current group.");
+      }
+      let _0x2c6c88 = _0x5c0223.trim().split(" ");
+      if (_0x2c6c88[0x0] === '') {
+        return _0x5b3546.reply("Use " + prefix + "transfer 100 @user");
+      }
+      let _0x173ec0 = _0x5b3546.mentionedJid ? _0x5b3546.mentionedJid[0x0] : _0x5b3546.msg.contextInfo.participant || false;
+      if (!_0x173ec0) {
+        return _0x5b3546.reply("Please give me any user🤦‍♂️.");
+      }
+      const _0x26bf99 = _0x5b3546.sender;
+      const _0x5a37eb = _0x2c6c88[0x0];
+      let _0x347b0f = parseInt(_0x5a37eb);
+      if (!_0x347b0f) {
+        return _0x5b3546.reply("check your text plz u r using the command in a wrong way👀");
+      }
+      const _0x432a5b = await eco.balance(_0x26bf99, "Asta");
+      let _0x18c89d = _0x432a5b.wallet < parseInt(_0x5a37eb);
+      if (_0x18c89d == true) {
+        return _0x5b3546.reply("you dont have sufficient money to transfer👎");
+      }
+      return await _0x5b3546.reply("*📠 Transaction successful of " + _0x2c6c88[0x0] + " 💰*");
+    } catch (_0x2ccb5f) {
+      _0x5b3546.error(_0x2ccb5f + "\n\ncommand: transfer", _0x2ccb5f);
+    }
+  });
+  smd({
+    'pattern': "wallet",
+    'desc': "shows wallet.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async _0xbbd92c => {
+    try {
+      let _0x5527c2 = (await groupdb.findOne({
+        'id': _0xbbd92c.chat
+      })) || (await groupdb['new']({
+        'id': _0xbbd92c.chat
+      }));
+      let _0x5e507b = _0x5527c2.economy || "false";
+      if (_0x5e507b == "false") {
+        return _0xbbd92c.reply("*🚦Economy* is not active in current group.");
+      }
+      const _0x31f31b = await eco.balance(_0xbbd92c.sender, "Asta");
+      return await _0xbbd92c.reply("*👛 " + _0xbbd92c.pushName + "'s Purse:*\n\n_🪙" + _0x31f31b.wallet + '_');
+    } catch (_0x4d9a9e) {
+      _0xbbd92c.error(_0x4d9a9e + "\n\ncommand: wallet", _0x4d9a9e);
+    }
+  });
+  smd({
+    'pattern': "give",
+    'desc': "Add money in wallet.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async (_0x208fc5, _0x34c677) => {
+    try {
+      if (!_0x208fc5.isCreator) {
+        return _0x208fc5.reply("*_Hey Master, only my owner can give money!_*");
+      }
+      let _0x24590c = _0x208fc5.mentionedJid ? _0x208fc5.mentionedJid[0x0] : _0x208fc5.msg?.["contextInfo"]?.["participant"] || false;
+      if (!_0x24590c) {
+        return _0x208fc5.reply("Please give me user to add money.");
+      }
+      await eco.give(_0x24590c, "Asta", parseInt(_0x34c677.split(" ")[0x0]));
+      return await _0x208fc5.bot.sendMessage(_0x208fc5.chat, {
+        'text': "Added 📈 " + parseInt(_0x34c677.split(" ")[0x0]) + " to @" + _0x24590c.split('@')[0x0] + " wallet🛸.",
+        'mentions': [_0x24590c]
+      }, {
+        'quoted': _0x208fc5
+      });
+    } catch (_0x38deea) {
+      _0x208fc5.error(_0x38deea + "\n\ncommand: give", _0x38deea);
+    }
+  });
+  smd({
+    'pattern': "bank",
+    'desc': "shows bank amount.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async _0xbbd0da => {
+    try {
+      let _0x39199f = (await groupdb.findOne({
+        'id': _0xbbd0da.chat
+      })) || (await groupdb['new']({
+        'id': _0xbbd0da.chat
+      }));
+      let _0x2fb7ad = _0x39199f.economy || 'false';
+      if (_0x2fb7ad == 'false') {
+        return _0xbbd0da.reply("*🚦Economy* is not active in current group.");
+      }
+      const _0x4ee6cb = await eco.balance(_0xbbd0da.sender, "Asta");
+      return await _0xbbd0da.reply("🍀User: " + _0xbbd0da.pushName + "\n\n_🪙" + _0x4ee6cb.bank + '/' + _0x4ee6cb.bankCapacity + '_');
+    } catch (_0x215270) {
+      _0xbbd0da.error(_0x215270 + "\n\ncommand: bank", _0x215270);
+    }
+  });
+  smd({
+    'pattern': "rob",
+    'desc': "rob bank amount.",
+    'category': "economy",
+    'filename': __filename
+  }, async _0x131bb9 => {
+    try {
+      let _0x9bef3e = (await groupdb.findOne({
+        'id': _0x131bb9.chat
+      })) || (await groupdb["new"]({
+        'id': _0x131bb9.chat
+      }));
+      let _0x107006 = _0x9bef3e.economy || "false";
+      if (_0x107006 == "false") {
+        return _0x131bb9.reply("*🚦Economy* is not active in current group.");
+      }
+      let _0x209ec9 = _0x131bb9.mentionedJid ? _0x131bb9.mentionedJid[0x0] : _0x131bb9.msg.contextInfo.participant || false;
+      if (!_0x209ec9) {
+        return _0x131bb9.reply("Please give me user to rob.");
+      }
+      const _0x54c97c = _0x131bb9.sender;
+      const _0x28adce = await eco.balance(_0x54c97c, "Asta");
+      const _0x530d83 = await eco.balance(_0x209ec9, "Asta");
+      const _0x36d3ff = ["ran", "rob", "caught"];
+      const _0xf0beeb = _0x36d3ff[Math.floor(Math.random() * _0x36d3ff.length)];
+      if (0x3e8 > _0x28adce.wallet) {
+        return _0x131bb9.reply("*☹️ You don't have enough money to pay incase you get caught*");
+      }
+      if (0x3e8 > _0x530d83.wallet) {
+        return _0x131bb9.reply("*Sorry, your victim is too poor 🤷🏽‍♂️ let go🫤.*");
+      }
+      switch (_0xf0beeb) {
+        case 'ran':
+          await _0x131bb9.reply("*Your victim escaped, be more scary next time🫰.*");
+          break;
+        case "rob":
+          const _0x4e82fd = Math.floor(Math.random() * 0x3e8);
+          await eco.deduct(_0x209ec9, "Asta", _0x4e82fd);
+          await eco.give(_0x131bb9.sender, "Asta", _0x4e82fd);
+          await _0x131bb9.reply("*🤑 Robbery operation done successfully.🗡️*\nYou ran with " + _0x4e82fd + " amount in your wallet.");
+          break;
+        case "caught":
+          const _0x54a031 = Math.floor(Math.random() * 0x3e8);
+          await eco.deduct(_0x54c97c, 'Asta', _0x54a031);
+          await _0x131bb9.reply("*Sorry FBI👮 caught up with you, you paid " + _0x54a031 + " 🪙 from wallet🥹.*");
+          break;
+        default:
+          await _0x131bb9.reply("*What are you trying to do👀*.");
+      }
+    } catch (_0x413c75) {
+      _0x131bb9.error(_0x413c75 + "\n\ncommand: rob", _0x413c75);
+    }
+  });
+  smd({
+    'pattern': "withdraw",
+    'desc': "withdraw money from bank account.",
+    'category': 'economy',
+    'filename': __filename,
+    'react': '💷'
+  }, async (_0x3d9e3c, _0x53be4f) => {
+    try {
+      let _0xafff0c = (await groupdb.findOne({
+        'id': _0x3d9e3c.chat
+      })) || {};
+      let _0x5b0d93 = _0xafff0c.economy || "false";
+      if (_0x5b0d93 == "false") {
+        return _0x3d9e3c.reply("*🚦Economy* is not active in current group.");
+      }
+      const _0x18c84f = _0x3d9e3c.sender;
+      if (!_0x53be4f) {
+        return _0x3d9e3c.reply("*Provide the amount💰 you want to withdraw💳!*");
+      }
+      const _0x1a880d = _0x53be4f.trim();
+      const _0x1669fc = await eco.withdraw(_0x18c84f, "Asta", _0x1a880d);
+      if (_0x1669fc.noten) {
+        return _0x3d9e3c.reply("*🏧 Insufficient fund in bank🫤*");
+      }
+      _0x3d9e3c.reply("*🏧 ALERT* \n _🪙" + _0x1669fc.amount + " has been withdrawn from your wallet💰._");
+    } catch (_0x4f04f8) {
+      _0x3d9e3c.error(_0x4f04f8 + "\n\ncommand: withdraw", _0x4f04f8);
+    }
+  });
+  smd({
+    'pattern': 'gamble',
+    'desc': "gamble money.",
+    'category': 'economy',
+    'filename': __filename,
+    'react': '💷'
+  }, async (_0x1302d5, _0x4926c7) => {
+    try {
+      let _0x463904 = (await groupdb.findOne({
+        'id': _0x1302d5.chat
+      })) || {};
+      let _0x248150 = _0x463904.economy || "false";
+      if (_0x248150 == "false") {
+        return _0x1302d5.reply("*🚦Economy* is not active in current group.");
+      }
+      const _0x5b9fce = _0x1302d5.sender;
+      var _0x377b95 = _0x4926c7.split(" ");
+      var _0x144e9f = _0x377b95[0x1];
+      var _0x3bfeb4 = _0x377b95[0x0].toLowerCase();
+      var _0x165801 = parseInt(_0x3bfeb4);
+      const _0xac58e8 = await eco.balance(_0x5b9fce, "Asta");
+      const _0x4990c1 = _0xac58e8.wallet > parseInt(_0x3bfeb4);
+      const _0x51c78c = 0x32 > parseInt(_0x3bfeb4);
+      const _0x3f2245 = _0x165801 * 0x2;
+      var _0x301fcf;
+      if (_0x144e9f === "left") {
+        _0x301fcf = "https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/leftr.webp?raw=true";
+      } else {
+        if (_0x144e9f === "right") {
+          _0x301fcf = "https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/rightr.webp?raw=true";
+        } else {
+          if (_0x144e9f === 'up') {
+            _0x301fcf = 'https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/upr.webp?raw=true';
+          } else if (_0x144e9f === "down") {
+            _0x301fcf = "https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/downr.webp?raw=true";
+          } else {
+            _0x1302d5.reply("Please provide direction(left,right,up,down).\nEg:- " + prefix + "gamble 200 left");
+          }
+        }
+      }
+      let _0x313ee6 = await getBuffer(_0x301fcf);
+      _0x1302d5.reply(_0x313ee6, {
+        'packname': "Asta",
+        'author': "Economy"
+      }, "sticker");
+      const _0x16c912 = ['up', "right", "left", "down", 'up', "left", "down", 'right', 'up', "down", "right", "left"];
+      const _0x456c14 = _0x16c912[Math.floor(Math.random() * _0x16c912.length)];
+      if (!_0x4926c7) {
+        return _0x1302d5.reply("Example:  " + prefix + "gamble 100 direction(left,right,up,down)");
+      }
+      if (!_0x3bfeb4) {
+        return _0x1302d5.reply("*Please, specify the amount you are gambling with!*");
+      }
+      if (!_0x144e9f) {
+        return _0x1302d5.reply("*Specify the direction you are betting on!*");
+      }
+      if (!_0x165801) {
+        return _0x1302d5.reply("*Check your text please, You are using the command in a wrong way*");
+      }
+      if (_0x4990c1 == false) {
+        return _0x1302d5.reply("*You don't have sufficient 🪙 Diamond to gamble with*");
+      }
+      if (_0x51c78c == true) {
+        return _0x1302d5.reply("*Sorry " + _0x1302d5.pushName + ", you can only gamble with more than 🪙50.*");
+      }
+      if (_0x456c14 == _0x144e9f) {
+        return await _0x1302d5.reply("*📈 You won 🪙" + _0x3f2245 + '*');
+      } else {
+        return await _0x1302d5.reply("*📉 You lost 🪙" + _0x377b95[0x0] + '*');
+      }
+    } catch (_0x4f77dc) {
+      _0x1302d5.error(_0x4f77dc + "\n\ncommand: gamble", _0x4f77dc);
+    }
+  });
+  smd({
+    'pattern': "slot2",
+    'desc': "withdraw money from bank account.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async (_0x296a39, _0x1e20a3) => {
+    try {
+      let _0x2c32dd = (await groupdb.findOne({
+        'id': _0x296a39.chat
+      })) || {};
+      let _0x40d289 = _0x2c32dd.economy || "false";
+      if (_0x40d289 == "false") {
+        return _0x296a39.reply("*🚦Economy* is not active in current group.");
+      }
+      var _0x46bfbb = new Date();
+      if (_0x46bfbb.getDay() == 0x6 || _0x46bfbb.getDay() == 0x5 || _0x46bfbb.getDay() == 0x0) {
+        if (_0x1e20a3 == "help") {
+          return _0x296a39.reply("*1:* Use " + prefix + "slot to play\n\n*2:* You must have 🪙100 in your wallet\n\n*3:* If you don't have money in wallet then 👛withdraw from your bank🏦\n\n*4:* If you don't have 🤑 money in your 🏦bank too then use economy features to 📈gain money");
+        }
+        if (_0x1e20a3 == 'money') {
+          return _0x296a39.reply("*1:* Small Win --> +🪙20\n\n*2:* Small Lose --> -🪙20\n\n*3:* Big Win --> +🪙100\n\n*4:* Big Lose --> -🪙50\n\n*5:* 🎉 JackPot --> +🪙1000");
+        }
+        const _0x57a62e = ['🥥', '🍎', '🍇'];
+        const _0x4ce6b8 = ['🍎', '🍇', '🥥'];
+        const _0x3b8bae = ['🍇', '🥥', '🍎'];
+        const _0x365249 = ["*You suck at playing this game*\n\n_--> 🍍-🥥-🍎_", "*Totally out of line*\n\n_--> 🥥-🍎-🍍_", "*Are you a newbie?*\n\n_--> 🍎-🍍-🥥_"];
+        const _0x58fb73 = ["*You cannot harvest coconut 🥥 in a pineapple 🍍 farm*\n\n_--> 🍍>🥥<🍍_", "*Apples and Coconut are not best Combo*\n\n_--> 🍎>🥥<🍎_", "*Coconuts and Apple are not great deal*\n\n_--> 🥥>🍎<🥥_"];
+        const _0x52d689 = ["*You harvested a basket of*\n\n_--> 🍎+🍎+🍎_", "*Impressive, You must be a specialist in plucking coconuts*\n\n_--> 🥥+🥥+🥥_", "*Amazing, you are going to be making pineapple juice for the family*\n\n_--> 🍍+🍍+🍍_"];
+        const _0x397e0d = ["*Wow, you were so close to winning pineapples*\n\n_--> 🍎-🍍+🍍_", "*Hmmm, you were so close to winning Apples*\n\n_--> 🍎+🍎-🍍_"];
+        const _0x4f5ef9 = ["*🥳 JackPot 🤑*\n\n_--> 🍇×🍇×🍇×🍇_", "*🎉 JaaackPooot!*\n\n_--> 🥥×🥥×🥥×🥥_", "*🎊 You Just hit a jackpot worth 🪙1000*"];
+        const _0x54b91f = _0x296a39.sender;
+        const _0x2cbfe2 = await eco.balance(_0x54b91f, "Asta");
+        if (0x64 > _0x2cbfe2.wallet) {
+          return _0x296a39.reply("You are going to be spinning on your wallet, you need at least 🪙100");
+        }
+        const _0x2930d3 = _0x57a62e[Math.floor(Math.random() * _0x57a62e.length)];
+        const _0x4bd642 = _0x4ce6b8[Math.floor(Math.random() * _0x4ce6b8.length)];
+        const _0x21cfd3 = _0x3b8bae[Math.floor(Math.random() * _0x3b8bae.length)];
+        const _0x3075d4 = _0x365249[Math.floor(Math.random() * _0x365249.length)];
+        const _0x25c6be = _0x52d689[Math.floor(Math.random() * _0x52d689.length)];
+        const _0x553ea5 = _0x397e0d[Math.floor(Math.random() * _0x397e0d.length)];
+        const _0x574743 = _0x4f5ef9[Math.floor(Math.random() * _0x4f5ef9.length)];
+        const _0x426f4a = _0x58fb73[Math.floor(Math.random() * _0x58fb73.length)];
+        if (_0x1e20a3.split(" ")[0x0]) {
+          let _0x3ec791 = _0x1e20a3.split(" ")[0x0];
+          const _0x46a4c9 = await eco.balance(_0x296a39.sender, 'Asta');
+          console.log(_0x46a4c9.wallet);
+          if (_0x3ec791 <= _0x46a4c9.wallet) {
+            const _0x71961a = Math.floor(Math.random() * _0x3ec791);
+            if (_0x2930d3 !== _0x4bd642 && _0x4bd642 !== _0x21cfd3) {
+              return _0x296a39.reply(_0x3075d4 + "\n\n*Big Lose -->* _🪙" + _0x71961a + '_');
+            } else {
+              if (_0x2930d3 == _0x4bd642 && _0x4bd642 == _0x21cfd3) {
+                return _0x296a39.reply(_0x25c6be + "\n*_Little Jackpot -->* _🪙" + _0x71961a / 0x2 + '_');
+              } else {
+                if (_0x2930d3 == _0x4bd642 && _0x4bd642 !== _0x21cfd3) {
+                  return _0x296a39.reply(_0x553ea5 + "\n*Small Win -->* _🪙" + _0x71961a + '_');
+                } else {
+                  if (_0x2930d3 !== _0x4bd642 && _0x2930d3 == _0x21cfd3) {
+                    return _0x296a39.reply(_0x426f4a + "\n\n*Small Lose -->* _🪙" + _0x71961a + '_');
+                  } else {
+                    if (_0x2930d3 !== _0x4bd642 && _0x4bd642 == _0x21cfd3) {
+                      return _0x296a39.reply(_0x553ea5 + "\n\n*Small Win -->* _🪙" + _0x71961a + '_');
+                    } else {
+                      if (_0x2930d3 == _0x4bd642 && _0x4bd642 == _0x21cfd3 && _0x21cfd3 == f4) {
+                        return _0x296a39.reply(_0x574743 + "\n\n_🎊 JackPot --> _🪙" + _0x71961a * 0x14 + '_');
+                      } else {
+                        return _0x296a39.reply("Do you understand what you are doing?");
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          } else {
+            return _0x296a39.reply("You don't have enough 💰amount in your👛 wallet.\n- Please don't provide 🤑amount.");
+          }
+        }
+        if (_0x2930d3 !== _0x4bd642 && _0x4bd642 !== _0x21cfd3) {
+          _0x296a39.reply(_0x3075d4 + "\n\n*Big Lose -->* _🪙50_");
+        } else {
+          if (_0x2930d3 == _0x4bd642 && _0x4bd642 == _0x21cfd3) {
+            _0x296a39.reply(_0x25c6be + "\n*_Little Jackpot -->* _🪙100_");
+          } else {
+            if (_0x2930d3 == _0x4bd642 && _0x4bd642 !== _0x21cfd3) {
+              _0x296a39.reply(_0x553ea5 + "\n*Small Win -->* _🪙20_");
+            } else {
+              if (_0x2930d3 !== _0x4bd642 && _0x2930d3 == _0x21cfd3) {
+                _0x296a39.reply(_0x426f4a + "\n\n*Small Lose -->* _🪙20_");
+              } else {
+                if (_0x2930d3 !== _0x4bd642 && _0x4bd642 == _0x21cfd3) {
+                  _0x296a39.reply(_0x553ea5 + "\n\n*Small Win -->* _🪙20_");
+                } else {
+                  if (_0x2930d3 == _0x4bd642 && _0x4bd642 == _0x21cfd3 && _0x21cfd3 == f4) {
+                    _0x296a39.reply(_0x574743 + "\n\n_🎊 JackPot --> _🪙1000_");
+                  } else {
+                    _0x296a39.reply("Do you understand what you are doing?");
+                  }
+                }
+              }
+            }
+          }
+        }
+      } else {
+        _0x296a39.reply("*You can only play this game during weekends*\n\n*🌿 Friday*\n*🎏 Saturday*\n*🎐 Sunday*");
+      }
+    } catch (_0x555eaf) {
+      _0x296a39.error(_0x555eaf + "\n\ncommand: slot2", _0x555eaf);
+    }
+  });
+  smd({
+    'pattern': 'slot',
+    'desc': "slot game.",
+    'category': "economy",
+    'filename': __filename,
+    'react': '💷'
+  }, async _0x22bbb8 => {
+    try {
+      let _0xd34521 = (await groupdb.findOne({
+        'id': _0x22bbb8.chat
+      })) || {};
+      let _0x692af5 = _0xd34521.economy || "false";
+      if (_0x692af5 == "false") {
+        return _0x22bbb8.reply("*🚦Economy* is not active in current group.");
+      }
+      const _0x5a8453 = await eco.balance(_0x22bbb8.sender, "Asta");
+      if (0x64 > _0x5a8453.wallet) {
+        return _0x22bbb8.reply("You are going to be spinning on your wallet, you need at least 🪙100");
+      }
+      var _0x1e88e1 = new Array();
+      _0x1e88e1[0x0] = "1 : 2 : 3";
+      _0x1e88e1[0x1] = "1 : 2 : 3";
+      _0x1e88e1[0x2] = "1 : 2 : 3";
+      _0x1e88e1[0x3] = "4 : 3 : 3";
+      _0x1e88e1[0x4] = "1 : 1 : 1";
+      _0x1e88e1[0x5] = "5 : 2 : 5";
+      _0x1e88e1[0x6] = "3 : 5 : 3";
+      _0x1e88e1[0x7] = "1 : 3 : 6";
+      _0x1e88e1[0x8] = "6 : 2 : 7";
+      _0x1e88e1[0x9] = "1 : 6 : 3";
+      _0x1e88e1[0xa] = "6 : 3 : 2";
+      _0x1e88e1[0xb] = "5 : 5 : 6";
+      _0x1e88e1[0xc] = "1 : 5 : 3";
+      _0x1e88e1[0xd] = "4 : 1 : 7";
+      _0x1e88e1[0xe] = "4 : 3 : 2";
+      _0x1e88e1[0xf] = "4 : 3 : 2";
+      _0x1e88e1[0x10] = "7 : 4 : 6";
+      _0x1e88e1[0x11] = "6 : 5 : 1";
+      _0x1e88e1[0x12] = "5 : 7 : 2";
+      var _0xeaa62c = Math.floor(0x13 * Math.random());
+      var _0x538127 = Math.floor(0x13 * Math.random());
+      var _0x44cccf = Math.floor(0x13 * Math.random());
+      var _0x4a82a2 = _0x1e88e1[_0xeaa62c];
+      var _0x2d1a79 = _0x1e88e1[_0x538127];
+      var _0x8aa502 = _0x1e88e1[_0x44cccf];
+      console.log(_0x4a82a2 + "\n" + _0x2d1a79 + "\n" + _0x8aa502);
+      let _0x4aee7d = _0x4a82a2.split(':');
+      let _0xe3fb1e = _0x2d1a79.split(':');
+      let _0x3f46dc = _0x8aa502.split(':');
+      var _0x5a1e40;
+      if (_0x4aee7d[0x2] === _0xe3fb1e[0x1] && _0xe3fb1e[0x1] === _0x3f46dc[0x0]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x0] === _0xe3fb1e[0x1] && _0xe3fb1e[0x1] === _0x3f46dc[0x2]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x0] === _0xe3fb1e[0x0] && _0xe3fb1e[0x0] === _0x3f46dc[0x0]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x1] === _0xe3fb1e[0x1] && _0xe3fb1e[0x1] === _0x3f46dc[0x1]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x2] === _0xe3fb1e[0x2] && _0xe3fb1e[0x2] === _0x3f46dc[0x2]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x0] === _0xe3fb1e[0x1] && _0xe3fb1e[0x1] === _0x3f46dc[0x2]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x2] === _0xe3fb1e[0x1] && _0xe3fb1e[0x1] === _0x3f46dc[0x0]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x0] === _0x4aee7d[0x1] && _0x4aee7d[0x0] === _0x4aee7d[0x2]) {
+        _0x5a1e40 = true;
+      }
+      if (_0xe3fb1e[0x0] === _0xe3fb1e[0x1] && _0xe3fb1e[0x0] === _0xe3fb1e[0x2]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x3f46dc[0x0] === _0x3f46dc[0x1] && _0x3f46dc[0x0] === _0x3f46dc[0x2]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x4aee7d[0x0] === _0x3f46dc[0x1] && _0x4aee7d[0x0] === _0x3f46dc[0x2]) {
+        _0x5a1e40 = true;
+      }
+      if (_0x5a1e40) {
+        const _0x197ffa = Math.floor(Math.random() * 0x1388);
+        return await _0x22bbb8.reply("You got " + _0x197ffa * 0xa + " in your wallet.");
+      } else {
+        const _0x5be3c2 = Math.floor(Math.random() * 0x12c);
+        let _0x219c9e = "\n🎰 Slot Machine Result\n     " + _0x4a82a2 + "\n\n      " + _0x2d1a79 + "\n\n      " + _0x8aa502 + "\n\nNot Jacpot📉 but lost ";
+        let _0x512098 = _0x219c9e.replace(/1/g, '🔴').replace(/2/g, '🔵').replace(/3/g, '🟣').replace(/4/g, '🟢').replace(/5/g, '🟡').replace(/6/g, '⚪️').replace(/7/g, '⚫️').replace(/:/g, "    ");
+        return await _0x22bbb8.reply(_0x512098 + (" " + _0x5be3c2 + '.'));
+      }
+    } catch (_0x43ed74) {
+      _0x22bbb8.error(_0x43ed74 + "\n\ncommand: slot", _0x43ed74);
+    }
+  });
+}

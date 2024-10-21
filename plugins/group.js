@@ -1,29 +1,47 @@
 /*
- ____   ____      _     ____   _  __ ____  
-/ ___| |  _ \    / \   |  _ \ | |/ // ___| 
-\___ \ | |_) |  / _ \  | |_) || ' / \___ \ 
- ___) ||  __/  / ___ \ |  _ < | . \  ___) |
-|____/ |_|    /_/   \_\|_| \_\|_|\_\|____/ 
-                                           
-
-
-*
-   * @project_name : ANITA
-   * @author : CODERXSA
-   * @youtube : https://www.youtube.com/@coderxsa
-   * @instagram : https://www.instagram.com/coderx.sa
-   * @description : My Private build i made public for everone to use and easy hosting.
-   * @version : 1.0.3
-   * Donation : https://pay.yoco.com/coderx
-   
-   * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
-*
-   * Licensed under the  GPL-3.0 License;
-* 
-   * Created By CODERX.
-   * © 2024 ANITA.
-*/
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                                      //
+//                              ＭＹ ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ                                             // 
+//                                                                                                      // 
+//                                         Ｖ：１．０                                                    // 
+//                                                                                                      // 
+//                                                                                                      //
+//         ░██████╗██████╗░░█████╗░██████╗░██╗░░██╗░██████╗                                             //
+//        ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝                                             //
+//        ╚█████╗░██████╔╝███████║██████╔╝█████═╝░╚█████╗░                                             //
+//        ░╚═══██╗██╔═══╝░██╔══██║██╔══██╗██╔═██╗░░╚═══██╗                                             //
+//        ██████╔╝██║░░░░░██║░░██║██║░░██║██║░╚██╗██████╔╝                                             //
+//        ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░                                             //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+
+*
+   * @project_name : SPARKS_MD
+   * @author : SPARKS
+   * @youtube : https://youtube.com/@cyberwithsparks
+   * @instagram : https://www.instagram.com/sparksthemzy
+   * @description : My private build made public for everyone to use with easy hosting.
+   * @version : 1.0
+   * Donation : https://paystack.com/pay/sparks_md_donation
+   
+   * I update my GitHub bots when I have time, focusing mainly on key projects.
+*
+   * Licensed under the GPL-3.0 License;
+* 
+   * Created By SPARKS.
+   * © 2024 SPARKS TECH SOLUTIONS.
+*/
+
+
+
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+
+
 const {
   updateProfilePicture,
   parsedJid
@@ -175,7 +193,6 @@ smd({
         'mentions': [_0x1994f5.owner],
         'contextInfo': _0x16f0f4
       });
-
     } else {
       await _0x248089.reply("*_Group Id not found, Sorry!!_*");
     }
@@ -183,7 +200,6 @@ smd({
     await _0x248089.reply("An error occurred while fetching group info: " + _0x48f8a3.message);
   }
 });
-
 smd({
   'cmdname': "rejectall",
   'alias': ["rejectjoin"],

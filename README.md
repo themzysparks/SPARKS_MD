@@ -1,114 +1,107 @@
-Zmk<p align="center">  
-  <a href="https://youtu.be/Wssss">
-    <img alt="anita" height="300" src="https://raw.githubusercontent.com/coderxsa/WABot/main/ANITA/PIC/anita.jpg">
-    <h1 align="center">ANITA 2.5</h1>
+<p align="center">  
+  <a href="https://github.com/themzysparks">
+    <img alt="sparks" height="300" src="https://raw.githubusercontent.com/themzysparks/SPARKS_MD/main/sparks.jpg">
+    <h1 align="center">SPARKS MD - Version 1.0</h1>
   </a>
 </p>
+
 <p align="center">
-<p/>
-<p align="center">
-<a href="https://github.com/coderxsa?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/coderxsa?label=Followers&style=social"></a>
-<a href="https://github.com/coderxsa/ANITA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/coderxsa/ANITAv2?&style=social"></a>
-<a href="https://github.com/coderxsa/ANITA/network/members"><img title="Fork" src="https://img.shields.io/github/forks/coderxsa/ANITAv2?style=social"></a>
-<a href="https://github.com/coderxsa/ANITA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/coderxsa/ANITAv2?label=Watching&style=social"></a>
-<a href="" alt="FOSSA Status"><img src=""/></a>
+<a href="https://github.com/themzysparks?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/themzysparks?label=Followers&style=social"></a>
+<a href="https://github.com/themzysparks/SPARKS_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/themzysparks/SPARKS_MD?&style=social"></a>
+<a href="https://github.com/themzysparks/SPARKS_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/themzysparks/SPARKS_MD?style=social"></a>
+<a href="https://github.com/themzysparks/SPARKS_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/themzysparks/SPARKS_MD?label=Watching&style=social"></a>
 </p>
 
-####  
-ANITA - Simple Multi Device whatsapp bot.
+---
 
-#### SETUP
+## 🚀 SPARKS MD - The Ultimate Multi-Device WhatsApp Bot
 
-1. Fork the repo
-    <br>
-<a href='https://github.com/coderxsa/ANITA/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+### SETUP INSTRUCTIONS
 
-
-2. Get Session ID (Server 1) 
-    <br>
-<a href='https://coderx-sessions.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-2. Get Session ID (Server 2) (use this if server 1 Doesn't work)
-    <br>
-<a href='https://replit.com/@kimora14/CODERX-SESSION?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-#### DEPLOY TO Toystack
-
-1. If You don't have an account in Toystack. Create an account.
-    <br>
-<p align="center"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
-
-3. Now Deploy Toystack
+1. **Fork the repo**
    <br>
- <div align="center">
-  <a href="https://toystack.ai">
-    <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45" alt="Deploy to Toystack ">
+   <a href='https://github.com/themzysparks/SPARKS_MD/fork' target="_blank">
+   <img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/>
+   </a>
+
+2. **Get Your Session ID**  
+   - Server 1: <a href='https://sparks-sessions.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>  
+   - Server 2: (Backup) <a href='https://replit.com/@sparks/SPARKS-SESSION?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+---
+
+### 🌐 DEPLOYMENT OPTIONS
+
+#### Deploy to Koyeb
+
+If you don't have a Koyeb account, sign up here:
+<p align="center"><a href="https://app.koyeb.com"> <img src="https://img.shields.io/badge/Koyeb%20Account-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
+
+Now deploy to Koyeb:
+<div align="center">
+  <a href="https://app.koyeb.com">
+    <img src="https://img.shields.io/badge/Deploy%20to%20Koyeb-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45" alt="Deploy to Koyeb">
   </a>
 </div>
 
+---
 
-#### DEPLOY TO HEROKU
+#### Deploy to Heroku
 
-1. If You don't have an account in Heroku. Create a account.
-    <br>
-<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+1. Sign up for a Heroku account if you don't have one:
+   <p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/Heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-2. Watch the following video tutorial, for assistance.
-    <br>
-<p align="center"><a href="https://youtu.be/soon"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+2. Follow the tutorial for guidance:
+   <p align="center"><a href="https://youtu.be/soon"> <img src="https://img.shields.io/badge/Heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-3. Now Deploy
-   <br>
- <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/ANITA">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
-  </a>
-</div>
+3. Deploy to Heroku:
+   <div align="center">
+     <a href="https://heroku.com/deploy?template=https://github.com/themzysparks/SPARKS_MD">
+       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+     </a>
+   </div>
 
- 
-#### DEPLOY TO Replit (This shit also Going paid) FREE option
+---
 
-1. If You don't have an account in Replit. Create an account.
-    <br>
-<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+#### Deploy to Replit (Free Option)
 
-2. Now Deploy
-    <br>
-<p align="center"><a href="https://repl.it/github/coderxsa/ANITA.git"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+1. Sign up for a Replit account:
+   <p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/Replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
- 
- ## 🤩 Support
+2. Deploy to Replit:
+   <p align="center"><a href="https://repl.it/github/themzysparks/SPARKS_MD.git"> <img src="https://img.shields.io/badge/Replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
-SUPPORT GROUP: <a href="https://pay.yoco.com/coderx"><img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/></a>
-- Support me with small Donation (Click Above Images)
+---
 
-- Star ⭐ the repo if you like ANITA.
+## 💖 Support
 
-## CREDITS 
+- Join the Support Group on WhatsApp: <a href="https://chat.whatsapp.com/EePxh541Upt4DVWgDG5qYp">Join Group</a>
+- Support me with a small donation: <a href="https://paystack.com/pay/sparks_md_donation"><img alt="Donate via Paystack" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/></a>
+- **Star ⭐ the repo** if you find SPARKS MD helpful!
 
+---
 
+## 👨‍💻 CREDITS
 
+<p align="center">
+<a href="https://github.com/themzysparks"><img src="https://raw.githubusercontent.com/themzysparks/SPARKS_MD/main/sparks.jpg" width="250" height="250" alt="theMzysparks"/></a>
+<br>
+<b>SPARKS MD - Developed by SPARKS</b>
+</p>
 
-## `Main Dev` 
-<a href="https://github.com/coderxsa"><img src="https://avatars.githubusercontent.com/u/149763717?v=4" width="250" height="250" alt="coderxsa"/></a>
-  
-`ANITA - By coderxsa`
+---
 
+## ⚠️ DISCLAIMER
 
-<h2 align="center">  Reminder
-</h2>
-   
-## 
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only 3 times.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
+- This bot is **not affiliated with WhatsApp Inc.** Misusing it may result in your WhatsApp account being banned.
+- Use at your own risk. I am not responsible for any bans or issues arising from using this bot.
+- You are allowed to fork, but please provide **proper credits** when using or re-uploading any part of this project.
 
+---
 
-<h2 align="center">  NOTICE
-</h2>
-   
-## 
-- Not For Sale
-- If A plugin's code is obfuscated , You don't have permission to edit it in any form 
-- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
-- Have A Good Day Ahead
+## 📜 NOTICE
+
+- Not for commercial use.
+- If the plugin's code is obfuscated, you are not allowed to modify it.
+- Don't forget to **credit** if you're using or sharing my plugins or code.
+- Have a great day!

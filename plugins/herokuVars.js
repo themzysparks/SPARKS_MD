@@ -1,26 +1,444 @@
 /*
-▄▀█ █▄░█ █ ▀█▀ ▄▀█
-█▀█ █░▀█ █ ░█░ █▀█
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                                      //
+//                              ＭＹ ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ                                             // 
+//                                                                                                      // 
+//                                         Ｖ：１．０                                                    // 
+//                                                                                                      // 
+//                                                                                                      //
+//         ░██████╗██████╗░░█████╗░██████╗░██╗░░██╗░██████╗                                             //
+//        ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝                                             //
+//        ╚█████╗░██████╔╝███████║██████╔╝█████═╝░╚█████╗░                                             //
+//        ░╚═══██╗██╔═══╝░██╔══██║██╔══██╗██╔═██╗░░╚═══██╗                                             //
+//        ██████╔╝██║░░░░░██║░░██║██║░░██║██║░╚██╗██████╔╝                                             //
+//        ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░                                             //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 *
-   * @project_name : ANITA
-   * @author : CODERXSA
-   * @youtube : https://www.youtube.com/@coderxsa
-   * @instagram : https://www.instagram.com/coderx.sa
-   * @description : My Private build i made public for everone to use and easy hosting.
-   * @version : 1.0.3
-   * Donation : https://pay.yoco.com/coderx
+   * @project_name : SPARKS_MD
+   * @author : SPARKS
+   * @youtube : https://youtube.com/@cyberwithsparks
+   * @instagram : https://www.instagram.com/sparksthemzy
+   * @description : My private build made public for everyone to use with easy hosting.
+   * @version : 1.0
+   * Donation : https://paystack.com/pay/sparks_md_donation
    
-   * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+   * I update my GitHub bots when I have time, focusing mainly on key projects.
 *
-   * Licensed under the  GPL-3.0 License;
+   * Licensed under the GPL-3.0 License;
 * 
-   * Created By CODERX.
-   * © 2024 ANITA.
+   * Created By SPARKS.
+   * © 2024 SPARKS TECH SOLUTIONS.
 */
 
 
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-const _0x28c712=_0x29d9;(function(_0x1ddb8f,_0x5a342f){const _0x405a16=_0x29d9,_0x139d18=_0x1ddb8f();while(!![]){try{const _0x719fb3=-parseInt(_0x405a16(0x218))/0x1*(-parseInt(_0x405a16(0x1cc))/0x2)+parseInt(_0x405a16(0x1e7))/0x3+parseInt(_0x405a16(0x203))/0x4+parseInt(_0x405a16(0x1ef))/0x5*(-parseInt(_0x405a16(0x1fe))/0x6)+-parseInt(_0x405a16(0x20c))/0x7*(parseInt(_0x405a16(0x1d7))/0x8)+parseInt(_0x405a16(0x1f2))/0x9*(parseInt(_0x405a16(0x1e4))/0xa)+-parseInt(_0x405a16(0x1cd))/0xb;if(_0x719fb3===_0x5a342f)break;else _0x139d18['push'](_0x139d18['shift']());}catch(_0x351829){_0x139d18['push'](_0x139d18['shift']());}}}(_0x4446,0x51f88));const Config=require(_0x28c712(0x214));let {fancytext,tlang,tiny,runtime,formatp,botpic,prefix,sck1,smd}=require('../lib');const axios=require(_0x28c712(0x1e9)),appName=Config['HEROKU_APP_NAME']?Config[_0x28c712(0x1fc)][_0x28c712(0x1cb)]():'',authToken=Config[_0x28c712(0x204)],HEROKU=authToken&&appName?!![]:![],fetch=require(_0x28c712(0x213));let updateConfig=()=>{const _0x485f66=_0x28c712;try{let _0x169af9='../config';return delete require[_0x485f66(0x1f8)][_0x169af9],require(_0x169af9),!![];}catch(_0x268231){console[_0x485f66(0x1db)](_0x268231);}};function _0x4446(){const _0x304317=['@s.whatsapp.net','GET','\x0a\x0acommand:\x20allvar','addvar','*Please\x20give\x20me\x20Variable\x20Name*\x0a*Example\x20:\x20','send','Variable\x20not\x20found\x20in\x20app','trim','*Uhh\x20Please,\x20Provide\x20value\x20after\x20\x27:\x27\x20!*\x0a*Example\x20:\x20','To\x20Set\x20Heroku\x20Vars','sudo','*Number\x20Already\x20Exist\x20In\x20Sudo!*','\x20MODS*\x20👤\x0a\x20\x20\x20\x0a','reply','sender','allvar','avar','then','slice','split','tools','toLowerCase','22414pikIug','3045867yrmmdT','*Uhh\x20dear,\x20reply/mention\x20an\x20User*','ANITA','botname','catch','forEach','newvar',':*\x20[\x20','```','indexOf','173872JKqHTN','gsudo','data','img','log','ssudo','/config-vars','Failed\x20to\x20fetch\x20app\x20variables.\x20Status:\x20','json','application/vnd.heroku+json;\x20version=3','getsudo','\x0a\x20\x20\x20👤\x20*','getallvar','61690DuCadN','*_User\x20not\x20found\x20in\x20the\x20Sudo\x20List!_*','\x0a\x0acommand:\x20','806124bWSqla','To\x20Get\x20A\x20Heroku\x20Var','axios','setmod','application/json','\x20\x20\x20『\x20*','Bearer\x20','SUDO','3268625nRNbDe','*User\x20temporary\x20added\x20in\x20sudo.*','*_Request\x20terminated\x20due\x20to\x20error!_*\x0a\x0a\x20\x20There\x27s\x20no\x20responce\x20from\x20_HEROKU_,\x20\x0a\x20\x20please\x20check\x20that\x20you\x20put\x20valid\x20_HEROKU_APP_NAME_\x20and\x20_HEROKU_API_KEY_','216jRjGrV','\x20Added\x20Succesfully.*\x0aSudo\x20Numbers\x20:\x20```','replace','*User\x20removed\x20from\x20sudo.*','\x20CAPTION:ANITA*','env','cache','setsudo','\x20:*\x20','setvar','HEROKU_APP_NAME','allvars','6lrbLha','\x20]\x20\x20*updated\x20successfully.*','*_There\x27s\x20no\x20responce\x20from\x20HEROKU_*,\x20\x0a\x20\x20_please\x20check\x20that\x20you\x20put\x20valid_\x0a\x20\x20_*HEROKU_APP_NAME*\x20&\x20*HEROKU_API_KEY*_','\x0a\x0acommand:\x20delsudo','mentionedJid','1718044VHjoHi','HEROKU_API_KEY','\x0a\x0acommand:\x20setsudo','stringify','toUpperCase','includes','*_Can\x27t\x20add\x20','hasOwnProperty','*\x20does\x20not\x20exist\x20in\x20Heroku\x20*','56vfBCpc','setvar\x20PREFIX:null*','PATCH','status','https://api.heroku.com/apps/','\x20AUTO_SAVE_STATUS:true*','Make\x20sudo\x20to\x20a\x20user','node-fetch','../config','getvar','\x20〄\x20@','delsudo','53zWcEws','reply_message','message','join','*Uhh\x20dear,\x20Give\x20me\x20variable\x20name*\x0a*Example\x20:\x20','error'];_0x4446=function(){return _0x304317;};return _0x4446();}function _0x29d9(_0x4f58ae,_0x3421fe){const _0x4446c4=_0x4446();return _0x29d9=function(_0x29d974,_0x4e6a40){_0x29d974=_0x29d974-0x1bd;let _0x34fc2d=_0x4446c4[_0x29d974];return _0x34fc2d;},_0x29d9(_0x4f58ae,_0x3421fe);}const heroku={};heroku['addvar']=async(_0x19e140,_0x566c94)=>{const _0x4f89d0=_0x28c712;try{const _0x435177={'Accept':_0x4f89d0(0x1e0),'Authorization':_0x4f89d0(0x1ed)+authToken,'Content-Type':_0x4f89d0(0x1eb)},_0xa39f4d=await fetch('https://api.heroku.com/apps/'+appName+_0x4f89d0(0x1dd),{'method':_0x4f89d0(0x20e),'headers':_0x435177,'body':JSON[_0x4f89d0(0x206)]({[_0x19e140]:_0x566c94})}),_0x588f54=await _0xa39f4d[_0x4f89d0(0x1df)]();return{'status':!![],'data':_0x588f54};}catch(_0x6936ff){return{'status':![],'data':_0x6936ff};}},heroku['getallvar']=async()=>{const _0x157bd8=_0x28c712;try{const _0x118862={'Accept':_0x157bd8(0x1e0),'Authorization':_0x157bd8(0x1ed)+authToken},_0x316d07=await fetch(_0x157bd8(0x210)+appName+_0x157bd8(0x1dd),{'headers':_0x118862}),_0x5e3564=await _0x316d07[_0x157bd8(0x1df)]();let _0x2c9a98=_0x157bd8(0x1ec)+appName+'\x20VARS*\x20』\x20\x0a*________________________________________*\x0a';return Object['keys'](_0x5e3564)[_0x157bd8(0x1d2)](_0x781462=>{const _0x400034=_0x157bd8;_0x2c9a98+='*'+_0x781462+'\x20:*\x20\x20'+(_0x5e3564[_0x781462]?_0x400034(0x1d5)+_0x5e3564[_0x781462]+'```':'')+'\x20\x0a';}),{'status':!![],'data':_0x2c9a98};}catch(_0x5278fb){return{'status':![],'data':_0x5278fb['message']||_0x5278fb};}},heroku[_0x28c712(0x215)]=async _0x292fd0=>{const _0x8092b2=_0x28c712;try{const _0x11979c={'Accept':_0x8092b2(0x1e0),'Authorization':_0x8092b2(0x1ed)+authToken},_0x33a83a=await fetch(_0x8092b2(0x210)+appName+_0x8092b2(0x1dd),{'headers':_0x11979c}),_0x5edaa2=await _0x33a83a['json']();return{'status':!![],'data':_0x5edaa2[_0x292fd0]};}catch(_0x5b18d2){return{'status':![],'data':_0x5b18d2[_0x8092b2(0x21a)]||_0x5b18d2};}},heroku['setvar']=async(_0x48b3cf,_0x1591c0)=>{const _0x4c044f=_0x28c712;try{const _0x2d042a={'Accept':'application/vnd.heroku+json;\x20version=3','Authorization':_0x4c044f(0x1ed)+authToken,'Content-Type':_0x4c044f(0x1eb)};fetch('https://api.heroku.com/apps/'+appName+_0x4c044f(0x1dd),{'method':_0x4c044f(0x21f),'headers':_0x2d042a})['then'](_0x270bd4=>{const _0x1aa4c0=_0x4c044f;return _0x270bd4['ok']?_0x270bd4[_0x1aa4c0(0x1df)]():{'status':![],'data':_0x1aa4c0(0x1de)+_0x270bd4[_0x1aa4c0(0x20f)]};})[_0x4c044f(0x1c7)](_0x3b0d0b=>{const _0x130f4a=_0x4c044f;if(_0x3b0d0b[_0x130f4a(0x20a)](_0x48b3cf)){const _0x58ff56={..._0x3b0d0b};return _0x58ff56[_0x48b3cf]=_0x1591c0,fetch(_0x130f4a(0x210)+appName+_0x130f4a(0x1dd),{'method':'PATCH','headers':_0x2d042a,'body':JSON['stringify'](_0x58ff56)});}else return{'status':![],'data':'Variable\x20not\x20found\x20in\x20app'};})[_0x4c044f(0x1c7)](_0x5dd1dc=>{if(_0x5dd1dc['ok'])return{'status':!![],'data':_0x5dd1dc};})[_0x4c044f(0x1d1)](_0x5017e2=>{return{'status':![],'data':_0x5017e2};});}catch(_0x58c920){return{'status':![],'data':_0x58c920};}},heroku[_0x28c712(0x1fb)]=async(_0x3a86da,_0x46a399)=>{const _0x416a9d=_0x28c712;try{const _0xa13515={'Accept':_0x416a9d(0x1e0),'Authorization':_0x416a9d(0x1ed)+authToken,'Content-Type':'application/json'},_0x530838=await fetch(_0x416a9d(0x210)+appName+_0x416a9d(0x1dd),{'method':_0x416a9d(0x21f),'headers':_0xa13515});if(!_0x530838['ok'])return{'status':![],'data':'Variable\x20not\x20found\x20in\x20heroku\x20app'};const _0x1ce83f=await _0x530838[_0x416a9d(0x1df)]();if(_0x1ce83f[_0x416a9d(0x20a)](_0x3a86da)){const _0x6c1d9={..._0x1ce83f};_0x6c1d9[_0x3a86da]=_0x46a399;const _0x1a9311=await fetch(_0x416a9d(0x210)+appName+'/config-vars',{'method':_0x416a9d(0x20e),'headers':_0xa13515,'body':JSON[_0x416a9d(0x206)](_0x6c1d9)});return _0x1a9311['ok']?{'status':!![],'data':_0x1a9311}:{'status':![],'data':'Failed\x20to\x20update\x20app\x20variable.\x20Status:\x20'+_0x1a9311[_0x416a9d(0x20f)]};}else return{'status':![],'data':_0x416a9d(0x224)};}catch(_0x4ae5fa){return{'status':![],'data':_0x4ae5fa[_0x416a9d(0x21a)]||_0x4ae5fa};}},smd({'cmdname':_0x28c712(0x1e1),'alias':['mods',_0x28c712(0x1d8)],'info':'get\x20sudo\x20users\x20list.','fromMe':!![],'type':_0x28c712(0x1ca),'filename':__filename},async _0x50ef8c=>{const _0x3ee1ff=_0x28c712;let _0x3da924=global['sudo']['split'](',')['filter'](_0x2f2117=>_0x2f2117&&_0x2f2117!=='null')['map'](_0x34e540=>_0x34e540['trim']()),_0x12fbac=_0x3da924['map']((_0x32f66d,_0x35d434)=>'\x20\x20'+(_0x35d434+0x1)+_0x3ee1ff(0x216)+_0x32f66d+'\x0a\x0a')[_0x3ee1ff(0x21b)](''),_0x54743e=[_0x50ef8c['sender'],..._0x3da924['map'](_0x2ba330=>_0x2ba330+_0x3ee1ff(0x21e))];if(!_0x12fbac||!_0x3da924||!_0x3da924[0x0])return await _0x50ef8c[_0x3ee1ff(0x1c3)]('*There\x27s\x20no\x20mods/sudo\x20added\x20for\x20your\x20bot!*');let _0x19fc4b=(_0x3ee1ff(0x1e2)+(Config[_0x3ee1ff(0x1d0)]?Config[_0x3ee1ff(0x1d0)]:_0x3ee1ff(0x1cf))+_0x3ee1ff(0x1c2)+_0x12fbac)['trim']();return await _0x50ef8c['reply']('https://telegra.ph/file/5fd51597b0270b8cff15b.png',{'caption':_0x19fc4b,'mentions':_0x54743e},_0x3ee1ff(0x1da),_0x50ef8c);}),smd({'pattern':_0x28c712(0x1f9),'alias':[_0x28c712(0x1dc),_0x28c712(0x1ea)],'fromMe':!![],'desc':_0x28c712(0x212),'category':_0x28c712(0x1ca),'filename':__filename},async _0x28e4a7=>{const _0x140024=_0x28c712;try{let _0x119a03=_0x28e4a7[_0x140024(0x219)]?_0x28e4a7[_0x140024(0x219)][_0x140024(0x1c4)]:_0x28e4a7['mentionedJid'][0x0]?_0x28e4a7[_0x140024(0x202)][0x0]:'';if(!_0x119a03||!_0x119a03['includes'](_0x140024(0x21e)))return await _0x28e4a7[_0x140024(0x1c3)](_0x140024(0x1ce));let _0x829f68=_0x119a03[_0x140024(0x1c9)]('@')[0x0];if(global[_0x140024(0x1c0)]['includes'](_0x829f68))return _0x28e4a7[_0x140024(0x1c3)](_0x140024(0x1c1));global[_0x140024(0x1c0)]+=','+_0x829f68;let _0x302ec7=HEROKU?await heroku[_0x140024(0x221)](_0x140024(0x1ee),global['sudo']):{'status':![]};if(_0x302ec7&&_0x302ec7[_0x140024(0x20f)])return _0x28e4a7[_0x140024(0x1c3)]('*'+_0x829f68+_0x140024(0x1f3)+global['sudo']+_0x140024(0x1d5));else(!_0x302ec7||!_0x302ec7?.['status'])&&(HEROKU&&await _0x28e4a7[_0x140024(0x1c3)](_0x140024(0x1f1)),await _0x28e4a7[_0x140024(0x1c3)](_0x140024(0x1f0)));}catch(_0x3c9d07){await _0x28e4a7[_0x140024(0x21d)](_0x3c9d07+_0x140024(0x205),_0x3c9d07);}}),smd({'pattern':_0x28c712(0x217),'alias':['dsudo','delmod'],'fromMe':!![],'desc':'delete\x20sudo\x20user.','category':_0x28c712(0x1ca),'filename':__filename},async _0x554abb=>{const _0x2a03c7=_0x28c712;try{let _0x14a053=_0x554abb[_0x2a03c7(0x219)]?_0x554abb[_0x2a03c7(0x219)][_0x2a03c7(0x1c4)]:_0x554abb[_0x2a03c7(0x202)][0x0]?_0x554abb['mentionedJid'][0x0]:'';if(!_0x14a053||!_0x14a053['includes'](_0x2a03c7(0x21e)))return await _0x554abb[_0x2a03c7(0x1c3)](_0x2a03c7(0x1ce));let _0x3c1625=_0x14a053['split']('@')[0x0],_0x2c921d=','+_0x3c1625;if(global['sudo'][_0x2a03c7(0x208)](_0x2c921d))global[_0x2a03c7(0x1c0)]=global['sudo'][_0x2a03c7(0x1f4)](_0x2c921d,'');else return await _0x554abb[_0x2a03c7(0x1c3)](_0x2a03c7(0x1e5));let _0x16683a=HEROKU?await heroku['addvar'](_0x2a03c7(0x1ee),global[_0x2a03c7(0x1c0)]):{'status':![]};if(_0x16683a&&_0x16683a[_0x2a03c7(0x20f)])return _0x554abb['reply']('*'+_0x3c1625+'\x20Deleted\x20Succesfully.*\x0aSudo\x20Numbers\x20:\x20```'+global[_0x2a03c7(0x1c0)]+_0x2a03c7(0x1d5));else(!_0x16683a||!_0x16683a?.['status'])&&(HEROKU&&await _0x554abb[_0x2a03c7(0x1c3)]('*_Request\x20terminated\x20due\x20to\x20error!_*\x0a\x0a\x20\x20There\x27s\x20no\x20responce\x20from\x20_HEROKU_,\x20\x0a\x20\x20please\x20check\x20that\x20you\x20put\x20valid\x20_HEROKU_APP_NAME_\x20and\x20_HEROKU_API_KEY_'),await _0x554abb[_0x2a03c7(0x1c3)](_0x2a03c7(0x1f5)));}catch(_0x290296){await _0x554abb['error'](_0x290296+_0x2a03c7(0x201),_0x290296);}}),smd({'pattern':_0x28c712(0x1c5),'alias':['getallvar',_0x28c712(0x1fd)],'desc':'To\x20get\x20All\x20\x20Heroku\x20Vars','fromMe':!![],'category':_0x28c712(0x1ca),'filename':__filename},async _0x4a06b2=>{const _0x136e39=_0x28c712;try{let _0x145fff=await heroku[_0x136e39(0x1e3)]();console['log']({'result':_0x145fff});if(_0x145fff[_0x136e39(0x20f)])return _0x4a06b2[_0x136e39(0x223)](_0x145fff['data']);else console['error'](_0x145fff['data']),_0x4a06b2['reply']('*_There\x27s\x20no\x20responce\x20from\x20HEROKU_*,\x20\x0a\x20\x20please\x20check\x20that\x20you\x20put\x20valid\x0a\x20\x20_HEROKU_APP_NAME_\x20&\x20_HEROKU_API_KEY_\x0a```\x20See\x20Console\x20to\x20check\x20whats\x20the\x20err```');}catch(_0x4a4c63){await _0x4a06b2[_0x136e39(0x21d)](_0x4a4c63+_0x136e39(0x220),_0x4a4c63);}}),smd({'pattern':_0x28c712(0x1d3),'alias':['addvar',_0x28c712(0x1c6)],'desc':'To\x20Set\x20Heroku\x20Vars','category':_0x28c712(0x1ca),'fromMe':!![],'filename':__filename},async(_0x54c74c,_0x603853,{cmdName:_0x3e9005})=>{const _0x471415=_0x28c712;try{if(!_0x603853)return _0x54c74c[_0x471415(0x1c3)]('*Use\x20'+(prefix+_0x3e9005)+_0x471415(0x1f6));const _0xad404=_0x603853[_0x471415(0x1d6)](':'),_0x2aad99=_0x603853['slice'](0x0,_0xad404)['toUpperCase']()[_0x471415(0x1bd)](),_0x12f42f=_0x603853[_0x471415(0x1c8)](_0xad404+0x1)['trim']();process[_0x471415(0x1f7)][_0x2aad99]=_0x12f42f,updateConfig();if(!_0x12f42f)return msg[_0x471415(0x1c3)]('*Uhh\x20Please,\x20Provide\x20Value\x20After\x20\x27:\x27\x20!*\x0a*Example\x20:\x20'+(prefix+smd)+_0x471415(0x211));let _0x24d604=await heroku[_0x471415(0x221)](_0x2aad99,_0x12f42f);if(_0x24d604&&_0x24d604[_0x471415(0x20f)])return _0x54c74c[_0x471415(0x1c3)]('*'+_0x2aad99+':*\x20[\x20'+_0x12f42f+'\x20]\x20\x20*Added\x20successfully.*');else(!_0x24d604||!_0x24d604[_0x471415(0x20f)])&&(console[_0x471415(0x21d)](result[_0x471415(0x1d9)]),await _0x54c74c[_0x471415(0x1c3)](_0x471415(0x209)+_0x3e9005+'\x20due\x20to\x20error!_*\x0a\x0a\x20\x20_please\x20check\x20that\x20you\x20put\x20valid_\x0a\x20\x20_*HEROKU_APP_NAME*\x20and\x20*HEROKU_API_KEY*_'));}catch(_0x5ab6d4){await _0x54c74c[_0x471415(0x21d)](_0x5ab6d4+'\x0a\x0acommand:\x20'+_0x3e9005,_0x5ab6d4);}}),smd({'pattern':_0x28c712(0x215),'desc':_0x28c712(0x1e8),'category':_0x28c712(0x1ca),'fromMe':!![],'filename':__filename},async(_0x20c73c,_0x4467e9,{cmdName:_0x3eb143})=>{const _0x4ff17b=_0x28c712;try{if(!_0x4467e9)return _0x20c73c[_0x4ff17b(0x1c3)](_0x4ff17b(0x222)+(prefix+_0x3eb143)+'\x20CAPTION*');const _0x38d47f=_0x4467e9[_0x4ff17b(0x1c9)]('\x20')[0x0][_0x4ff17b(0x207)]();let _0x39fd93=await heroku[_0x4ff17b(0x215)](_0x38d47f);if(_0x39fd93[_0x4ff17b(0x20f)])return _0x39fd93[_0x4ff17b(0x1d9)]?_0x20c73c[_0x4ff17b(0x1c3)]('*'+_0x38d47f+_0x4ff17b(0x1fa)+_0x39fd93['data']):_0x20c73c[_0x4ff17b(0x1c3)]('*'+_0x38d47f+_0x4ff17b(0x20b)+appName+'*\x20app.');else(!_0x39fd93||!_0x39fd93[_0x4ff17b(0x20f)])&&(console[_0x4ff17b(0x21d)](result['data']),await _0x20c73c['reply'](_0x4ff17b(0x200)));}catch(_0x160e99){await _0x20c73c['error'](_0x160e99+_0x4ff17b(0x1e6)+_0x3eb143,_0x160e99);}}),smd({'pattern':_0x28c712(0x1fb),'desc':_0x28c712(0x1bf),'category':_0x28c712(0x1ca),'fromMe':!![],'filename':__filename},async(_0x5042ba,_0x5add99,{smd:_0x3680a1})=>{const _0x941bab=_0x28c712;try{if(!_0x5add99)return _0x5042ba[_0x941bab(0x1c3)](_0x941bab(0x21c)+prefix+_0x941bab(0x20d));const _0x9866a8=_0x5add99[_0x941bab(0x1d6)](':'),_0x1de0ee=_0x5add99[_0x941bab(0x1c8)](0x0,_0x9866a8)[_0x941bab(0x207)]()[_0x941bab(0x1bd)](),_0x40909a=_0x5add99[_0x941bab(0x1c8)](_0x9866a8+0x1)[_0x941bab(0x1bd)]();if(!_0x40909a)return msg[_0x941bab(0x1c3)](_0x941bab(0x1be)+(prefix+_0x3680a1)+'\x20AUTO_READ_STATUS:true*');process[_0x941bab(0x1f7)][_0x1de0ee]=_0x40909a,updateConfig();let _0x4466ef=await heroku['setvar'](_0x1de0ee,_0x40909a);if(_0x4466ef[_0x941bab(0x20f)])await _0x5042ba[_0x941bab(0x1c3)]('*'+_0x1de0ee+_0x941bab(0x1d4)+_0x40909a+_0x941bab(0x1ff));else(!_0x4466ef||!_0x4466ef['status'])&&(console[_0x941bab(0x21d)](_0x4466ef[_0x941bab(0x1d9)]),await _0x5042ba[_0x941bab(0x1c3)](_0x4466ef['data']));}catch(_0x21f60c){await _0x5042ba[_0x941bab(0x21d)](_0x21f60c+'\x0a\x0acommand:\x20'+_0x3680a1,_0x21f60c);}});
+
+const Config = require("../config");
+let {
+  fancytext,
+  tlang,
+  tiny,
+  runtime,
+  formatp,
+  botpic,
+  prefix,
+  sck1,
+  smd
+} = require('../lib');
+const appName = Config.HEROKU_APP_NAME ? Config.HEROKU_APP_NAME.toLowerCase() : '';
+const authToken = Config.HEROKU_API_KEY;
+const HEROKU = !!(authToken && appName);
+const fetch = require("node-fetch");
+let updateConfig = () => {
+  try {
+    delete require.cache['../config'];
+    require('../config');
+    return true;
+  } catch (_0x268231) {
+    console.log(_0x268231);
+  }
+};
+const heroku = {
+  addvar: async (_0x19e140, _0x566c94) => {
+    try {
+      const _0x435177 = {
+        'Accept': "application/vnd.heroku+json; version=3",
+        'Authorization': "Bearer " + authToken,
+        'Content-Type': "application/json"
+      };
+      const _0xa39f4d = await fetch('https://api.heroku.com/apps/' + appName + "/config-vars", {
+        'method': "PATCH",
+        'headers': _0x435177,
+        'body': JSON.stringify({
+          [_0x19e140]: _0x566c94
+        })
+      });
+      const _0x588f54 = await _0xa39f4d.json();
+      return {
+        'status': true,
+        'data': _0x588f54
+      };
+    } catch (_0x6936ff) {
+      return {
+        'status': false,
+        'data': _0x6936ff
+      };
+    }
+  },
+  getallvar: async () => {
+    try {
+      const _0x118862 = {
+        'Accept': "application/vnd.heroku+json; version=3",
+        'Authorization': "Bearer " + authToken
+      };
+      const _0x316d07 = await fetch("https://api.heroku.com/apps/" + appName + "/config-vars", {
+        'headers': _0x118862
+      });
+      const _0x5e3564 = await _0x316d07.json();
+      let _0x2c9a98 = "   『 *" + appName + " VARS* 』 \n*________________________________________*\n";
+      Object.keys(_0x5e3564).forEach(_0x781462 => {
+        _0x2c9a98 += '*' + _0x781462 + " :*  " + (_0x5e3564[_0x781462] ? "```" + _0x5e3564[_0x781462] + '```' : '') + " \n";
+      });
+      return {
+        'status': true,
+        'data': _0x2c9a98
+      };
+    } catch (_0x5278fb) {
+      return {
+        'status': false,
+        'data': _0x5278fb.message || _0x5278fb
+      };
+    }
+  },
+  "getvar": async _0x292fd0 => {
+    try {
+      const _0x11979c = {
+        'Accept': "application/vnd.heroku+json; version=3",
+        'Authorization': "Bearer " + authToken
+      };
+      const _0x33a83a = await fetch("https://api.heroku.com/apps/" + appName + "/config-vars", {
+        'headers': _0x11979c
+      });
+      const _0x5edaa2 = await _0x33a83a.json();
+      return {
+        'status': true,
+        'data': _0x5edaa2[_0x292fd0]
+      };
+    } catch (_0x5b18d2) {
+      return {
+        'status': false,
+        'data': _0x5b18d2.message || _0x5b18d2
+      };
+    }
+  },
+  setvar: async (_0x48b3cf, _0x1591c0) => {
+    try {
+      const _0x2d042a = {
+        'Accept': "application/vnd.heroku+json; version=3",
+        'Authorization': "Bearer " + authToken,
+        'Content-Type': "application/json"
+      };
+      fetch('https://api.heroku.com/apps/' + appName + "/config-vars", {
+        'method': "GET",
+        'headers': _0x2d042a
+      }).then(_0x270bd4 => {
+        return _0x270bd4.ok ? _0x270bd4.json() : {
+          'status': false,
+          'data': "Failed to fetch app variables. Status: " + _0x270bd4.status
+        };
+      }).then(_0x3b0d0b => {
+        if (_0x3b0d0b.hasOwnProperty(_0x48b3cf)) {
+          const _0x58ff56 = {
+            ..._0x3b0d0b
+          };
+          _0x58ff56[_0x48b3cf] = _0x1591c0;
+          return fetch("https://api.heroku.com/apps/" + appName + "/config-vars", {
+            'method': 'PATCH',
+            'headers': _0x2d042a,
+            'body': JSON.stringify(_0x58ff56)
+          });
+        } else {
+          return {
+            'status': false,
+            'data': "Variable not found in app"
+          };
+        }
+      }).then(_0x5dd1dc => {
+        if (_0x5dd1dc.ok) {
+          return {
+            'status': true,
+            'data': _0x5dd1dc
+          };
+        }
+      })["catch"](_0x5017e2 => {
+        return {
+          'status': false,
+          'data': _0x5017e2
+        };
+      });
+    } catch (_0x58c920) {
+      return {
+        'status': false,
+        'data': _0x58c920
+      };
+    }
+  },
+  "setvar": async (_0x3a86da, _0x46a399) => {
+    try {
+      const _0xa13515 = {
+        'Accept': "application/vnd.heroku+json; version=3",
+        'Authorization': "Bearer " + authToken,
+        'Content-Type': 'application/json'
+      };
+      const _0x530838 = await fetch("https://api.heroku.com/apps/" + appName + "/config-vars", {
+        'method': "GET",
+        'headers': _0xa13515
+      });
+      if (!_0x530838.ok) {
+        return {
+          'status': false,
+          'data': "Variable not found in heroku app"
+        };
+      }
+      const _0x1ce83f = await _0x530838.json();
+      if (_0x1ce83f.hasOwnProperty(_0x3a86da)) {
+        const _0x6c1d9 = {
+          ..._0x1ce83f
+        };
+        _0x6c1d9[_0x3a86da] = _0x46a399;
+        const _0x1a9311 = await fetch("https://api.heroku.com/apps/" + appName + '/config-vars', {
+          'method': "PATCH",
+          'headers': _0xa13515,
+          'body': JSON.stringify(_0x6c1d9)
+        });
+        return _0x1a9311.ok ? {
+          'status': true,
+          'data': _0x1a9311
+        } : {
+          'status': false,
+          'data': "Failed to update app variable. Status: " + _0x1a9311.status
+        };
+      } else {
+        return {
+          'status': false,
+          'data': "Variable not found in app"
+        };
+      }
+    } catch (_0x4ae5fa) {
+      return {
+        'status': false,
+        'data': _0x4ae5fa.message || _0x4ae5fa
+      };
+    }
+  }
+};
+smd({
+  'cmdname': "getsudo",
+  'alias': ['mods', "gsudo"],
+  'info': "get sudo users list.",
+  'fromMe': true,
+  'type': "tools",
+  'filename': __filename
+}, async _0x50ef8c => {
+  let _0x3da924 = global.sudo.split(',').filter(_0x2f2117 => _0x2f2117 && _0x2f2117 !== 'null').map(_0x34e540 => _0x34e540.trim());
+  let _0x12fbac = _0x3da924.map((_0x32f66d, _0x35d434) => "  " + (_0x35d434 + 0x1) + " 〄 @" + _0x32f66d + "\n\n").join('');
+  let _0x54743e = [_0x50ef8c.sender, ..._0x3da924.map(_0x2ba330 => _0x2ba330 + "@s.whatsapp.net")];
+  if (!_0x12fbac || !_0x3da924 || !_0x3da924[0x0]) {
+    return await _0x50ef8c.reply("*There's no mods/sudo added for your bot!*");
+  }
+  let _0x19fc4b = ("\n   👤 *" + (Config.botname ? Config.botname : "ANITA") + " MODS* 👤\n   \n" + _0x12fbac).trim();
+  return await _0x50ef8c.reply('https://telegra.ph/file/5fd51597b0270b8cff15b.png', {
+    'caption': _0x19fc4b,
+    'mentions': _0x54743e
+  }, "img", _0x50ef8c);
+});
+smd({
+  'pattern': "setsudo",
+  'alias': ["ssudo", "setmod"],
+  'fromMe': true,
+  'desc': "Make sudo to a user",
+  'category': "tools",
+  'filename': __filename
+}, async _0x28e4a7 => {
+  try {
+    let _0x119a03 = _0x28e4a7.reply_message ? _0x28e4a7.reply_message.sender : _0x28e4a7.mentionedJid[0x0] ? _0x28e4a7.mentionedJid[0x0] : '';
+    if (!_0x119a03 || !_0x119a03.includes("@s.whatsapp.net")) {
+      return await _0x28e4a7.reply("*Uhh dear, reply/mention an User*");
+    }
+    let _0x829f68 = _0x119a03.split('@')[0x0];
+    if (global.sudo.includes(_0x829f68)) {
+      return _0x28e4a7.reply("*Number Already Exist In Sudo!*");
+    }
+    global.sudo += ',' + _0x829f68;
+    let _0x302ec7 = HEROKU ? await heroku.addvar("SUDO", global.sudo) : {
+      'status': false
+    };
+    if (_0x302ec7 && _0x302ec7.status) {
+      return _0x28e4a7.reply('*' + _0x829f68 + " Added Succesfully.*\nSudo Numbers : ```" + global.sudo + "```");
+    } else if (!_0x302ec7 || !_0x302ec7?.['status']) {
+      if (HEROKU) {
+        await _0x28e4a7.reply("*_Request terminated due to error!_*\n\n  There's no responce from _HEROKU_, \n  please check that you put valid _HEROKU_APP_NAME_ and _HEROKU_API_KEY_");
+      }
+      await _0x28e4a7.reply("*User temporary added in sudo.*");
+    }
+  } catch (_0x3c9d07) {
+    await _0x28e4a7.error(_0x3c9d07 + "\n\ncommand: setsudo", _0x3c9d07);
+  }
+});
+smd({
+  'pattern': "delsudo",
+  'alias': ['dsudo', 'delmod'],
+  'fromMe': true,
+  'desc': "delete sudo user.",
+  'category': "tools",
+  'filename': __filename
+}, async _0x554abb => {
+  try {
+    let _0x14a053 = _0x554abb.reply_message ? _0x554abb.reply_message.sender : _0x554abb.mentionedJid[0x0] ? _0x554abb.mentionedJid[0x0] : '';
+    if (!_0x14a053 || !_0x14a053.includes("@s.whatsapp.net")) {
+      return await _0x554abb.reply("*Uhh dear, reply/mention an User*");
+    }
+    let _0x3c1625 = _0x14a053.split('@')[0x0];
+    let _0x2c921d = ',' + _0x3c1625;
+    if (global.sudo.includes(_0x2c921d)) {
+      global.sudo = global.sudo.replace(_0x2c921d, '');
+    } else {
+      return await _0x554abb.reply("*_User not found in the Sudo List!_*");
+    }
+    let _0x16683a = HEROKU ? await heroku.addvar("SUDO", global.sudo) : {
+      'status': false
+    };
+    if (_0x16683a && _0x16683a.status) {
+      return _0x554abb.reply('*' + _0x3c1625 + " Deleted Succesfully.*\nSudo Numbers : ```" + global.sudo + "```");
+    } else if (!_0x16683a || !_0x16683a?.['status']) {
+      if (HEROKU) {
+        await _0x554abb.reply("*_Request terminated due to error!_*\n\n  There's no responce from _HEROKU_, \n  please check that you put valid _HEROKU_APP_NAME_ and _HEROKU_API_KEY_");
+      }
+      await _0x554abb.reply("*User removed from sudo.*");
+    }
+  } catch (_0x290296) {
+    await _0x554abb.error(_0x290296 + "\n\ncommand: delsudo", _0x290296);
+  }
+});
+smd({
+  'pattern': "allvar",
+  'alias': ['getallvar', "allvars"],
+  'desc': "To get All  Heroku Vars",
+  'fromMe': true,
+  'category': "tools",
+  'filename': __filename
+}, async _0x4a06b2 => {
+  try {
+    let _0x145fff = await heroku.getallvar();
+    console.log({
+      'result': _0x145fff
+    });
+    if (_0x145fff.status) {
+      return _0x4a06b2.send(_0x145fff.data);
+    } else {
+      console.error(_0x145fff.data);
+      _0x4a06b2.reply("*_There's no responce from HEROKU_*, \n  please check that you put valid\n  _HEROKU_APP_NAME_ & _HEROKU_API_KEY_\n``` See Console to check whats the err```");
+    }
+  } catch (_0x4a4c63) {
+    await _0x4a06b2.error(_0x4a4c63 + "\n\ncommand: allvar", _0x4a4c63);
+  }
+});
+smd({
+  'pattern': "newvar",
+  'alias': ['addvar', "avar"],
+  'desc': "To Set Heroku Vars",
+  'category': "tools",
+  'fromMe': true,
+  'filename': __filename
+}, async (_0x54c74c, _0x603853, {
+  cmdName: _0x3e9005
+}) => {
+  try {
+    if (!_0x603853) {
+      return _0x54c74c.reply("*Use " + (prefix + _0x3e9005) + " CAPTION:ANITA*");
+    }
+    const _0xad404 = _0x603853.indexOf(':');
+    const _0x2aad99 = _0x603853.slice(0x0, _0xad404).toUpperCase().trim();
+    const _0x12f42f = _0x603853.slice(_0xad404 + 0x1).trim();
+    process.env[_0x2aad99] = _0x12f42f;
+    updateConfig();
+    if (!_0x12f42f) {
+      return msg.reply("*Uhh Please, Provide Value After ':' !*\n*Example : " + (prefix + smd) + " AUTO_SAVE_STATUS:true*");
+    }
+    let _0x24d604 = await heroku.addvar(_0x2aad99, _0x12f42f);
+    if (_0x24d604 && _0x24d604.status) {
+      return _0x54c74c.reply('*' + _0x2aad99 + ":* [ " + _0x12f42f + " ]  *Added successfully.*");
+    } else if (!_0x24d604 || !_0x24d604.status) {
+      console.error(result.data);
+      await _0x54c74c.reply("*_Can't add " + _0x3e9005 + " due to error!_*\n\n  _please check that you put valid_\n  _*HEROKU_APP_NAME* and *HEROKU_API_KEY*_");
+    }
+  } catch (_0x5ab6d4) {
+    await _0x54c74c.error(_0x5ab6d4 + "\n\ncommand: " + _0x3e9005, _0x5ab6d4);
+  }
+});
+smd({
+  'pattern': "getvar",
+  'desc': "To Get A Heroku Var",
+  'category': "tools",
+  'fromMe': true,
+  'filename': __filename
+}, async (_0x20c73c, _0x4467e9, {
+  cmdName: _0x3eb143
+}) => {
+  try {
+    if (!_0x4467e9) {
+      return _0x20c73c.reply("*Please give me Variable Name*\n*Example : " + (prefix + _0x3eb143) + " CAPTION*");
+    }
+    const _0x38d47f = _0x4467e9.split(" ")[0x0].toUpperCase();
+    let _0x39fd93 = await heroku.getvar(_0x38d47f);
+    if (_0x39fd93.status) {
+      return _0x39fd93.data ? _0x20c73c.reply('*' + _0x38d47f + " :* " + _0x39fd93.data) : _0x20c73c.reply('*' + _0x38d47f + "* does not exist in Heroku *" + appName + "* app.");
+    } else if (!_0x39fd93 || !_0x39fd93.status) {
+      console.error(result.data);
+      await _0x20c73c.reply("*_There's no responce from HEROKU_*, \n  _please check that you put valid_\n  _*HEROKU_APP_NAME* & *HEROKU_API_KEY*_");
+    }
+  } catch (_0x160e99) {
+    await _0x20c73c.error(_0x160e99 + "\n\ncommand: " + _0x3eb143, _0x160e99);
+  }
+});
+smd({
+  'pattern': "setvar",
+  'desc': "To Set Heroku Vars",
+  'category': "tools",
+  'fromMe': true,
+  'filename': __filename
+}, async (_0x5042ba, _0x5add99, {
+  smd: _0x3680a1
+}) => {
+  try {
+    if (!_0x5add99) {
+      return _0x5042ba.reply("*Uhh dear, Give me variable name*\n*Example : " + prefix + "setvar PREFIX:null*");
+    }
+    const _0x9866a8 = _0x5add99.indexOf(':');
+    const _0x1de0ee = _0x5add99.slice(0x0, _0x9866a8).toUpperCase().trim();
+    const _0x40909a = _0x5add99.slice(_0x9866a8 + 0x1).trim();
+    if (!_0x40909a) {
+      return msg.reply("*Uhh Please, Provide value after ':' !*\n*Example : " + (prefix + _0x3680a1) + " AUTO_READ_STATUS:true*");
+    }
+    process.env[_0x1de0ee] = _0x40909a;
+    updateConfig();
+    let _0x4466ef = await heroku.setvar(_0x1de0ee, _0x40909a);
+    if (_0x4466ef.status) {
+      await _0x5042ba.reply('*' + _0x1de0ee + ":* [ " + _0x40909a + " ]  *updated successfully.*");
+    } else if (!_0x4466ef || !_0x4466ef.status) {
+      console.error(_0x4466ef.data);
+      await _0x5042ba.reply(_0x4466ef.data);
+    }
+  } catch (_0x21f60c) {
+    await _0x5042ba.error(_0x21f60c + "\n\ncommand: " + _0x3680a1, _0x21f60c);
+  }
+});
