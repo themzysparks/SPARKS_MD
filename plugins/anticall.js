@@ -18,9 +18,91 @@
    * Created By CODERX.
    * © 2024 ANITA.
 */
-
-
-
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
-
-const _0xbc3519=_0x1a8e;(function(_0x21e27f,_0x57dbf1){const _0x4041bd=_0x1a8e,_0x49eb0c=_0x21e27f();while(!![]){try{const _0xc25c6=-parseInt(_0x4041bd(0xb5))/0x1*(parseInt(_0x4041bd(0xc1))/0x2)+-parseInt(_0x4041bd(0xdc))/0x3+parseInt(_0x4041bd(0xd9))/0x4+-parseInt(_0x4041bd(0xdd))/0x5*(parseInt(_0x4041bd(0xb6))/0x6)+-parseInt(_0x4041bd(0xc9))/0x7+parseInt(_0x4041bd(0xba))/0x8*(parseInt(_0x4041bd(0xca))/0x9)+-parseInt(_0x4041bd(0xbd))/0xa*(-parseInt(_0x4041bd(0xdf))/0xb);if(_0xc25c6===_0x57dbf1)break;else _0x49eb0c['push'](_0x49eb0c['shift']());}catch(_0x1a2d00){_0x49eb0c['push'](_0x49eb0c['shift']());}}}(_0x4629,0xd143f));let antiCallMessage=process[_0xbc3519(0xce)][_0xbc3519(0xc8)]||_0xbc3519(0xd2),antiCallCountries=[],antiCallusers={},bots=![];function _0x1a8e(_0x238f7b,_0x2108a5){const _0x4629ac=_0x4629();return _0x1a8e=function(_0x1a8e00,_0x49edd5){_0x1a8e00=_0x1a8e00-0xb2;let _0x2d7819=_0x4629ac[_0x1a8e00];return _0x2d7819;},_0x1a8e(_0x238f7b,_0x2108a5);}const {smd,botpic,send,Config,tlang,sleep,smdBuffer,prefix,bot_}=require('../lib');smd({'pattern':_0xbc3519(0xbb),'desc':_0xbc3519(0xd8),'category':_0xbc3519(0xb4),'use':_0xbc3519(0xb8),'filename':__filename},async(_0x50bffe,_0x42917d)=>{const _0x4915f1=_0xbc3519;let _0x40bc9d=await bot_[_0x4915f1(0xda)]({'id':_0x4915f1(0xcf)+_0x50bffe[_0x4915f1(0xb7)]})||await bot_[_0x4915f1(0xbf)]({'id':_0x4915f1(0xcf)+_0x50bffe[_0x4915f1(0xb7)]}),_0x4979e8=_0x42917d?_0x42917d[_0x4915f1(0xe1)]()[_0x4915f1(0xd3)]():'';if(_0x4979e8[_0x4915f1(0xd1)]('off')||_0x4979e8[_0x4915f1(0xd1)](_0x4915f1(0xc7))||_0x4979e8[_0x4915f1(0xd1)]('disable')){if(_0x40bc9d[_0x4915f1(0xbb)]==='false')return await _0x50bffe[_0x4915f1(0xc5)]('*anticall\x20Already\x20Disabled\x20In\x20Current\x20Chat!*');return await bot_[_0x4915f1(0xe3)]({'id':'bot_'+_0x50bffe['user']},{'anticall':'false'}),await _0x50bffe[_0x4915f1(0xc5)]('*anticall\x20Disable\x20Succesfully!*');}else{if(!_0x42917d)return await _0x50bffe[_0x4915f1(0xc5)](_0x4915f1(0xc2)+(_0x40bc9d[_0x4915f1(0xbb)]===_0x4915f1(0xcd)?_0x4915f1(0xe2):'set\x20to\x20\x22'+_0x40bc9d[_0x4915f1(0xbb)]+'\x22')+_0x4915f1(0xcb));}let _0x4bfe77=_0x4979e8[_0x4915f1(0xc3)]('all')?_0x4915f1(0xd4):_0x42917d?_0x42917d['split'](',')[_0x4915f1(0xcc)](_0x57987c=>parseInt(_0x57987c))[_0x4915f1(0xbc)](_0xa5b064=>!isNaN(_0xa5b064))['join'](','):![];return!_0x42917d||!_0x4bfe77?await _0x50bffe[_0x4915f1(0xc5)](_0x4915f1(0xc0)+prefix+_0x4915f1(0xd5)):_0x4bfe77?(await bot_[_0x4915f1(0xe3)]({'id':_0x4915f1(0xcf)+_0x50bffe[_0x4915f1(0xb7)]},{'anticall':''+_0x4bfe77}),await _0x50bffe[_0x4915f1(0xc5)]('*anticall\x20Succesfully\x20set\x20to\x20\x22'+_0x4bfe77+_0x4915f1(0xbe))):await _0x50bffe[_0x4915f1(0xc5)]('*_Please\x20provide\x20a\x20Valid\x20country\x20code_*\x0a*example:\x20'+prefix+_0x4915f1(0xd0));}),smd({'call':'offer'},async _0x4ae586=>{const _0x28c558=_0xbc3519;try{!bots&&(bots=await bot_[_0x28c558(0xda)]({'id':_0x28c558(0xcf)+_0x4ae586['user']}));if(_0x4ae586[_0x28c558(0xb3)]||!bots||!bots['anticall']||bots[_0x28c558(0xbb)]===_0x28c558(0xcd))return;(!antiCallCountries||!antiCallCountries[0x0])&&(antiCallCountries=bots['anticall']?.[_0x28c558(0xe0)](',')||[],antiCallCountries=antiCallCountries[_0x28c558(0xbc)](_0x187309=>_0x187309[_0x28c558(0xd3)]()!==''));let _0x5774b7=(''+bots[_0x28c558(0xbb)])[_0x28c558(0xc3)](_0x28c558(0xd4))?'all':'',_0x2e58c3=_0x5774b7==_0x28c558(0xd4)?!![]:antiCallCountries[_0x28c558(0xd6)](_0x42b05a=>_0x4ae586[_0x28c558(0xde)]?.['toString']()?.['startsWith'](_0x42b05a));if(_0x2e58c3||_0x4ae586[_0x28c558(0xc6)])try{return(!antiCallusers||!antiCallusers[_0x4ae586[_0x28c558(0xde)]])&&(antiCallusers[_0x4ae586[_0x28c558(0xde)]]={'warn':0x0}),antiCallusers[_0x4ae586[_0x28c558(0xde)]][_0x28c558(0xc4)]<0x2&&await _0x4ae586[_0x28c558(0xc5)](antiCallMessage),antiCallusers[_0x4ae586[_0x28c558(0xde)]][_0x28c558(0xc4)]++,await _0x4ae586[_0x28c558(0xc5)]('*_'+antiCallusers[_0x4ae586[_0x28c558(0xde)]]['warn']+_0x28c558(0xd7)+_0x4ae586[_0x28c558(0xde)][_0x28c558(0xe0)]('@')[0x0]+_0x28c558(0xb9),{'mentions':[_0x4ae586['from']]},_0x28c558(0xdb),'',_0x4ae586[_0x28c558(0xb7)]),await _0x4ae586[_0x28c558(0xb2)]();}catch{}}catch{}});function _0x4629(){const _0xdae39d=['updateOne','decline','fromMe','owner','2380KTxdGr','6Ibhjpw','user','<on\x20|\x20off>','..!!_*','8TJcYCz','anticall','filter','80SXFDoW','\x22!*','new','*_Please\x20provide\x20country\x20code\x20to\x20block\x20calls_*\x0a*_eg:\x20','1062UNpmYJ','*_anticall\x20','includes','warn','send','isBot','deact','ANTICALL_MESSAGE','6676733CVVNwi','3427155HEKePa','\x20Country\x20Code!_*\x0a\x20*Provide\x20Country\x20code\x20to\x20Update\x20Status*\x0a*Eg:\x20_.anticall\x20all\x20|\x2027,\x2091_*','map','false','env','bot_','anticall\x20all,27,91,231_*','startsWith','```Hii\x20this\x20is\x20ANITA\x20a\x20Personal\x20Assistant!!\x0a\x0a\x09Sorry\x20for\x20now,\x20we\x20cannot\x20receive\x20calls,\x20whether\x20in\x20a\x20group\x20or\x20personal\x20\x0a\x0a\x20if\x20you\x20need\x20help\x20or\x20request\x20features\x20please\x20chat\x20owner\x0a\x0a\x0aPowered\x20by\x20ANITA\x20Chatbot```','trim','all','anticall\x20all\x20|\x2092_*','some','\x20Call\x20rejected\x20From\x20User\x20@','Detects\x20calls\x20and\x20decline\x20them.\x20','3170476NAELkD','findOne','anita','1789974jOzews','3983230ZHAEDH','from','4530130mCdRYc','split','toLowerCase','Not\x20set\x20to\x20any'];_0x4629=function(){return _0xdae39d;};return _0x4629();}
+let antiCallMessage = process.env.ANTICALL_MESSAGE || "```Hii this is ANITA a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by ANITA Chatbot```";
+let antiCallCountries = [];
+let antiCallusers = {};
+let bots = false;
+const {
+  smd,
+  botpic,
+  send,
+  Config,
+  tlang,
+  sleep,
+  smdBuffer,
+  prefix,
+  bot_
+} = require('../lib');
+smd({
+  'pattern': "anticall",
+  'desc': "Detects calls and decline them. ",
+  'category': "owner",
+  'use': "<on | off>",
+  'filename': __filename
+}, async (_0x50bffe, _0x42917d) => {
+  let _0x40bc9d = (await bot_.findOne({
+    'id': "bot_" + _0x50bffe.user
+  })) || (await bot_["new"]({
+    'id': "bot_" + _0x50bffe.user
+  }));
+  let _0x4979e8 = _0x42917d ? _0x42917d.toLowerCase().trim() : '';
+  if (_0x4979e8.startsWith('off') || _0x4979e8.startsWith("deact") || _0x4979e8.startsWith('disable')) {
+    if (_0x40bc9d.anticall === 'false') {
+      return await _0x50bffe.send("*anticall Already Disabled In Current Chat!*");
+    }
+    await bot_.updateOne({
+      'id': 'bot_' + _0x50bffe.user
+    }, {
+      'anticall': 'false'
+    });
+    return await _0x50bffe.send("*anticall Disable Succesfully!*");
+  } else {
+    if (!_0x42917d) {
+      return await _0x50bffe.send("*_anticall " + (_0x40bc9d.anticall === "false" ? "Not set to any" : "set to \"" + _0x40bc9d.anticall + "\"") + " Country Code!_*\n *Provide Country code to Update Status*\n*Eg: _.anticall all | 27, 91_*");
+    }
+  }
+  let _0x4bfe77 = _0x4979e8.includes('all') ? "all" : _0x42917d ? _0x42917d.split(',').map(_0x57987c => parseInt(_0x57987c)).filter(_0xa5b064 => !isNaN(_0xa5b064)).join(',') : false;
+  return !_0x42917d || !_0x4bfe77 ? await _0x50bffe.send("*_Please provide country code to block calls_*\n*_eg: " + prefix + "anticall all | 92_*") : _0x4bfe77 ? (await bot_.updateOne({
+    'id': "bot_" + _0x50bffe.user
+  }, {
+    'anticall': '' + _0x4bfe77
+  }), await _0x50bffe.send("*anticall Succesfully set to \"" + _0x4bfe77 + "\"!*")) : await _0x50bffe.send("*_Please provide a Valid country code_*\n*example: " + prefix + "anticall all,27,91,231_*");
+});
+smd({
+  'call': 'offer'
+}, async _0x4ae586 => {
+  try {
+    if (!bots) {
+      bots = await bot_.findOne({
+        'id': "bot_" + _0x4ae586.user
+      });
+    }
+    if (_0x4ae586.fromMe || !bots || !bots.anticall || bots.anticall === "false") {
+      return;
+    }
+    if (!antiCallCountries || !antiCallCountries[0x0]) {
+      antiCallCountries = bots.anticall?.["split"](',') || [];
+      antiCallCountries = antiCallCountries.filter(_0x187309 => _0x187309.trim() !== '');
+    }
+    let _0x5774b7 = ('' + bots.anticall).includes("all") ? 'all' : '';
+    let _0x2e58c3 = _0x5774b7 == "all" ? true : antiCallCountries.some(_0x42b05a => _0x4ae586.from?.['toString']()?.['startsWith'](_0x42b05a));
+    if (_0x2e58c3 || _0x4ae586.isBot) {
+      try {
+        if (!antiCallusers || !antiCallusers[_0x4ae586.from]) {
+          antiCallusers[_0x4ae586.from] = {
+            'warn': 0x0
+          };
+        }
+        if (antiCallusers[_0x4ae586.from].warn < 0x2) {
+          await _0x4ae586.send(antiCallMessage);
+        }
+        antiCallusers[_0x4ae586.from].warn++;
+        await _0x4ae586.send('*_' + antiCallusers[_0x4ae586.from].warn + " Call rejected From User @" + _0x4ae586.from.split('@')[0x0] + "..!!_*", {
+          'mentions': [_0x4ae586.from]
+        }, "anita", '', _0x4ae586.user);
+        return await _0x4ae586.decline();
+      } catch {}
+    }
+  } catch {}
+});

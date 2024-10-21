@@ -19,8 +19,862 @@
    * © 2024 ANITA.
 */
 
-
-
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-const _0x453f27=_0x3c7b;(function(_0x57df2a,_0x34786c){const _0x37274c=_0x3c7b,_0x403ee4=_0x57df2a();while(!![]){try{const _0x4e24e7=-parseInt(_0x37274c(0x1f4))/0x1*(-parseInt(_0x37274c(0x1bd))/0x2)+parseInt(_0x37274c(0x13f))/0x3+-parseInt(_0x37274c(0x14b))/0x4+-parseInt(_0x37274c(0x172))/0x5+-parseInt(_0x37274c(0x1f8))/0x6*(-parseInt(_0x37274c(0x1b7))/0x7)+parseInt(_0x37274c(0x154))/0x8+-parseInt(_0x37274c(0x176))/0x9;if(_0x4e24e7===_0x34786c)break;else _0x403ee4['push'](_0x403ee4['shift']());}catch(_0xfb2f73){_0x403ee4['push'](_0x403ee4['shift']());}}}(_0x4a0e,0x65c93));function _0x3c7b(_0x24d319,_0x274d20){const _0x4a0e9e=_0x4a0e();return _0x3c7b=function(_0x3c7b43,_0x1b35da){_0x3c7b43=_0x3c7b43-0x139;let _0x35d4bb=_0x4a0e9e[_0x3c7b43];return _0x35d4bb;},_0x3c7b(_0x24d319,_0x274d20);}const Config=require('../config');let {sendGImages,smd}=require(_0x453f27(0x1e1));const axios=require('axios'),fetch=require('node-fetch'),{fetchJson,getBuffer}=require(_0x453f27(0x205));async function sendAnime(_0x25d7ae,_0xebc746,_0x12e9e6,_0x1b0c05=''){const _0x5cdf64=_0x453f27;function _0x1d07fb(){const _0xd4db64=_0x3c7b,_0x2f3258=['Naruto',_0xd4db64(0x1fc),'map',_0xd4db64(0x1b1),_0xd4db64(0x13d),'json',_0xd4db64(0x217),_0xd4db64(0x202),_0xd4db64(0x200),_0xd4db64(0x15e),_0xd4db64(0x170),_0xd4db64(0x1d7),_0xd4db64(0x207),_0xd4db64(0x20a),_0xd4db64(0x1e5),'chat',_0xd4db64(0x1c9),'url','publishedAt',_0xd4db64(0x1c0),'https://nekos.life/api/v2/img/fox_girl','floor',_0xd4db64(0x15d),_0xd4db64(0x178),_0xd4db64(0x153),_0xd4db64(0x167),_0xd4db64(0x1cc),_0xd4db64(0x158),'neko',_0xd4db64(0x1d1),_0xd4db64(0x152),_0xd4db64(0x1a0),_0xd4db64(0x1f3),'demon',_0xd4db64(0x199),_0xd4db64(0x186),_0xd4db64(0x1b6),_0xd4db64(0x13c),'./commands/Anime.js/sendAnime()\x0a','source','102969imHSeo',_0xd4db64(0x19b),_0xd4db64(0x156),_0xd4db64(0x148),_0xd4db64(0x14c),_0xd4db64(0x18b),_0xd4db64(0x151),_0xd4db64(0x1d6),_0xd4db64(0x1bc),_0xd4db64(0x191),_0xd4db64(0x163)];return _0x1d07fb=function(){return _0x2f3258;},_0x1d07fb();}const _0x3b1824=_0x4278ee;(function(_0x2810dc,_0x4857b8){const _0x14050a=_0x3c7b,_0x47fc5e=_0x4278ee,_0x2311e5=_0x2810dc();while(!![]){try{const _0x3229b6=-parseInt(_0x47fc5e(0x14c))/0x1*(-parseInt(_0x47fc5e(0x152))/0x2)+-parseInt(_0x47fc5e(0x15a))/0x3+parseInt(_0x47fc5e(0x144))/0x4+parseInt(_0x47fc5e(0x14e))/0x5*(-parseInt(_0x47fc5e(0x146))/0x6)+-parseInt(_0x47fc5e(0x153))/0x7+-parseInt(_0x47fc5e(0x143))/0x8+parseInt(_0x47fc5e(0x165))/0x9;if(_0x3229b6===_0x4857b8)break;else _0x2311e5[_0x14050a(0x1e6)](_0x2311e5[_0x14050a(0x183)]());}catch(_0x4c50e5){_0x2311e5['push'](_0x2311e5[_0x14050a(0x183)]());}}}(_0x1d07fb,0x67e17));function _0x4278ee(_0x553422,_0x170de7){const _0x4dd38b=_0x1d07fb();return _0x4278ee=function(_0xf09d2f,_0x199800){_0xf09d2f=_0xf09d2f-0x143;let _0x2061a2=_0x4dd38b[_0xf09d2f];return _0x2061a2;},_0x4278ee(_0x553422,_0x170de7);}try{if(_0x12e9e6===_0x3b1824(0x16e)||_0x12e9e6===_0x3b1824(0x173)||_0x12e9e6===_0x3b1824(0x14f)){let _0x1395db=_0x1b0c05[_0x5cdf64(0x1d7)]('|')[0x0]||'',_0x432e4f=_0x1b0c05[_0x3b1824(0x162)]('|')[0x1]||'1',_0x1255d3=_0x1b0c05[_0x3b1824(0x162)]('|')[0x1]?'':'\x20*'+_0x12e9e6+_0x3b1824(0x151),_0x4a6ceb=_0x1395db==_0x3b1824(0x16f)?_0x3b1824(0x161)+(_0x12e9e6===_0x5cdf64(0x148)?_0x3b1824(0x171):_0x3b1824(0x16e)):_0x3b1824(0x15e)+_0x12e9e6;for(let _0x130e45=0x0;_0x130e45<_0x432e4f;_0x130e45++){let _0xb48c43=await(await fetch(_0x4a6ceb))[_0x3b1824(0x15c)]();await _0x25d7ae[_0x5cdf64(0x19b)]['sendMessage'](_0xebc746[_0x3b1824(0x166)],{'image':{'url':_0xb48c43['url']},'caption':_0x1255d3},{'quoted':_0xebc746});}}else{if(_0x12e9e6===_0x3b1824(0x174)||_0x12e9e6===_0x3b1824(0x164)){let _0x4d5f71=_0x12e9e6===_0x3b1824(0x174)?_0x5cdf64(0x16f):_0x3b1824(0x16b),_0xacaf95=await axios[_0x3b1824(0x15b)](_0x4d5f71);await _0x25d7ae[_0x3b1824(0x14d)][_0x3b1824(0x160)](_0xebc746[_0x3b1824(0x166)],{'image':{'url':_0xacaf95[_0x3b1824(0x149)][_0x3b1824(0x168)]}},{'quoted':_0xebc746});}else{if(_0x12e9e6===_0x3b1824(0x145)||_0x12e9e6===_0x3b1824(0x148)){let _0x47ada7=_0x5cdf64(0x216)+(_0x12e9e6==='demon'?'Demonslayer':_0x3b1824(0x157))+_0x3b1824(0x16a);const _0x138b87=await fetchJson(_0x47ada7),_0x1b9786=_0x138b87['result'][Math[_0x3b1824(0x16c)](Math['random']()*_0x138b87[_0x3b1824(0x16d)][_0x3b1824(0x175)])][_0x5cdf64(0x1a3)];await _0x25d7ae[_0x3b1824(0x14d)][_0x3b1824(0x160)](_0xebc746[_0x3b1824(0x166)],{'video':{'url':_0x1b9786},'caption':_0x5cdf64(0x16a)});}else{if(_0x12e9e6===_0x3b1824(0x163)){let _0x2a44d3=await axios[_0x5cdf64(0x13d)](_0x3b1824(0x154)+_0x1b0c05+_0x5cdf64(0x1ec)),_0xff8616=_0x2a44d3[_0x3b1824(0x149)][_0x3b1824(0x15f)];_0xff8616[_0x3b1824(0x159)](async(_0x44a96a,_0x1e4be5)=>{const _0x31729f=_0x5cdf64,_0x55ed05=_0x3b1824;try{_0x25d7ae['bot'][_0x31729f(0x15e)](_0xebc746[_0x55ed05(0x166)],{'image':{'url':_0x44a96a[_0x31729f(0x141)]},'caption':_0x55ed05(0x150)+_0x44a96a[_0x55ed05(0x147)]+_0x55ed05(0x170)+_0x44a96a[_0x31729f(0x219)]+_0x55ed05(0x156)+_0x44a96a[_0x55ed05(0x172)]+_0x31729f(0x1fe)+_0x44a96a[_0x55ed05(0x14b)]['name']+_0x55ed05(0x15d)+_0x44a96a[_0x55ed05(0x169)]+_0x55ed05(0x158)+_0x44a96a[_0x55ed05(0x168)]+'\x0a\x0a'+Config[_0x31729f(0x17d)]+'*'},{'quoted':_0xebc746});}catch(_0x25dc82){}});}}}}}catch(_0x11197f){console[_0x3b1824(0x167)](_0x3b1824(0x14a),_0x11197f),await _0xebc746[_0x3b1824(0x155)](_0x11197f);}}smd({'pattern':_0x453f27(0x178),'desc':'To\x20get\x20Waifu\x20Random\x20Pics','category':'anime','filename':__filename},async(_0x44837e,_0x1fb1a5,{cmdName:_0xca53fd})=>{const _0x5b0aa9=_0x453f27;try{return await sendAnime(_0x44837e,_0x44837e,_0x5b0aa9(0x178),_0x1fb1a5);}catch{}}),smd({'pattern':_0x453f27(0x193),'category':_0x453f27(0x1e7),'desc':_0x453f27(0x139),'filename':__filename},async(_0x3a1092,_0x3fad7f,{cmdName:_0x312db5})=>{const _0x2a2191=_0x453f27;try{return await sendAnime(_0x3a1092,_0x3a1092,_0x2a2191(0x193),_0x3fad7f);}catch{}}),smd({'pattern':_0x453f27(0x148),'desc':'To\x20get\x20Waifu\x20Random\x20Pics','category':'anime','filename':__filename},async(_0x1ba563,_0x376ceb,{cmdName:_0xd06796})=>{const _0x25c3ea=_0x453f27;try{return await sendAnime(_0x1ba563,_0x1ba563,_0x25c3ea(0x148),_0x376ceb);}catch{}}),smd({'pattern':_0x453f27(0x1d1),'category':_0x453f27(0x1e7),'filename':__filename,'desc':'Sends\x20image\x20of\x20loli.'},async _0x6e3bb7=>{const _0x3d6aab=_0x453f27;try{return await sendAnime(_0x6e3bb7,_0x6e3bb7,_0x3d6aab(0x1d1));}catch{}}),smd({'pattern':_0x453f27(0x20a),'category':_0x453f27(0x1e7),'desc':_0x453f27(0x1d3),'filename':__filename},async _0xe7c4f6=>{try{return await sendAnime(_0xe7c4f6,_0xe7c4f6,'foxgirl');}catch{}}),smd({'pattern':'demon','alias':['ds'],'desc':_0x453f27(0x180),'category':_0x453f27(0x1e7),'filename':__filename},async _0x169bf3=>{const _0x3ca1bf=_0x453f27;try{return await sendAnime(_0x169bf3,_0x169bf3,_0x3ca1bf(0x162));}catch{}}),smd({'pattern':'naruto','desc':_0x453f27(0x180),'category':_0x453f27(0x1e7),'filename':__filename},async _0x20e9e8=>{const _0x23c26c=_0x453f27;try{return await sendAnime(_0x20e9e8,_0x20e9e8,_0x23c26c(0x1b6));}catch{}}),smd({'pattern':_0x453f27(0x211),'category':_0x453f27(0x1e7),'filename':__filename,'desc':_0x453f27(0x18c)},async(_0x3fd428,_0x305878)=>{const _0x4fefbc=_0x453f27;try{return await sendGImages(_0x3fd428,_0x305878+'Pokemon\x20Pics\x20only\x20HD\x20',_0x4fefbc(0x181),_0x305878);}catch{}}),smd({'pattern':_0x453f27(0x140),'category':_0x453f27(0x1e7),'desc':_0x453f27(0x1e8),'filename':__filename},async(_0x3884a4,_0x1ab303)=>{const _0x10b5a1=_0x453f27;try{return await sendGImages(_0x3884a4,_0x1ab303+_0x10b5a1(0x1cb),'*---「\x20Anime\x20Wallpaper\x20」---*',_0x1ab303);}catch{}}),smd({'pattern':'pokemon','category':'anime','filename':__filename,'desc':'Sends\x20info\x20of\x20pokemon\x20in\x20current\x20chat.'},async(_0x35de19,_0x2d5175)=>{const _0x5567ef=_0x453f27;try{if(!_0x2d5175)return _0x35de19[_0x5567ef(0x1aa)]('*Uhh\x20Please\x20Give\x20Me\x20Poki\x20Name/num*');try{let {data:_0x161bd2}=await axios[_0x5567ef(0x13d)](_0x5567ef(0x17c)+_0x2d5175);if(!_0x161bd2[_0x5567ef(0x1a4)])return _0x35de19[_0x5567ef(0x1aa)](_0x5567ef(0x1ef));let _0x46fe1f=_0x5567ef(0x218)+_0x161bd2[_0x5567ef(0x1a4)]+_0x5567ef(0x165)+_0x161bd2['id']+_0x5567ef(0x146)+_0x161bd2[_0x5567ef(0x18a)]+_0x5567ef(0x1ea)+_0x161bd2[_0x5567ef(0x1db)]+_0x5567ef(0x14f)+_0x161bd2['abilities'][0x0][_0x5567ef(0x144)][_0x5567ef(0x1a4)]+',\x20'+_0x161bd2['abilities'][0x1][_0x5567ef(0x144)][_0x5567ef(0x1a4)]+_0x5567ef(0x1fd)+_0x161bd2[_0x5567ef(0x1ca)]+_0x5567ef(0x1d5)+_0x161bd2[_0x5567ef(0x197)][0x0][_0x5567ef(0x1da)]['name']+_0x5567ef(0x1c2)+_0x161bd2[_0x5567ef(0x1f1)][0x0][_0x5567ef(0x18f)]+_0x5567ef(0x14a)+_0x161bd2[_0x5567ef(0x1f1)][0x1]['base_stat']+_0x5567ef(0x14d)+_0x161bd2[_0x5567ef(0x1f1)][0x2][_0x5567ef(0x18f)]+_0x5567ef(0x143)+_0x161bd2[_0x5567ef(0x1f1)][0x3]['base_stat']+_0x5567ef(0x1e9)+_0x161bd2[_0x5567ef(0x1f1)][0x4][_0x5567ef(0x18f)]+_0x5567ef(0x16c)+_0x161bd2['stats'][0x5][_0x5567ef(0x18f)]+'*\x0a';return await Suhail['bot']['sendMessage'](_0x35de19[_0x5567ef(0x15f)],{'image':{'url':_0x161bd2[_0x5567ef(0x157)][_0x5567ef(0x203)]},'caption':_0x46fe1f},{'quoted':_0x35de19});}catch(_0x2400b9){_0x35de19['reply']('*_Ahh,Couldn\x27t\x20found\x20any\x20pokemon._*');}}catch{}}),smd({'pattern':_0x453f27(0x1a6),'desc':'Sends\x20a\x20random\x20image\x20of\x20Kaneki\x20from\x20Tokyo\x20Ghoul.','category':_0x453f27(0x1e7)},async _0x43647a=>{const _0x58b250=_0x453f27;try{const _0x32aa75=_0x58b250(0x20c),_0x4ca6bd=await fetch(_0x32aa75);if(!_0x4ca6bd['ok'])return await _0x43647a[_0x58b250(0x150)](_0x58b250(0x209)+_0x4ca6bd[_0x58b250(0x1b9)]+'\x20'+_0x4ca6bd[_0x58b250(0x174)]+'_*');const _0x267b14=await _0x4ca6bd[_0x58b250(0x1eb)]();if(_0x267b14[_0x58b250(0x1b9)]!==0xc8)return await _0x43647a[_0x58b250(0x150)](_0x58b250(0x209)+_0x267b14['status']+_0x58b250(0x187)+(_0x267b14[_0x58b250(0x1b4)]||_0x58b250(0x1a2))+'_*');const {url:_0x436593}=_0x267b14;if(!_0x436593)return await _0x43647a['send'](_0x58b250(0x16d));const _0x28e6bc=_0x58b250(0x1b0);await _0x43647a[_0x58b250(0x19b)][_0x58b250(0x1d4)](_0x43647a[_0x58b250(0x18d)],_0x436593,_0x28e6bc,_0x43647a,{},_0x58b250(0x210));}catch(_0x16fba7){await _0x43647a[_0x58b250(0x191)](_0x16fba7+_0x58b250(0x164),_0x16fba7,_0x58b250(0x1a5));}}),smd({'pattern':'akira','desc':_0x453f27(0x1c7),'category':_0x453f27(0x1e7)},async _0x5d5429=>{const _0x3c6b6a=_0x453f27;try{const _0x28d0cc=_0x3c6b6a(0x166),_0x2d3763=await fetch(_0x28d0cc);if(!_0x2d3763['ok'])return await _0x5d5429[_0x3c6b6a(0x150)]('*_Error:\x20'+_0x2d3763['status']+'\x20'+_0x2d3763['statusText']+'_*');const _0x34f0e3=await _0x2d3763['json']();if(_0x34f0e3[_0x3c6b6a(0x1b9)]!==0xc8)return await _0x5d5429['send'](_0x3c6b6a(0x209)+_0x34f0e3[_0x3c6b6a(0x1b9)]+_0x3c6b6a(0x187)+(_0x34f0e3[_0x3c6b6a(0x1b4)]||_0x3c6b6a(0x1a2))+'_*');const {url:_0x1919e2}=_0x34f0e3;if(!_0x1919e2)return await _0x5d5429[_0x3c6b6a(0x150)]('*_No\x20image\x20found!_*');const _0x46c771=_0x3c6b6a(0x14e);await _0x5d5429['bot']['sendFromUrl'](_0x5d5429[_0x3c6b6a(0x18d)],_0x1919e2,_0x46c771,_0x5d5429,{},_0x3c6b6a(0x210));}catch(_0x5c3aa4){await _0x5d5429[_0x3c6b6a(0x191)](_0x5c3aa4+_0x3c6b6a(0x168),_0x5c3aa4,_0x3c6b6a(0x1a5));}}),smd({'pattern':_0x453f27(0x169),'desc':_0x453f27(0x1d8),'category':'anime'},async _0x48cf6f=>{const _0x2e71a5=_0x453f27;try{const _0x36a6e9=_0x2e71a5(0x204),_0x44c920=await fetch(_0x36a6e9);if(!_0x44c920['ok'])return await _0x48cf6f[_0x2e71a5(0x150)](_0x2e71a5(0x209)+_0x44c920[_0x2e71a5(0x1b9)]+'\x20'+_0x44c920[_0x2e71a5(0x174)]+'_*');const _0x5ee074=await _0x44c920[_0x2e71a5(0x1eb)]();if(_0x5ee074[_0x2e71a5(0x1b9)]!==0xc8)return await _0x48cf6f[_0x2e71a5(0x150)](_0x2e71a5(0x209)+_0x5ee074['status']+_0x2e71a5(0x187)+(_0x5ee074[_0x2e71a5(0x1b4)]||_0x2e71a5(0x1a2))+'_*');const {url:_0x42f689}=_0x5ee074;if(!_0x42f689)return await _0x48cf6f[_0x2e71a5(0x150)](_0x2e71a5(0x16d));const _0x19da02=_0x2e71a5(0x15c);await _0x48cf6f[_0x2e71a5(0x19b)]['sendFromUrl'](_0x48cf6f[_0x2e71a5(0x18d)],_0x42f689,_0x19da02,_0x48cf6f,{},_0x2e71a5(0x210));}catch(_0x3c563c){await _0x48cf6f['error'](_0x3c563c+_0x2e71a5(0x13a),_0x3c563c,_0x2e71a5(0x1a5));}}),smd({'pattern':_0x453f27(0x1cd),'desc':_0x453f27(0x1ae),'category':_0x453f27(0x1e7)},async _0x4d3f7e=>{const _0x432a03=_0x453f27;try{const _0x54e5f8=_0x432a03(0x17f),_0x5c11da=await fetch(_0x54e5f8);if(!_0x5c11da['ok'])return await _0x4d3f7e[_0x432a03(0x150)](_0x432a03(0x209)+_0x5c11da[_0x432a03(0x1b9)]+'\x20'+_0x5c11da['statusText']+'_*');const _0x37317b=await _0x5c11da[_0x432a03(0x1eb)]();if(_0x37317b[_0x432a03(0x1b9)]!==0xc8)return await _0x4d3f7e[_0x432a03(0x150)]('*_Error:\x20'+_0x37317b[_0x432a03(0x1b9)]+_0x432a03(0x187)+(_0x37317b['developer']||_0x432a03(0x1a2))+'_*');const {url:_0x1d6d7a}=_0x37317b;if(!_0x1d6d7a)return await _0x4d3f7e[_0x432a03(0x150)](_0x432a03(0x16d));const _0x4bfef5=_0x432a03(0x19e);await _0x4d3f7e['bot']['sendFromUrl'](_0x4d3f7e[_0x432a03(0x18d)],_0x1d6d7a,_0x4bfef5,_0x4d3f7e,{},_0x432a03(0x210));}catch(_0x154969){await _0x4d3f7e[_0x432a03(0x191)](_0x154969+_0x432a03(0x188),_0x154969,_0x432a03(0x1a5));}}),smd({'pattern':_0x453f27(0x169),'desc':_0x453f27(0x1d8),'category':_0x453f27(0x1e7)},async _0xeb936d=>{const _0x3a80d0=_0x453f27;try{const _0x2fb91d=_0x3a80d0(0x204),_0x44687f=await fetch(_0x2fb91d);if(!_0x44687f['ok'])return await _0xeb936d['send'](_0x3a80d0(0x209)+_0x44687f['status']+'\x20'+_0x44687f['statusText']+'_*');const _0x362e3e=await _0x44687f[_0x3a80d0(0x1eb)]();if(_0x362e3e['status']!==0xc8)return await _0xeb936d[_0x3a80d0(0x150)](_0x3a80d0(0x209)+_0x362e3e[_0x3a80d0(0x1b9)]+_0x3a80d0(0x187)+(_0x362e3e[_0x3a80d0(0x1b4)]||_0x3a80d0(0x1a2))+'_*');const {url:_0x1fcbb0}=_0x362e3e;if(!_0x1fcbb0)return await _0xeb936d[_0x3a80d0(0x150)](_0x3a80d0(0x16d));const _0x899486='Random\x20image\x20of\x20Anna.';await _0xeb936d[_0x3a80d0(0x19b)]['sendFromUrl'](_0xeb936d[_0x3a80d0(0x18d)],_0x1fcbb0,_0x899486,_0xeb936d,{},_0x3a80d0(0x210));}catch(_0x4e80d4){await _0xeb936d['error'](_0x4e80d4+_0x3a80d0(0x13a),_0x4e80d4,_0x3a80d0(0x1a5));}}),smd({'pattern':'asuna','desc':'Sends\x20a\x20random\x20image\x20of\x20Asuna.','category':'anime'},async _0x3b368f=>{const _0x652d51=_0x453f27;try{const _0x5a5b36=_0x652d51(0x17f),_0x304779=await fetch(_0x5a5b36);if(!_0x304779['ok'])return await _0x3b368f[_0x652d51(0x150)]('*_Error:\x20'+_0x304779[_0x652d51(0x1b9)]+'\x20'+_0x304779[_0x652d51(0x174)]+'_*');const _0x361a59=await _0x304779['json']();if(_0x361a59['status']!==0xc8)return await _0x3b368f['send'](_0x652d51(0x209)+_0x361a59[_0x652d51(0x1b9)]+_0x652d51(0x187)+(_0x361a59['developer']||_0x652d51(0x1a2))+'_*');const {url:_0x2ab21d}=_0x361a59;if(!_0x2ab21d)return await _0x3b368f['send']('*_No\x20image\x20found!_*');const _0x4ff75d='Random\x20image\x20of\x20Asuna.';await _0x3b368f[_0x652d51(0x19b)]['sendFromUrl'](_0x3b368f[_0x652d51(0x18d)],_0x2ab21d,_0x4ff75d,_0x3b368f,{},_0x652d51(0x210));}catch(_0x3df622){await _0x3b368f[_0x652d51(0x191)](_0x3df622+_0x652d51(0x188),_0x3df622,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':'boruto','desc':_0x453f27(0x160),'category':_0x453f27(0x1e7)},async _0x1a51b4=>{const _0x386b9e=_0x453f27;try{const _0x7b7a5f=_0x386b9e(0x1bf),_0x335d76=await fetch(_0x7b7a5f);if(!_0x335d76['ok'])return await _0x1a51b4[_0x386b9e(0x150)](_0x386b9e(0x209)+_0x335d76['status']+'\x20'+_0x335d76['statusText']+'_*');const _0x17154d=await _0x335d76['json']();if(_0x17154d['status']!==0xc8)return await _0x1a51b4['send'](_0x386b9e(0x209)+_0x17154d[_0x386b9e(0x1b9)]+'\x20-\x20'+(_0x17154d['developer']||'Unknown\x20error')+'_*');const {url:_0x132cd8}=_0x17154d;if(!_0x132cd8)return await _0x1a51b4[_0x386b9e(0x150)]('*_No\x20image\x20found!_*');const _0x33910c=_0x386b9e(0x1ff);await _0x1a51b4[_0x386b9e(0x19b)][_0x386b9e(0x1d4)](_0x1a51b4[_0x386b9e(0x18d)],_0x132cd8,_0x33910c,_0x1a51b4,{},'image');}catch(_0x38f105){await _0x1a51b4['error'](_0x38f105+_0x386b9e(0x208),_0x38f105,_0x386b9e(0x1a5));}}),smd({'pattern':_0x453f27(0x20d),'desc':_0x453f27(0x145),'category':_0x453f27(0x1e7)},async _0xb9fa96=>{const _0x1d861d=_0x453f27;try{const _0x2d4992=_0x1d861d(0x214),_0x334f93=await fetch(_0x2d4992);if(!_0x334f93['ok'])return await _0xb9fa96[_0x1d861d(0x150)](_0x1d861d(0x209)+_0x334f93[_0x1d861d(0x1b9)]+'\x20'+_0x334f93[_0x1d861d(0x174)]+'_*');const _0xdf5bde=await _0x334f93[_0x1d861d(0x1eb)]();if(_0xdf5bde[_0x1d861d(0x1b9)]!==0xc8)return await _0xb9fa96[_0x1d861d(0x150)](_0x1d861d(0x209)+_0xdf5bde[_0x1d861d(0x1b9)]+'\x20-\x20'+(_0xdf5bde[_0x1d861d(0x1b4)]||_0x1d861d(0x1a2))+'_*');const {url:_0x2400f8}=_0xdf5bde;if(!_0x2400f8)return await _0xb9fa96['send'](_0x1d861d(0x16d));const _0x240ecf=_0x1d861d(0x20f);await _0xb9fa96[_0x1d861d(0x19b)]['sendFromUrl'](_0xb9fa96[_0x1d861d(0x18d)],_0x2400f8,_0x240ecf,_0xb9fa96,{},_0x1d861d(0x210));}catch(_0x51c2b3){await _0xb9fa96[_0x1d861d(0x191)](_0x51c2b3+_0x1d861d(0x213),_0x51c2b3,_0x1d861d(0x1a5));}}),smd({'pattern':_0x453f27(0x155),'desc':_0x453f27(0x1af),'category':_0x453f27(0x1e7)},async _0x36a883=>{const _0x5e47ad=_0x453f27;try{const _0x341a36=_0x5e47ad(0x190),_0x34ea2c=await fetch(_0x341a36);if(!_0x34ea2c['ok'])return await _0x36a883[_0x5e47ad(0x150)]('*_Error:\x20'+_0x34ea2c[_0x5e47ad(0x1b9)]+'\x20'+_0x34ea2c[_0x5e47ad(0x174)]+'_*');const _0x3cd584=await _0x34ea2c['json']();if(_0x3cd584['status']!==0xc8)return await _0x36a883[_0x5e47ad(0x150)](_0x5e47ad(0x209)+_0x3cd584[_0x5e47ad(0x1b9)]+_0x5e47ad(0x187)+(_0x3cd584[_0x5e47ad(0x1b4)]||'Unknown\x20error')+'_*');const {url:_0x5722b7}=_0x3cd584;if(!_0x5722b7)return await _0x36a883['send'](_0x5e47ad(0x16d));const _0x48b6bc='Random\x20image\x20of\x20Eba.';await _0x36a883['bot'][_0x5e47ad(0x1d4)](_0x36a883[_0x5e47ad(0x18d)],_0x5722b7,_0x48b6bc,_0x36a883,{},'image');}catch(_0x49ece4){await _0x36a883[_0x5e47ad(0x191)](_0x49ece4+_0x5e47ad(0x1f2),_0x49ece4,_0x5e47ad(0x1a5));}}),smd({'pattern':_0x453f27(0x1b8),'desc':_0x453f27(0x215),'category':_0x453f27(0x1e7)},async _0x338853=>{const _0x6afed0=_0x453f27;try{const _0xa3118c=_0x6afed0(0x1dc),_0x118730=await fetch(_0xa3118c);if(!_0x118730['ok'])return await _0x338853[_0x6afed0(0x150)]('*_Error:\x20'+_0x118730['status']+'\x20'+_0x118730[_0x6afed0(0x174)]+'_*');const _0x1a00cf=await _0x118730[_0x6afed0(0x1eb)]();if(_0x1a00cf['status']!==0xc8)return await _0x338853[_0x6afed0(0x150)](_0x6afed0(0x209)+_0x1a00cf['status']+_0x6afed0(0x187)+(_0x1a00cf[_0x6afed0(0x1b4)]||'Unknown\x20error')+'_*');const {url:_0x4acd72}=_0x1a00cf;if(!_0x4acd72)return await _0x338853[_0x6afed0(0x150)](_0x6afed0(0x16d));const _0x549054=_0x6afed0(0x1a1);await _0x338853[_0x6afed0(0x19b)]['sendFromUrl'](_0x338853[_0x6afed0(0x18d)],_0x4acd72,_0x549054,_0x338853,{},_0x6afed0(0x210));}catch(_0x4d9a50){await _0x338853[_0x6afed0(0x191)](_0x4d9a50+_0x6afed0(0x19d),_0x4d9a50,_0x6afed0(0x1a5));}}),smd({'pattern':_0x453f27(0x1de),'desc':_0x453f27(0x198),'category':_0x453f27(0x1e7)},async _0x425f25=>{const _0x16480e=_0x453f27;try{const _0x14ef3a=_0x16480e(0x1ee),_0x474918=await fetch(_0x14ef3a);if(!_0x474918['ok'])return await _0x425f25[_0x16480e(0x150)]('*_Error:\x20'+_0x474918[_0x16480e(0x1b9)]+'\x20'+_0x474918['statusText']+'_*');const _0x16e331=await _0x474918[_0x16480e(0x1eb)]();if(_0x16e331['status']!==0xc8)return await _0x425f25[_0x16480e(0x150)](_0x16480e(0x209)+_0x16e331['status']+_0x16480e(0x187)+(_0x16e331[_0x16480e(0x1b4)]||'Unknown\x20error')+'_*');const {url:_0x2759f6}=_0x16e331;if(!_0x2759f6)return await _0x425f25[_0x16480e(0x150)]('*_No\x20image\x20found!_*');const _0x59e791=_0x16480e(0x1bb);await _0x425f25[_0x16480e(0x19b)][_0x16480e(0x1d4)](_0x425f25['from'],_0x2759f6,_0x59e791,_0x425f25,{},_0x16480e(0x210));}catch(_0x47c301){await _0x425f25[_0x16480e(0x191)](_0x47c301+_0x16480e(0x142),_0x47c301,_0x16480e(0x1a5));}}),smd({'pattern':_0x453f27(0x182),'desc':_0x453f27(0x1df),'category':'anime'},async _0x5cc429=>{const _0x2d93c9=_0x453f27;try{const _0x564ff1='https://api.maher-zubair.tech/anime/inori',_0x1933d4=await fetch(_0x564ff1);if(!_0x1933d4['ok'])return await _0x5cc429[_0x2d93c9(0x150)](_0x2d93c9(0x209)+_0x1933d4['status']+'\x20'+_0x1933d4['statusText']+'_*');const _0x435271=await _0x1933d4[_0x2d93c9(0x1eb)]();if(_0x435271[_0x2d93c9(0x1b9)]!==0xc8)return await _0x5cc429[_0x2d93c9(0x150)](_0x2d93c9(0x209)+_0x435271[_0x2d93c9(0x1b9)]+_0x2d93c9(0x187)+(_0x435271['developer']||_0x2d93c9(0x1a2))+'_*');const {url:_0x3fcc0b}=_0x435271;if(!_0x3fcc0b)return await _0x5cc429['send'](_0x2d93c9(0x16d));const _0x5094df=_0x2d93c9(0x149);await _0x5cc429[_0x2d93c9(0x19b)][_0x2d93c9(0x1d4)](_0x5cc429[_0x2d93c9(0x18d)],_0x3fcc0b,_0x5094df,_0x5cc429,{},_0x2d93c9(0x210));}catch(_0xb372fc){await _0x5cc429['error'](_0xb372fc+'\x0a\x0acommand:\x20inori',_0xb372fc,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':_0x453f27(0x17b),'desc':_0x453f27(0x13b),'category':_0x453f27(0x1e7)},async _0x467bea=>{const _0x1c8340=_0x453f27;try{const _0x15ed08=_0x1c8340(0x1ce),_0x5f457b=await fetch(_0x15ed08);if(!_0x5f457b['ok'])return await _0x467bea[_0x1c8340(0x150)]('*_Error:\x20'+_0x5f457b[_0x1c8340(0x1b9)]+'\x20'+_0x5f457b[_0x1c8340(0x174)]+'_*');const _0x42e9ac=await _0x5f457b[_0x1c8340(0x1eb)]();if(_0x42e9ac[_0x1c8340(0x1b9)]!==0xc8)return await _0x467bea['send'](_0x1c8340(0x209)+_0x42e9ac['status']+_0x1c8340(0x187)+(_0x42e9ac['developer']||'Unknown\x20error')+'_*');const {url:_0x530a84}=_0x42e9ac;if(!_0x530a84)return await _0x467bea[_0x1c8340(0x150)]('*_No\x20image\x20found!_*');const _0x156862=_0x1c8340(0x179);await _0x467bea[_0x1c8340(0x19b)][_0x1c8340(0x1d4)](_0x467bea[_0x1c8340(0x18d)],_0x530a84,_0x156862,_0x467bea,{},'image');}catch(_0x4b9ce5){await _0x467bea[_0x1c8340(0x191)](_0x4b9ce5+_0x1c8340(0x1be),_0x4b9ce5,_0x1c8340(0x1a5));}}),smd({'pattern':_0x453f27(0x21a),'desc':_0x453f27(0x1b2),'category':_0x453f27(0x1e7)},async _0x48b402=>{const _0x2da1d0=_0x453f27;try{const _0x24b25b=_0x2da1d0(0x13e),_0x4b250f=await fetch(_0x24b25b);if(!_0x4b250f['ok'])return await _0x48b402[_0x2da1d0(0x150)](_0x2da1d0(0x209)+_0x4b250f[_0x2da1d0(0x1b9)]+'\x20'+_0x4b250f[_0x2da1d0(0x174)]+'_*');const _0x12f583=await _0x4b250f[_0x2da1d0(0x1eb)]();if(_0x12f583[_0x2da1d0(0x1b9)]!==0xc8)return await _0x48b402[_0x2da1d0(0x150)]('*_Error:\x20'+_0x12f583['status']+_0x2da1d0(0x187)+(_0x12f583[_0x2da1d0(0x1b4)]||_0x2da1d0(0x1a2))+'_*');const {url:_0x5dd4b9}=_0x12f583;if(!_0x5dd4b9)return await _0x48b402[_0x2da1d0(0x150)](_0x2da1d0(0x16d));const _0x1ed0ef=_0x2da1d0(0x184);await _0x48b402[_0x2da1d0(0x19b)][_0x2da1d0(0x1d4)](_0x48b402['from'],_0x5dd4b9,_0x1ed0ef,_0x48b402,{},_0x2da1d0(0x210));}catch(_0xb139f6){await _0x48b402[_0x2da1d0(0x191)](_0xb139f6+'\x0a\x0acommand:\x20itori',_0xb139f6,_0x2da1d0(0x1a5));}}),smd({'pattern':_0x453f27(0x175),'desc':_0x453f27(0x196),'category':'anime'},async _0x2e562b=>{const _0x46493f=_0x453f27;try{const _0xdadc9d='https://api.maher-zubair.tech/anime/kaga',_0x4ae68a=await fetch(_0xdadc9d);if(!_0x4ae68a['ok'])return await _0x2e562b[_0x46493f(0x150)](_0x46493f(0x209)+_0x4ae68a['status']+'\x20'+_0x4ae68a[_0x46493f(0x174)]+'_*');const _0x520fce=await _0x4ae68a['json']();if(_0x520fce[_0x46493f(0x1b9)]!==0xc8)return await _0x2e562b['send']('*_Error:\x20'+_0x520fce[_0x46493f(0x1b9)]+_0x46493f(0x187)+(_0x520fce[_0x46493f(0x1b4)]||'Unknown\x20error')+'_*');const {url:_0x46fc56}=_0x520fce;if(!_0x46fc56)return await _0x2e562b['send'](_0x46493f(0x16d));const _0xb6de50=_0x46493f(0x1c8);await _0x2e562b[_0x46493f(0x19b)][_0x46493f(0x1d4)](_0x2e562b[_0x46493f(0x18d)],_0x46fc56,_0xb6de50,_0x2e562b,{},_0x46493f(0x210));}catch(_0x539504){await _0x2e562b[_0x46493f(0x191)](_0x539504+_0x46493f(0x20b),_0x539504,_0x46493f(0x1a5));}}),smd({'pattern':_0x453f27(0x1e2),'desc':_0x453f27(0x20e),'category':'anime'},async _0x466422=>{const _0x1e26c3=_0x453f27;try{const _0xa320fe=_0x1e26c3(0x1f6),_0x2e91c3=await fetch(_0xa320fe);if(!_0x2e91c3['ok'])return await _0x466422['send']('*_Error:\x20'+_0x2e91c3['status']+'\x20'+_0x2e91c3[_0x1e26c3(0x174)]+'_*');const _0x59dd97=await _0x2e91c3[_0x1e26c3(0x1eb)]();if(_0x59dd97[_0x1e26c3(0x1b9)]!==0xc8)return await _0x466422[_0x1e26c3(0x150)]('*_Error:\x20'+_0x59dd97[_0x1e26c3(0x1b9)]+'\x20-\x20'+(_0x59dd97['developer']||_0x1e26c3(0x1a2))+'_*');const {url:_0x2e8916}=_0x59dd97;if(!_0x2e8916)return await _0x466422['send']('*_No\x20image\x20found!_*');const _0x41ae83=_0x1e26c3(0x1a8);await _0x466422[_0x1e26c3(0x19b)][_0x1e26c3(0x1d4)](_0x466422[_0x1e26c3(0x18d)],_0x2e8916,_0x41ae83,_0x466422,{},'image');}catch(_0x3a8a3e){await _0x466422[_0x1e26c3(0x191)](_0x3a8a3e+_0x1e26c3(0x1ad),_0x3a8a3e,_0x1e26c3(0x1a5));}}),smd({'pattern':_0x453f27(0x1c6),'desc':_0x453f27(0x195),'category':_0x453f27(0x1e7)},async _0x21e22c=>{const _0x5f165f=_0x453f27;try{const _0x244bbc=_0x5f165f(0x1dd),_0x38b839=await fetch(_0x244bbc);if(!_0x38b839['ok'])return await _0x21e22c[_0x5f165f(0x150)](_0x5f165f(0x209)+_0x38b839[_0x5f165f(0x1b9)]+'\x20'+_0x38b839[_0x5f165f(0x174)]+'_*');const _0x48ea37=await _0x38b839[_0x5f165f(0x1eb)]();if(_0x48ea37[_0x5f165f(0x1b9)]!==0xc8)return await _0x21e22c['send'](_0x5f165f(0x209)+_0x48ea37[_0x5f165f(0x1b9)]+_0x5f165f(0x187)+(_0x48ea37[_0x5f165f(0x1b4)]||'Unknown\x20error')+'_*');const {url:_0x45aaa2}=_0x48ea37;if(!_0x45aaa2)return await _0x21e22c[_0x5f165f(0x150)](_0x5f165f(0x16d));const _0x123b51=_0x5f165f(0x15b);await _0x21e22c[_0x5f165f(0x19b)][_0x5f165f(0x1d4)](_0x21e22c['from'],_0x45aaa2,_0x123b51,_0x21e22c,{},_0x5f165f(0x210));}catch(_0x17d9a1){await _0x21e22c[_0x5f165f(0x191)](_0x17d9a1+_0x5f165f(0x19c),_0x17d9a1,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':_0x453f27(0x1c1),'desc':'Sends\x20a\x20random\x20image\x20of\x20Kurumi.','category':'anime'},async _0x388639=>{const _0x1f8657=_0x453f27;try{const _0x593a66=_0x1f8657(0x18e),_0x422f1f=await fetch(_0x593a66);if(!_0x422f1f['ok'])return await _0x388639[_0x1f8657(0x150)](_0x1f8657(0x209)+_0x422f1f[_0x1f8657(0x1b9)]+'\x20'+_0x422f1f[_0x1f8657(0x174)]+'_*');const _0x529f05=await _0x422f1f[_0x1f8657(0x1eb)]();if(_0x529f05[_0x1f8657(0x1b9)]!==0xc8)return await _0x388639['send']('*_Error:\x20'+_0x529f05[_0x1f8657(0x1b9)]+_0x1f8657(0x187)+(_0x529f05['developer']||'Unknown\x20error')+'_*');const {url:_0x3ef9ba}=_0x529f05;if(!_0x3ef9ba)return await _0x388639['send']('*_No\x20image\x20found!_*');const _0x221c89=_0x1f8657(0x1ed);await _0x388639[_0x1f8657(0x19b)][_0x1f8657(0x1d4)](_0x388639[_0x1f8657(0x18d)],_0x3ef9ba,_0x221c89,_0x388639,{},_0x1f8657(0x210));}catch(_0x46b994){await _0x388639['error'](_0x46b994+_0x1f8657(0x1fb),_0x46b994,_0x1f8657(0x1a5));}}),smd({'pattern':_0x453f27(0x161),'desc':'Sends\x20a\x20random\x20image\x20of\x20Miku.','category':_0x453f27(0x1e7)},async _0x1c72ae=>{const _0x2a2a3c=_0x453f27;try{const _0x248f09=_0x2a2a3c(0x194),_0x2b39bc=await fetch(_0x248f09);if(!_0x2b39bc['ok'])return await _0x1c72ae[_0x2a2a3c(0x150)]('*_Error:\x20'+_0x2b39bc['status']+'\x20'+_0x2b39bc[_0x2a2a3c(0x174)]+'_*');const _0x2e5518=await _0x2b39bc['json']();if(_0x2e5518['status']!==0xc8)return await _0x1c72ae[_0x2a2a3c(0x150)](_0x2a2a3c(0x209)+_0x2e5518[_0x2a2a3c(0x1b9)]+_0x2a2a3c(0x187)+(_0x2e5518[_0x2a2a3c(0x1b4)]||_0x2a2a3c(0x1a2))+'_*');const {url:_0xa06c63}=_0x2e5518;if(!_0xa06c63)return await _0x1c72ae[_0x2a2a3c(0x150)]('*_No\x20image\x20found!_*');const _0x2f9a30='Random\x20image\x20of\x20Miku.';await _0x1c72ae[_0x2a2a3c(0x19b)][_0x2a2a3c(0x1d4)](_0x1c72ae[_0x2a2a3c(0x18d)],_0xa06c63,_0x2f9a30,_0x1c72ae,{},_0x2a2a3c(0x210));}catch(_0x3cf8b0){await _0x1c72ae[_0x2a2a3c(0x191)](_0x3cf8b0+_0x2a2a3c(0x1c3),_0x3cf8b0,_0x2a2a3c(0x1a5));}}),smd({'pattern':_0x453f27(0x1b6),'desc':_0x453f27(0x1a9),'category':'anime'},async _0x2e0733=>{const _0x421052=_0x453f27;try{const _0x41ef84=_0x421052(0x1ba),_0x43d41f=await fetch(_0x41ef84);if(!_0x43d41f['ok'])return await _0x2e0733[_0x421052(0x150)](_0x421052(0x209)+_0x43d41f[_0x421052(0x1b9)]+'\x20'+_0x43d41f[_0x421052(0x174)]+'_*');const _0x1b765f=await _0x43d41f['json']();if(_0x1b765f[_0x421052(0x1b9)]!==0xc8)return await _0x2e0733[_0x421052(0x150)](_0x421052(0x209)+_0x1b765f[_0x421052(0x1b9)]+'\x20-\x20'+(_0x1b765f['developer']||_0x421052(0x1a2))+'_*');const {url:_0x3771e9}=_0x1b765f;if(!_0x3771e9)return await _0x2e0733[_0x421052(0x150)]('*_No\x20image\x20found!_*');const _0x5f4c48=_0x421052(0x19f);await _0x2e0733[_0x421052(0x19b)][_0x421052(0x1d4)](_0x2e0733[_0x421052(0x18d)],_0x3771e9,_0x5f4c48,_0x2e0733,{},_0x421052(0x210));}catch(_0x2a4ce6){await _0x2e0733[_0x421052(0x191)](_0x2a4ce6+_0x421052(0x1c4),_0x2a4ce6,_0x421052(0x1a5));}}),smd({'pattern':_0x453f27(0x1f9),'desc':'Sends\x20a\x20random\x20image\x20of\x20Nezuko.','category':_0x453f27(0x1e7)},async _0x5ae064=>{const _0x42bffe=_0x453f27;try{const _0x2a215a=_0x42bffe(0x159),_0x2aea6c=await fetch(_0x2a215a);if(!_0x2aea6c['ok'])return await _0x5ae064['send']('*_Error:\x20'+_0x2aea6c[_0x42bffe(0x1b9)]+'\x20'+_0x2aea6c['statusText']+'_*');const _0xbccd87=await _0x2aea6c['json']();if(_0xbccd87[_0x42bffe(0x1b9)]!==0xc8)return await _0x5ae064[_0x42bffe(0x150)]('*_Error:\x20'+_0xbccd87[_0x42bffe(0x1b9)]+_0x42bffe(0x187)+(_0xbccd87['developer']||_0x42bffe(0x1a2))+'_*');const {url:_0x14095e}=_0xbccd87;if(!_0x14095e)return await _0x5ae064[_0x42bffe(0x150)](_0x42bffe(0x16d));const _0x5d2ea4=_0x42bffe(0x16b);await _0x5ae064['bot'][_0x42bffe(0x1d4)](_0x5ae064[_0x42bffe(0x18d)],_0x14095e,_0x5d2ea4,_0x5ae064,{},_0x42bffe(0x210));}catch(_0x57ea27){await _0x5ae064['error'](_0x57ea27+'\x0a\x0acommand:\x20nezuko',_0x57ea27,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':_0x453f27(0x1d2),'desc':_0x453f27(0x16e),'category':'anime'},async _0x5d295f=>{const _0x4fd57a=_0x453f27;try{const _0x529cdb=_0x4fd57a(0x17a),_0x31647c=await fetch(_0x529cdb);if(!_0x31647c['ok'])return await _0x5d295f['send'](_0x4fd57a(0x209)+_0x31647c[_0x4fd57a(0x1b9)]+'\x20'+_0x31647c[_0x4fd57a(0x174)]+'_*');const _0xab6611=await _0x31647c[_0x4fd57a(0x1eb)]();if(_0xab6611[_0x4fd57a(0x1b9)]!==0xc8)return await _0x5d295f[_0x4fd57a(0x150)]('*_Error:\x20'+_0xab6611[_0x4fd57a(0x1b9)]+'\x20-\x20'+(_0xab6611[_0x4fd57a(0x1b4)]||_0x4fd57a(0x1a2))+'_*');const {url:_0xf07f22}=_0xab6611;if(!_0xf07f22)return await _0x5d295f[_0x4fd57a(0x150)](_0x4fd57a(0x16d));const _0x218d24='Random\x20image\x20of\x20Sakura.';await _0x5d295f[_0x4fd57a(0x19b)][_0x4fd57a(0x1d4)](_0x5d295f[_0x4fd57a(0x18d)],_0xf07f22,_0x218d24,_0x5d295f,{},_0x4fd57a(0x210));}catch(_0x5979bd){await _0x5d295f[_0x4fd57a(0x191)](_0x5979bd+_0x4fd57a(0x1f7),_0x5979bd,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':_0x453f27(0x1b3),'desc':_0x453f27(0x1b5),'category':_0x453f27(0x1e7)},async _0x3bbd33=>{const _0x5e63b1=_0x453f27;try{const _0x12da2b=_0x5e63b1(0x1d0),_0x516bfe=await fetch(_0x12da2b);if(!_0x516bfe['ok'])return await _0x3bbd33[_0x5e63b1(0x150)]('*_Error:\x20'+_0x516bfe[_0x5e63b1(0x1b9)]+'\x20'+_0x516bfe[_0x5e63b1(0x174)]+'_*');const _0x2d467e=await _0x516bfe[_0x5e63b1(0x1eb)]();if(_0x2d467e['status']!==0xc8)return await _0x3bbd33[_0x5e63b1(0x150)](_0x5e63b1(0x209)+_0x2d467e[_0x5e63b1(0x1b9)]+_0x5e63b1(0x187)+(_0x2d467e[_0x5e63b1(0x1b4)]||_0x5e63b1(0x1a2))+'_*');const {url:_0x3dcbd8}=_0x2d467e;if(!_0x3dcbd8)return await _0x3bbd33[_0x5e63b1(0x150)](_0x5e63b1(0x16d));const _0xbf63ce=_0x5e63b1(0x147);await _0x3bbd33[_0x5e63b1(0x19b)]['sendFromUrl'](_0x3bbd33['from'],_0x3dcbd8,_0xbf63ce,_0x3bbd33,{},_0x5e63b1(0x210));}catch(_0x3cf2d4){await _0x3bbd33[_0x5e63b1(0x191)](_0x3cf2d4+_0x5e63b1(0x1d9),_0x3cf2d4,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':_0x453f27(0x1f5),'desc':_0x453f27(0x177),'category':_0x453f27(0x1e7)},async _0x2948a2=>{const _0x2fd8a2=_0x453f27;try{const _0x5de950=_0x2fd8a2(0x171),_0x4012a6=await fetch(_0x5de950);if(!_0x4012a6['ok'])return await _0x2948a2['send'](_0x2fd8a2(0x209)+_0x4012a6[_0x2fd8a2(0x1b9)]+'\x20'+_0x4012a6[_0x2fd8a2(0x174)]+'_*');const _0x7d5c50=await _0x4012a6[_0x2fd8a2(0x1eb)]();if(_0x7d5c50[_0x2fd8a2(0x1b9)]!==0xc8)return await _0x2948a2[_0x2fd8a2(0x150)]('*_Error:\x20'+_0x7d5c50['status']+_0x2fd8a2(0x187)+(_0x7d5c50[_0x2fd8a2(0x1b4)]||_0x2fd8a2(0x1a2))+'_*');const {url:_0x1032cf}=_0x7d5c50;if(!_0x1032cf)return await _0x2948a2[_0x2fd8a2(0x150)]('*_No\x20image\x20found!_*');const _0x4d84ca='Random\x20image\x20of\x20Husbu.';await _0x2948a2[_0x2fd8a2(0x19b)][_0x2fd8a2(0x1d4)](_0x2948a2['from'],_0x1032cf,_0x4d84ca,_0x2948a2,{},'image');}catch(_0x357bee){await _0x2948a2[_0x2fd8a2(0x191)](_0x357bee+_0x2fd8a2(0x201),_0x357bee,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':'shota','desc':_0x453f27(0x1a7),'category':_0x453f27(0x1e7)},async _0x12bf06=>{const _0x399b94=_0x453f27;try{const _0x53d7c2=_0x399b94(0x15a),_0x2a1f1a=await fetch(_0x53d7c2);if(!_0x2a1f1a['ok'])return await _0x12bf06['send'](_0x399b94(0x209)+_0x2a1f1a['status']+'\x20'+_0x2a1f1a[_0x399b94(0x174)]+'_*');const _0x723202=await _0x2a1f1a[_0x399b94(0x1eb)]();if(_0x723202['status']!==0xc8)return await _0x12bf06[_0x399b94(0x150)](_0x399b94(0x209)+_0x723202[_0x399b94(0x1b9)]+_0x399b94(0x187)+(_0x723202[_0x399b94(0x1b4)]||_0x399b94(0x1a2))+'_*');const {url:_0x41f774}=_0x723202;if(!_0x41f774)return await _0x12bf06['send']('*_No\x20image\x20found!_*');const _0x3965ed=_0x399b94(0x17e);await _0x12bf06[_0x399b94(0x19b)][_0x399b94(0x1d4)](_0x12bf06[_0x399b94(0x18d)],_0x41f774,_0x3965ed,_0x12bf06,{},_0x399b94(0x210));}catch(_0x5b2360){await _0x12bf06['error'](_0x5b2360+_0x399b94(0x1cf),_0x5b2360,'*_Uhh\x20dear,\x20an\x20error\x20occurred!_*');}}),smd({'pattern':'animesearch','fromMe':![],'desc':_0x453f27(0x1e3),'type':_0x453f27(0x1e7)},async(_0x410deb,_0x19de49)=>{const _0x1a8a7c=_0x453f27;try{const _0x42b20b=_0x19de49[0x1][_0x1a8a7c(0x185)](),_0x40b15d=await axios[_0x1a8a7c(0x13d)](_0x1a8a7c(0x1fa)+encodeURIComponent(_0x42b20b)),_0x330a29=_0x40b15d[_0x1a8a7c(0x13c)][_0x1a8a7c(0x15d)],_0x802f72=_0x330a29['title']['english']||_0x330a29[_0x1a8a7c(0x186)][_0x1a8a7c(0x192)]||_0x330a29[_0x1a8a7c(0x186)][_0x1a8a7c(0x1f0)],_0x5b9adb=_0x330a29[_0x1a8a7c(0x19a)],_0x407d35=_0x330a29['genres']['join'](',\x20'),_0x5b80ba=_0x330a29[_0x1a8a7c(0x1b9)],_0x5e9383=_0x330a29[_0x1a8a7c(0x206)],_0x4255ea=_0x330a29[_0x1a8a7c(0x1ab)][_0x1a8a7c(0x1ac)],_0x14950f=_0x1a8a7c(0x189)+_0x802f72+'\x0a*Genres:*\x20'+_0x407d35+_0x1a8a7c(0x212)+_0x5b80ba+_0x1a8a7c(0x1e0)+_0x5e9383+_0x1a8a7c(0x1e4)+_0x5b9adb;await _0x410deb[_0x1a8a7c(0x150)](_0x14950f,{'quoted':_0x410deb[_0x1a8a7c(0x13c)],'thumbnail':_0x4255ea});}catch(_0x25f425){console[_0x1a8a7c(0x191)](_0x1a8a7c(0x173),_0x25f425),await _0x410deb['send'](_0x1a8a7c(0x1c5),{'quoted':_0x410deb['data']});}});function _0x4a0e(){const _0x115b00=['asuna','https://api.maher-zubair.tech/anime/itachi','\x0a\x0acommand:\x20shota','https://api.maher-zubair.tech/anime/sasuke','loli','sakura','Sends\x20image\x20of\x20Fox\x20Girl\x20Anime.','sendFromUrl','*\x0a*•Type:\x20','1894515XGwMrc','split','Sends\x20a\x20random\x20image\x20of\x20Anna.','\x0a\x0acommand:\x20sasuke','type','weight','https://api.maher-zubair.tech/anime/elaina','https://api.maher-zubair.tech/anime/kotori','ezra','Sends\x20a\x20random\x20image\x20of\x20Inori.','\x0a*Episodes:*\x20','../lib','kaori','Search\x20for\x20anime\x20details','\x0a*Description:*\x20','12896280WdEPAA','push','anime','Anime\x20Wallpaper\x20Random','*\x0a*•Special\x20Defense:','*\x0a*•Weight:\x20','json','&domains=techcrunch.com,animenewsnetwork.com,myanimelist.net,comingsoon.net,crunchyroll.com&language=en&sortby=publishedat&apikey=cd4116be09ef4a0caceedf21b6258460&pageSize=8','Random\x20image\x20of\x20Kurumi.','https://api.maher-zubair.tech/anime/erza','❌\x20Could\x20not\x20found\x20any\x20pokemon\x20with\x20that\x20name','native','stats','\x0a\x0acommand:\x20eba','2301172sMBiSS','1257PXIdll','husbu','https://api.maher-zubair.tech/anime/kaori','\x0a\x0acommand:\x20sakura','6wddTZu','nezuko','https://api.maher-zubair.tech/anime/search?q=','\x0a\x0acommand:\x20kurumi','\x0a*More\x20on✨:*\x20','*\x0a*•Base\x20Experience:\x20','\x0a*Source♦️:*\x20','Random\x20image\x20of\x20Boruto.','articles','\x0a\x0acommand:\x20husbu','https://api.waifu.pics/sfw/','front_default','https://api.maher-zubair.tech/anime/anna','../lib/','episodes','animenews','\x0a\x0acommand:\x20boruto','*_Error:\x20','foxgirl','\x0a\x0acommand:\x20kaga','https://api.maher-zubair.tech/anime/kaneki','chiho','Sends\x20a\x20random\x20image\x20of\x20Kaori.','Random\x20image\x20of\x20Chiho.','image','pokepic','\x0a*Status:*\x20','\x0a\x0acommand:\x20chiho','https://api.maher-zubair.tech/anime/chiho','Sends\x20a\x20random\x20image\x20of\x20Elaina.','https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/','\x0a*Created\x20On☘️:*\x20','*•Name:\x20','content','itori','Sends\x20a\x20Neko\x20Image\x20in\x20chat','\x0a\x0acommand:\x20anna','Sends\x20a\x20random\x20image\x20of\x20Itachi.','data','get','https://api.maher-zubair.tech/anime/itori','1948749lDlxMA','animewall','urlToImage','\x0a\x0acommand:\x20ezra','*\x0a*•Special\x20Attack:\x20','ability','Sends\x20a\x20random\x20image\x20of\x20Chiho.','*\x0a*•Height:\x20','Random\x20image\x20of\x20Sasuke.','megumin','Random\x20image\x20of\x20Inori.','*\x0a*•Attack:\x20','210900pZoJSo','*Title🔰:*\x20','*\x0a*•Defense:\x20','Random\x20image\x20of\x20Akira.','*\x0a*•Abilities:\x20','send','10vterwW','length','nsfw','5956248ndMbBV','eba','1786770BYzQsB','sprites','author','https://api.maher-zubair.tech/anime/nezuko','https://api.maher-zubair.tech/anime/shota','Random\x20image\x20of\x20Kotori.','Random\x20image\x20of\x20Anna.','result','sendMessage','jid','Sends\x20a\x20random\x20image\x20of\x20Boruto.','miku','demon','\x0a*Author📌:*\x20','\x0a\x0acommand:\x20kaneki','*\x0a*•Pokedex\x20ID:\x20','https://api.maher-zubair.tech/anime/akira','\x0a\x0a*Content🧩:*\x20','\x0a\x0acommand:\x20akira','anna','*Here\x20we\x20go😊!!!!*','Random\x20image\x20of\x20Nezuko.','*\x0a*•Speed:\x20','*_No\x20image\x20found!_*','Sends\x20a\x20random\x20image\x20of\x20Sakura.','https://waifu.pics/api/sfw/shinobu','https://api.waifu.pics/nsfw/','https://api.maher-zubair.tech/anime/husbu','3952515YwNXLA','Error\x20fetching\x20anime\x20details:','statusText','kaga','8269794uiqLol','Sends\x20a\x20random\x20image\x20of\x20Husbu.','waifu','Random\x20image\x20of\x20Itachi.','https://api.maher-zubair.tech/anime/sakura','itachi','https://pokeapi.co/api/v2/pokemon/','caption','Random\x20image\x20of\x20Shota.','https://api.maher-zubair.tech/anime/asuna','To\x20get\x20Naruto\x20Random\x20Videos','*---「\x20Poke\x20Pic\x20」---*','inori','shift','Random\x20image\x20of\x20Itori.','trim','title','\x20-\x20','\x0a\x0acommand:\x20asuna','*Title:*\x20','height',',Here\x20we\x20go😊!!!!*','Sends\x20image\x20of\x20pokemon.','from','https://api.maher-zubair.tech/anime/kurumi','base_stat','https://api.maher-zubair.tech/anime/eba','error','romaji','neko','https://api.maher-zubair.tech/anime/miku','Sends\x20a\x20random\x20image\x20of\x20Kotori.','Sends\x20a\x20random\x20image\x20of\x20Kaga.','types','Sends\x20a\x20random\x20image\x20of\x20Ezra.','12uzEKTO','description','bot','\x0a\x0acommand:\x20kotori','\x0a\x0acommand:\x20elaina','Random\x20image\x20of\x20Asuna.','Random\x20image\x20of\x20Naruto.','4267560Bkglyi','Random\x20image\x20of\x20Elaina.','Unknown\x20error','url','name','*_Uhh\x20dear,\x20an\x20error\x20occurred!_*','kaneki','Sends\x20a\x20random\x20image\x20of\x20Shota.','Random\x20image\x20of\x20Kaori.','Sends\x20a\x20random\x20image\x20of\x20Naruto.','reply','coverImage','medium','\x0a\x0acommand:\x20kaori','Sends\x20a\x20random\x20image\x20of\x20Asuna.','Sends\x20a\x20random\x20image\x20of\x20Eba.','Random\x20image\x20of\x20Kaneki\x20from\x20Tokyo\x20Ghoul.','1736295xNxVMd','Sends\x20a\x20random\x20image\x20of\x20Itori.','sasuke','developer','Sends\x20a\x20random\x20image\x20of\x20Sasuke.','naruto','4068827XtRLBd','elaina','status','https://api.maher-zubair.tech/anime/naruto','Random\x20image\x20of\x20Ezra.','https://newsapi.org/v2/everything?q=','324VgzzCo','\x0a\x0acommand:\x20itachi','https://api.maher-zubair.tech/anime/boruto','/video.json','kurumi','*\x0a*•Base\x20Stat:\x20','\x0a\x0acommand:\x20miku','\x0a\x0acommand:\x20naruto','_Failed\x20to\x20fetch\x20anime\x20details._','kotori','Sends\x20a\x20random\x20image\x20of\x20Akira.','Random\x20image\x20of\x20Kaga.','log','base_experience','anime\x20wallpaper\x20for\x20desktop\x20full\x20hd','trap'];_0x4a0e=function(){return _0x115b00;};return _0x4a0e();}
+const Config = require('../config');
+let {
+  sendGImages,
+  smd
+} = require("../lib");
+const axios = require('axios');
+const fetch = require('node-fetch');
+const {
+  fetchJson,
+  getBuffer
+} = require("../lib/");
+async function sendAnime(_0x25d7ae, _0xebc746, _0x12e9e6, _0x1b0c05 = '') {
+  try {
+    if (_0x12e9e6 === "waifu" || _0x12e9e6 === "neko" || _0x12e9e6 === "megumin") {
+      let _0x1395db = _0x1b0c05.split('|')[0x0] || '';
+      let _0x432e4f = _0x1b0c05.split('|')[0x1] || '1';
+      let _0x1255d3 = _0x1b0c05.split('|')[0x1] ? '' : " *" + _0x12e9e6 + ",Here we go😊!!!!*";
+      let _0x4a6ceb = _0x1395db == "nsfw" ? "https://api.waifu.pics/nsfw/" + (_0x12e9e6 === "megumin" ? "trap" : "waifu") : "https://api.waifu.pics/sfw/" + _0x12e9e6;
+      for (let _0x130e45 = 0x0; _0x130e45 < _0x432e4f; _0x130e45++) {
+        let _0xb48c43 = await (await fetch(_0x4a6ceb)).json();
+        await _0x25d7ae.bot.sendMessage(_0xebc746.chat, {
+          'image': {
+            'url': _0xb48c43.url
+          },
+          'caption': _0x1255d3
+        }, {
+          'quoted': _0xebc746
+        });
+      }
+    } else {
+      if (_0x12e9e6 === "loli" || _0x12e9e6 === "foxgirl") {
+        let _0x4d5f71 = _0x12e9e6 === "loli" ? "https://waifu.pics/api/sfw/shinobu" : "https://nekos.life/api/v2/img/fox_girl";
+        let _0xacaf95 = await axios.get(_0x4d5f71);
+        await _0x25d7ae.bot.sendMessage(_0xebc746.chat, {
+          'image': {
+            'url': _0xacaf95.data.url
+          }
+        }, {
+          'quoted': _0xebc746
+        });
+      } else {
+        if (_0x12e9e6 === "demon" || _0x12e9e6 === "naruto") {
+          let _0x47ada7 = "https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/" + (_0x12e9e6 === 'demon' ? 'Demonslayer' : "Naruto") + "/video.json";
+          const _0x138b87 = await fetchJson(_0x47ada7);
+          const _0x1b9786 = _0x138b87.result[Math.floor(Math.random() * _0x138b87.result.length)].url;
+          await _0x25d7ae.bot.sendMessage(_0xebc746.chat, {
+            'video': {
+              'url': _0x1b9786
+            },
+            'caption': "*Here we go😊!!!!*"
+          });
+        } else {
+          if (_0x12e9e6 === "animenews") {
+            let _0x2a44d3 = await axios.get("https://newsapi.org/v2/everything?q=" + _0x1b0c05 + "&domains=techcrunch.com,animenewsnetwork.com,myanimelist.net,comingsoon.net,crunchyroll.com&language=en&sortby=publishedat&apikey=cd4116be09ef4a0caceedf21b6258460&pageSize=8");
+            let _0xff8616 = _0x2a44d3.data.articles;
+            _0xff8616.map(async (_0x44a96a, _0x1e4be5) => {
+              try {
+                _0x25d7ae.bot.sendMessage(_0xebc746.chat, {
+                  'image': {
+                    'url': _0x44a96a.urlToImage
+                  },
+                  'caption': "*Title🔰:* " + _0x44a96a.title + "\n\n*Content🧩:* " + _0x44a96a.content + "\n*Author📌:* " + _0x44a96a.author + "\n*Source♦️:* " + _0x44a96a.source.name + "\n*Created On☘️:* " + _0x44a96a.publishedAt + "\n*More on✨:* " + _0x44a96a.url + "\n\n" + Config.caption + '*'
+                }, {
+                  'quoted': _0xebc746
+                });
+              } catch (_0x25dc82) {}
+            });
+          }
+        }
+      }
+    }
+  } catch (_0x11197f) {
+    console.log("./commands/Anime.js/sendAnime()\n", _0x11197f);
+    await _0xebc746.error(_0x11197f);
+  }
+}
+smd({
+  'pattern': "waifu",
+  'desc': "To get Waifu Random Pics",
+  'category': 'anime',
+  'filename': __filename
+}, async (_0x44837e, _0x1fb1a5, {
+  cmdName: _0xca53fd
+}) => {
+  try {
+    return await sendAnime(_0x44837e, _0x44837e, "waifu", _0x1fb1a5);
+  } catch {}
+});
+smd({
+  'pattern': "neko",
+  'category': "anime",
+  'desc': "Sends a Neko Image in chat",
+  'filename': __filename
+}, async (_0x3a1092, _0x3fad7f, {
+  cmdName: _0x312db5
+}) => {
+  try {
+    return await sendAnime(_0x3a1092, _0x3a1092, "neko", _0x3fad7f);
+  } catch {}
+});
+smd({
+  'pattern': "megumin",
+  'desc': "To get Waifu Random Pics",
+  'category': 'anime',
+  'filename': __filename
+}, async (_0x1ba563, _0x376ceb, {
+  cmdName: _0xd06796
+}) => {
+  try {
+    return await sendAnime(_0x1ba563, _0x1ba563, "megumin", _0x376ceb);
+  } catch {}
+});
+smd({
+  'pattern': "loli",
+  'category': "anime",
+  'filename': __filename,
+  'desc': "Sends image of loli."
+}, async _0x6e3bb7 => {
+  try {
+    return await sendAnime(_0x6e3bb7, _0x6e3bb7, "loli");
+  } catch {}
+});
+smd({
+  'pattern': "foxgirl",
+  'category': "anime",
+  'desc': "Sends image of Fox Girl Anime.",
+  'filename': __filename
+}, async _0xe7c4f6 => {
+  try {
+    return await sendAnime(_0xe7c4f6, _0xe7c4f6, 'foxgirl');
+  } catch {}
+});
+smd({
+  'pattern': 'demon',
+  'alias': ['ds'],
+  'desc': "To get Naruto Random Videos",
+  'category': "anime",
+  'filename': __filename
+}, async _0x169bf3 => {
+  try {
+    return await sendAnime(_0x169bf3, _0x169bf3, "demon");
+  } catch {}
+});
+smd({
+  'pattern': 'naruto',
+  'desc': "To get Naruto Random Videos",
+  'category': "anime",
+  'filename': __filename
+}, async _0x20e9e8 => {
+  try {
+    return await sendAnime(_0x20e9e8, _0x20e9e8, "naruto");
+  } catch {}
+});
+smd({
+  'pattern': "pokepic",
+  'category': "anime",
+  'filename': __filename,
+  'desc': "Sends image of pokemon."
+}, async (_0x3fd428, _0x305878) => {
+  try {
+    return await sendGImages(_0x3fd428, _0x305878 + "Pokemon Pics only HD ", "*---「 Poke Pic 」---*", _0x305878);
+  } catch {}
+});
+smd({
+  'pattern': "animewall",
+  'category': "anime",
+  'desc': "Anime Wallpaper Random",
+  'filename': __filename
+}, async (_0x3884a4, _0x1ab303) => {
+  try {
+    return await sendGImages(_0x3884a4, _0x1ab303 + "anime wallpaper for desktop full hd", "*---「 Anime Wallpaper 」---*", _0x1ab303);
+  } catch {}
+});
+smd({
+  'pattern': 'pokemon',
+  'category': 'anime',
+  'filename': __filename,
+  'desc': "Sends info of pokemon in current chat."
+}, async (_0x35de19, _0x2d5175) => {
+  try {
+    if (!_0x2d5175) {
+      return _0x35de19.reply("*Uhh Please Give Me Poki Name/num*");
+    }
+    try {
+      let {
+        data: _0x161bd2
+      } = await axios.get("https://pokeapi.co/api/v2/pokemon/" + _0x2d5175);
+      if (!_0x161bd2.name) {
+        return _0x35de19.reply("❌ Could not found any pokemon with that name");
+      }
+      let _0x46fe1f = "*•Name: " + _0x161bd2.name + "*\n*•Pokedex ID: " + _0x161bd2.id + "*\n*•Height: " + _0x161bd2.height + "*\n*•Weight: " + _0x161bd2.weight + "*\n*•Abilities: " + _0x161bd2.abilities[0x0].ability.name + ", " + _0x161bd2.abilities[0x1].ability.name + "*\n*•Base Experience: " + _0x161bd2.base_experience + "*\n*•Type: " + _0x161bd2.types[0x0].type.name + "*\n*•Base Stat: " + _0x161bd2.stats[0x0].base_stat + "*\n*•Attack: " + _0x161bd2.stats[0x1].base_stat + "*\n*•Defense: " + _0x161bd2.stats[0x2].base_stat + "*\n*•Special Attack: " + _0x161bd2.stats[0x3].base_stat + "*\n*•Special Defense:" + _0x161bd2.stats[0x4].base_stat + "*\n*•Speed: " + _0x161bd2.stats[0x5].base_stat + "*\n";
+      return await Suhail.bot.sendMessage(_0x35de19.jid, {
+        'image': {
+          'url': _0x161bd2.sprites.front_default
+        },
+        'caption': _0x46fe1f
+      }, {
+        'quoted': _0x35de19
+      });
+    } catch (_0x2400b9) {
+      _0x35de19.reply("*_Ahh,Couldn't found any pokemon._*");
+    }
+  } catch {}
+});
+smd({
+  'pattern': "kaneki",
+  'desc': "Sends a random image of Kaneki from Tokyo Ghoul.",
+  'category': "anime"
+}, async _0x43647a => {
+  try {
+    const _0x4ca6bd = await fetch("https://api.maher-zubair.tech/anime/kaneki");
+    if (!_0x4ca6bd.ok) {
+      return await _0x43647a.send("*_Error: " + _0x4ca6bd.status + " " + _0x4ca6bd.statusText + '_*');
+    }
+    const _0x267b14 = await _0x4ca6bd.json();
+    if (_0x267b14.status !== 0xc8) {
+      return await _0x43647a.send("*_Error: " + _0x267b14.status + " - " + (_0x267b14.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x436593
+    } = _0x267b14;
+    if (!_0x436593) {
+      return await _0x43647a.send("*_No image found!_*");
+    }
+    await _0x43647a.bot.sendFromUrl(_0x43647a.from, _0x436593, "Random image of Kaneki from Tokyo Ghoul.", _0x43647a, {}, "image");
+  } catch (_0x16fba7) {
+    await _0x43647a.error(_0x16fba7 + "\n\ncommand: kaneki", _0x16fba7, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': 'akira',
+  'desc': "Sends a random image of Akira.",
+  'category': "anime"
+}, async _0x5d5429 => {
+  try {
+    const _0x2d3763 = await fetch("https://api.maher-zubair.tech/anime/akira");
+    if (!_0x2d3763.ok) {
+      return await _0x5d5429.send("*_Error: " + _0x2d3763.status + " " + _0x2d3763.statusText + '_*');
+    }
+    const _0x34f0e3 = await _0x2d3763.json();
+    if (_0x34f0e3.status !== 0xc8) {
+      return await _0x5d5429.send("*_Error: " + _0x34f0e3.status + " - " + (_0x34f0e3.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x1919e2
+    } = _0x34f0e3;
+    if (!_0x1919e2) {
+      return await _0x5d5429.send("*_No image found!_*");
+    }
+    await _0x5d5429.bot.sendFromUrl(_0x5d5429.from, _0x1919e2, "Random image of Akira.", _0x5d5429, {}, "image");
+  } catch (_0x5c3aa4) {
+    await _0x5d5429.error(_0x5c3aa4 + "\n\ncommand: akira", _0x5c3aa4, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "anna",
+  'desc': "Sends a random image of Anna.",
+  'category': 'anime'
+}, async _0x48cf6f => {
+  try {
+    const _0x44c920 = await fetch("https://api.maher-zubair.tech/anime/anna");
+    if (!_0x44c920.ok) {
+      return await _0x48cf6f.send("*_Error: " + _0x44c920.status + " " + _0x44c920.statusText + '_*');
+    }
+    const _0x5ee074 = await _0x44c920.json();
+    if (_0x5ee074.status !== 0xc8) {
+      return await _0x48cf6f.send("*_Error: " + _0x5ee074.status + " - " + (_0x5ee074.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x42f689
+    } = _0x5ee074;
+    if (!_0x42f689) {
+      return await _0x48cf6f.send("*_No image found!_*");
+    }
+    await _0x48cf6f.bot.sendFromUrl(_0x48cf6f.from, _0x42f689, "Random image of Anna.", _0x48cf6f, {}, "image");
+  } catch (_0x3c563c) {
+    await _0x48cf6f.error(_0x3c563c + "\n\ncommand: anna", _0x3c563c, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "asuna",
+  'desc': "Sends a random image of Asuna.",
+  'category': "anime"
+}, async _0x4d3f7e => {
+  try {
+    const _0x5c11da = await fetch("https://api.maher-zubair.tech/anime/asuna");
+    if (!_0x5c11da.ok) {
+      return await _0x4d3f7e.send("*_Error: " + _0x5c11da.status + " " + _0x5c11da.statusText + '_*');
+    }
+    const _0x37317b = await _0x5c11da.json();
+    if (_0x37317b.status !== 0xc8) {
+      return await _0x4d3f7e.send("*_Error: " + _0x37317b.status + " - " + (_0x37317b.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x1d6d7a
+    } = _0x37317b;
+    if (!_0x1d6d7a) {
+      return await _0x4d3f7e.send("*_No image found!_*");
+    }
+    await _0x4d3f7e.bot.sendFromUrl(_0x4d3f7e.from, _0x1d6d7a, "Random image of Asuna.", _0x4d3f7e, {}, "image");
+  } catch (_0x154969) {
+    await _0x4d3f7e.error(_0x154969 + "\n\ncommand: asuna", _0x154969, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "anna",
+  'desc': "Sends a random image of Anna.",
+  'category': "anime"
+}, async _0xeb936d => {
+  try {
+    const _0x44687f = await fetch("https://api.maher-zubair.tech/anime/anna");
+    if (!_0x44687f.ok) {
+      return await _0xeb936d.send("*_Error: " + _0x44687f.status + " " + _0x44687f.statusText + '_*');
+    }
+    const _0x362e3e = await _0x44687f.json();
+    if (_0x362e3e.status !== 0xc8) {
+      return await _0xeb936d.send("*_Error: " + _0x362e3e.status + " - " + (_0x362e3e.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x1fcbb0
+    } = _0x362e3e;
+    if (!_0x1fcbb0) {
+      return await _0xeb936d.send("*_No image found!_*");
+    }
+    await _0xeb936d.bot.sendFromUrl(_0xeb936d.from, _0x1fcbb0, "Random image of Anna.", _0xeb936d, {}, "image");
+  } catch (_0x4e80d4) {
+    await _0xeb936d.error(_0x4e80d4 + "\n\ncommand: anna", _0x4e80d4, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': 'asuna',
+  'desc': "Sends a random image of Asuna.",
+  'category': 'anime'
+}, async _0x3b368f => {
+  try {
+    const _0x304779 = await fetch("https://api.maher-zubair.tech/anime/asuna");
+    if (!_0x304779.ok) {
+      return await _0x3b368f.send("*_Error: " + _0x304779.status + " " + _0x304779.statusText + '_*');
+    }
+    const _0x361a59 = await _0x304779.json();
+    if (_0x361a59.status !== 0xc8) {
+      return await _0x3b368f.send("*_Error: " + _0x361a59.status + " - " + (_0x361a59.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x2ab21d
+    } = _0x361a59;
+    if (!_0x2ab21d) {
+      return await _0x3b368f.send("*_No image found!_*");
+    }
+    await _0x3b368f.bot.sendFromUrl(_0x3b368f.from, _0x2ab21d, "Random image of Asuna.", _0x3b368f, {}, "image");
+  } catch (_0x3df622) {
+    await _0x3b368f.error(_0x3df622 + "\n\ncommand: asuna", _0x3df622, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': 'boruto',
+  'desc': "Sends a random image of Boruto.",
+  'category': "anime"
+}, async _0x1a51b4 => {
+  try {
+    const _0x335d76 = await fetch("https://api.maher-zubair.tech/anime/boruto");
+    if (!_0x335d76.ok) {
+      return await _0x1a51b4.send("*_Error: " + _0x335d76.status + " " + _0x335d76.statusText + '_*');
+    }
+    const _0x17154d = await _0x335d76.json();
+    if (_0x17154d.status !== 0xc8) {
+      return await _0x1a51b4.send("*_Error: " + _0x17154d.status + " - " + (_0x17154d.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x132cd8
+    } = _0x17154d;
+    if (!_0x132cd8) {
+      return await _0x1a51b4.send("*_No image found!_*");
+    }
+    await _0x1a51b4.bot.sendFromUrl(_0x1a51b4.from, _0x132cd8, "Random image of Boruto.", _0x1a51b4, {}, 'image');
+  } catch (_0x38f105) {
+    await _0x1a51b4.error(_0x38f105 + "\n\ncommand: boruto", _0x38f105, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "chiho",
+  'desc': "Sends a random image of Chiho.",
+  'category': "anime"
+}, async _0xb9fa96 => {
+  try {
+    const _0x334f93 = await fetch("https://api.maher-zubair.tech/anime/chiho");
+    if (!_0x334f93.ok) {
+      return await _0xb9fa96.send("*_Error: " + _0x334f93.status + " " + _0x334f93.statusText + '_*');
+    }
+    const _0xdf5bde = await _0x334f93.json();
+    if (_0xdf5bde.status !== 0xc8) {
+      return await _0xb9fa96.send("*_Error: " + _0xdf5bde.status + " - " + (_0xdf5bde.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x2400f8
+    } = _0xdf5bde;
+    if (!_0x2400f8) {
+      return await _0xb9fa96.send("*_No image found!_*");
+    }
+    await _0xb9fa96.bot.sendFromUrl(_0xb9fa96.from, _0x2400f8, "Random image of Chiho.", _0xb9fa96, {}, "image");
+  } catch (_0x51c2b3) {
+    await _0xb9fa96.error(_0x51c2b3 + "\n\ncommand: chiho", _0x51c2b3, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "eba",
+  'desc': "Sends a random image of Eba.",
+  'category': "anime"
+}, async _0x36a883 => {
+  try {
+    const _0x34ea2c = await fetch("https://api.maher-zubair.tech/anime/eba");
+    if (!_0x34ea2c.ok) {
+      return await _0x36a883.send("*_Error: " + _0x34ea2c.status + " " + _0x34ea2c.statusText + '_*');
+    }
+    const _0x3cd584 = await _0x34ea2c.json();
+    if (_0x3cd584.status !== 0xc8) {
+      return await _0x36a883.send("*_Error: " + _0x3cd584.status + " - " + (_0x3cd584.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x5722b7
+    } = _0x3cd584;
+    if (!_0x5722b7) {
+      return await _0x36a883.send("*_No image found!_*");
+    }
+    await _0x36a883.bot.sendFromUrl(_0x36a883.from, _0x5722b7, "Random image of Eba.", _0x36a883, {}, 'image');
+  } catch (_0x49ece4) {
+    await _0x36a883.error(_0x49ece4 + "\n\ncommand: eba", _0x49ece4, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "elaina",
+  'desc': "Sends a random image of Elaina.",
+  'category': "anime"
+}, async _0x338853 => {
+  try {
+    const _0x118730 = await fetch("https://api.maher-zubair.tech/anime/elaina");
+    if (!_0x118730.ok) {
+      return await _0x338853.send("*_Error: " + _0x118730.status + " " + _0x118730.statusText + '_*');
+    }
+    const _0x1a00cf = await _0x118730.json();
+    if (_0x1a00cf.status !== 0xc8) {
+      return await _0x338853.send("*_Error: " + _0x1a00cf.status + " - " + (_0x1a00cf.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x4acd72
+    } = _0x1a00cf;
+    if (!_0x4acd72) {
+      return await _0x338853.send("*_No image found!_*");
+    }
+    await _0x338853.bot.sendFromUrl(_0x338853.from, _0x4acd72, "Random image of Elaina.", _0x338853, {}, "image");
+  } catch (_0x4d9a50) {
+    await _0x338853.error(_0x4d9a50 + "\n\ncommand: elaina", _0x4d9a50, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "ezra",
+  'desc': "Sends a random image of Ezra.",
+  'category': "anime"
+}, async _0x425f25 => {
+  try {
+    const _0x474918 = await fetch("https://api.maher-zubair.tech/anime/erza");
+    if (!_0x474918.ok) {
+      return await _0x425f25.send("*_Error: " + _0x474918.status + " " + _0x474918.statusText + '_*');
+    }
+    const _0x16e331 = await _0x474918.json();
+    if (_0x16e331.status !== 0xc8) {
+      return await _0x425f25.send("*_Error: " + _0x16e331.status + " - " + (_0x16e331.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x2759f6
+    } = _0x16e331;
+    if (!_0x2759f6) {
+      return await _0x425f25.send("*_No image found!_*");
+    }
+    await _0x425f25.bot.sendFromUrl(_0x425f25.from, _0x2759f6, "Random image of Ezra.", _0x425f25, {}, "image");
+  } catch (_0x47c301) {
+    await _0x425f25.error(_0x47c301 + "\n\ncommand: ezra", _0x47c301, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "inori",
+  'desc': "Sends a random image of Inori.",
+  'category': 'anime'
+}, async _0x5cc429 => {
+  try {
+    const _0x1933d4 = await fetch('https://api.maher-zubair.tech/anime/inori');
+    if (!_0x1933d4.ok) {
+      return await _0x5cc429.send("*_Error: " + _0x1933d4.status + " " + _0x1933d4.statusText + '_*');
+    }
+    const _0x435271 = await _0x1933d4.json();
+    if (_0x435271.status !== 0xc8) {
+      return await _0x5cc429.send("*_Error: " + _0x435271.status + " - " + (_0x435271.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x3fcc0b
+    } = _0x435271;
+    if (!_0x3fcc0b) {
+      return await _0x5cc429.send("*_No image found!_*");
+    }
+    await _0x5cc429.bot.sendFromUrl(_0x5cc429.from, _0x3fcc0b, "Random image of Inori.", _0x5cc429, {}, "image");
+  } catch (_0xb372fc) {
+    await _0x5cc429.error(_0xb372fc + "\n\ncommand: inori", _0xb372fc, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "itachi",
+  'desc': "Sends a random image of Itachi.",
+  'category': "anime"
+}, async _0x467bea => {
+  try {
+    const _0x5f457b = await fetch("https://api.maher-zubair.tech/anime/itachi");
+    if (!_0x5f457b.ok) {
+      return await _0x467bea.send("*_Error: " + _0x5f457b.status + " " + _0x5f457b.statusText + '_*');
+    }
+    const _0x42e9ac = await _0x5f457b.json();
+    if (_0x42e9ac.status !== 0xc8) {
+      return await _0x467bea.send("*_Error: " + _0x42e9ac.status + " - " + (_0x42e9ac.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x530a84
+    } = _0x42e9ac;
+    if (!_0x530a84) {
+      return await _0x467bea.send("*_No image found!_*");
+    }
+    await _0x467bea.bot.sendFromUrl(_0x467bea.from, _0x530a84, "Random image of Itachi.", _0x467bea, {}, 'image');
+  } catch (_0x4b9ce5) {
+    await _0x467bea.error(_0x4b9ce5 + "\n\ncommand: itachi", _0x4b9ce5, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "itori",
+  'desc': "Sends a random image of Itori.",
+  'category': "anime"
+}, async _0x48b402 => {
+  try {
+    const _0x4b250f = await fetch("https://api.maher-zubair.tech/anime/itori");
+    if (!_0x4b250f.ok) {
+      return await _0x48b402.send("*_Error: " + _0x4b250f.status + " " + _0x4b250f.statusText + '_*');
+    }
+    const _0x12f583 = await _0x4b250f.json();
+    if (_0x12f583.status !== 0xc8) {
+      return await _0x48b402.send("*_Error: " + _0x12f583.status + " - " + (_0x12f583.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x5dd4b9
+    } = _0x12f583;
+    if (!_0x5dd4b9) {
+      return await _0x48b402.send("*_No image found!_*");
+    }
+    await _0x48b402.bot.sendFromUrl(_0x48b402.from, _0x5dd4b9, "Random image of Itori.", _0x48b402, {}, "image");
+  } catch (_0xb139f6) {
+    await _0x48b402.error(_0xb139f6 + "\n\ncommand: itori", _0xb139f6, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "kaga",
+  'desc': "Sends a random image of Kaga.",
+  'category': 'anime'
+}, async _0x2e562b => {
+  try {
+    const _0x4ae68a = await fetch('https://api.maher-zubair.tech/anime/kaga');
+    if (!_0x4ae68a.ok) {
+      return await _0x2e562b.send("*_Error: " + _0x4ae68a.status + " " + _0x4ae68a.statusText + '_*');
+    }
+    const _0x520fce = await _0x4ae68a.json();
+    if (_0x520fce.status !== 0xc8) {
+      return await _0x2e562b.send("*_Error: " + _0x520fce.status + " - " + (_0x520fce.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x46fc56
+    } = _0x520fce;
+    if (!_0x46fc56) {
+      return await _0x2e562b.send("*_No image found!_*");
+    }
+    await _0x2e562b.bot.sendFromUrl(_0x2e562b.from, _0x46fc56, "Random image of Kaga.", _0x2e562b, {}, "image");
+  } catch (_0x539504) {
+    await _0x2e562b.error(_0x539504 + "\n\ncommand: kaga", _0x539504, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "kaori",
+  'desc': "Sends a random image of Kaori.",
+  'category': 'anime'
+}, async _0x466422 => {
+  try {
+    const _0x2e91c3 = await fetch("https://api.maher-zubair.tech/anime/kaori");
+    if (!_0x2e91c3.ok) {
+      return await _0x466422.send("*_Error: " + _0x2e91c3.status + " " + _0x2e91c3.statusText + '_*');
+    }
+    const _0x59dd97 = await _0x2e91c3.json();
+    if (_0x59dd97.status !== 0xc8) {
+      return await _0x466422.send("*_Error: " + _0x59dd97.status + " - " + (_0x59dd97.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x2e8916
+    } = _0x59dd97;
+    if (!_0x2e8916) {
+      return await _0x466422.send("*_No image found!_*");
+    }
+    await _0x466422.bot.sendFromUrl(_0x466422.from, _0x2e8916, "Random image of Kaori.", _0x466422, {}, 'image');
+  } catch (_0x3a8a3e) {
+    await _0x466422.error(_0x3a8a3e + "\n\ncommand: kaori", _0x3a8a3e, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "kotori",
+  'desc': "Sends a random image of Kotori.",
+  'category': "anime"
+}, async _0x21e22c => {
+  try {
+    const _0x38b839 = await fetch("https://api.maher-zubair.tech/anime/kotori");
+    if (!_0x38b839.ok) {
+      return await _0x21e22c.send("*_Error: " + _0x38b839.status + " " + _0x38b839.statusText + '_*');
+    }
+    const _0x48ea37 = await _0x38b839.json();
+    if (_0x48ea37.status !== 0xc8) {
+      return await _0x21e22c.send("*_Error: " + _0x48ea37.status + " - " + (_0x48ea37.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x45aaa2
+    } = _0x48ea37;
+    if (!_0x45aaa2) {
+      return await _0x21e22c.send("*_No image found!_*");
+    }
+    await _0x21e22c.bot.sendFromUrl(_0x21e22c.from, _0x45aaa2, "Random image of Kotori.", _0x21e22c, {}, "image");
+  } catch (_0x17d9a1) {
+    await _0x21e22c.error(_0x17d9a1 + "\n\ncommand: kotori", _0x17d9a1, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "kurumi",
+  'desc': "Sends a random image of Kurumi.",
+  'category': 'anime'
+}, async _0x388639 => {
+  try {
+    const _0x422f1f = await fetch("https://api.maher-zubair.tech/anime/kurumi");
+    if (!_0x422f1f.ok) {
+      return await _0x388639.send("*_Error: " + _0x422f1f.status + " " + _0x422f1f.statusText + '_*');
+    }
+    const _0x529f05 = await _0x422f1f.json();
+    if (_0x529f05.status !== 0xc8) {
+      return await _0x388639.send("*_Error: " + _0x529f05.status + " - " + (_0x529f05.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x3ef9ba
+    } = _0x529f05;
+    if (!_0x3ef9ba) {
+      return await _0x388639.send("*_No image found!_*");
+    }
+    await _0x388639.bot.sendFromUrl(_0x388639.from, _0x3ef9ba, "Random image of Kurumi.", _0x388639, {}, "image");
+  } catch (_0x46b994) {
+    await _0x388639.error(_0x46b994 + "\n\ncommand: kurumi", _0x46b994, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "miku",
+  'desc': "Sends a random image of Miku.",
+  'category': "anime"
+}, async _0x1c72ae => {
+  try {
+    const _0x2b39bc = await fetch("https://api.maher-zubair.tech/anime/miku");
+    if (!_0x2b39bc.ok) {
+      return await _0x1c72ae.send("*_Error: " + _0x2b39bc.status + " " + _0x2b39bc.statusText + '_*');
+    }
+    const _0x2e5518 = await _0x2b39bc.json();
+    if (_0x2e5518.status !== 0xc8) {
+      return await _0x1c72ae.send("*_Error: " + _0x2e5518.status + " - " + (_0x2e5518.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0xa06c63
+    } = _0x2e5518;
+    if (!_0xa06c63) {
+      return await _0x1c72ae.send("*_No image found!_*");
+    }
+    await _0x1c72ae.bot.sendFromUrl(_0x1c72ae.from, _0xa06c63, "Random image of Miku.", _0x1c72ae, {}, "image");
+  } catch (_0x3cf8b0) {
+    await _0x1c72ae.error(_0x3cf8b0 + "\n\ncommand: miku", _0x3cf8b0, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "naruto",
+  'desc': "Sends a random image of Naruto.",
+  'category': 'anime'
+}, async _0x2e0733 => {
+  try {
+    const _0x43d41f = await fetch("https://api.maher-zubair.tech/anime/naruto");
+    if (!_0x43d41f.ok) {
+      return await _0x2e0733.send("*_Error: " + _0x43d41f.status + " " + _0x43d41f.statusText + '_*');
+    }
+    const _0x1b765f = await _0x43d41f.json();
+    if (_0x1b765f.status !== 0xc8) {
+      return await _0x2e0733.send("*_Error: " + _0x1b765f.status + " - " + (_0x1b765f.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x3771e9
+    } = _0x1b765f;
+    if (!_0x3771e9) {
+      return await _0x2e0733.send("*_No image found!_*");
+    }
+    await _0x2e0733.bot.sendFromUrl(_0x2e0733.from, _0x3771e9, "Random image of Naruto.", _0x2e0733, {}, "image");
+  } catch (_0x2a4ce6) {
+    await _0x2e0733.error(_0x2a4ce6 + "\n\ncommand: naruto", _0x2a4ce6, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "nezuko",
+  'desc': "Sends a random image of Nezuko.",
+  'category': "anime"
+}, async _0x5ae064 => {
+  try {
+    const _0x2aea6c = await fetch("https://api.maher-zubair.tech/anime/nezuko");
+    if (!_0x2aea6c.ok) {
+      return await _0x5ae064.send("*_Error: " + _0x2aea6c.status + " " + _0x2aea6c.statusText + '_*');
+    }
+    const _0xbccd87 = await _0x2aea6c.json();
+    if (_0xbccd87.status !== 0xc8) {
+      return await _0x5ae064.send("*_Error: " + _0xbccd87.status + " - " + (_0xbccd87.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x14095e
+    } = _0xbccd87;
+    if (!_0x14095e) {
+      return await _0x5ae064.send("*_No image found!_*");
+    }
+    await _0x5ae064.bot.sendFromUrl(_0x5ae064.from, _0x14095e, "Random image of Nezuko.", _0x5ae064, {}, "image");
+  } catch (_0x57ea27) {
+    await _0x5ae064.error(_0x57ea27 + "\n\ncommand: nezuko", _0x57ea27, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "sakura",
+  'desc': "Sends a random image of Sakura.",
+  'category': 'anime'
+}, async _0x5d295f => {
+  try {
+    const _0x31647c = await fetch("https://api.maher-zubair.tech/anime/sakura");
+    if (!_0x31647c.ok) {
+      return await _0x5d295f.send("*_Error: " + _0x31647c.status + " " + _0x31647c.statusText + '_*');
+    }
+    const _0xab6611 = await _0x31647c.json();
+    if (_0xab6611.status !== 0xc8) {
+      return await _0x5d295f.send("*_Error: " + _0xab6611.status + " - " + (_0xab6611.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0xf07f22
+    } = _0xab6611;
+    if (!_0xf07f22) {
+      return await _0x5d295f.send("*_No image found!_*");
+    }
+    await _0x5d295f.bot.sendFromUrl(_0x5d295f.from, _0xf07f22, "Random image of Sakura.", _0x5d295f, {}, "image");
+  } catch (_0x5979bd) {
+    await _0x5d295f.error(_0x5979bd + "\n\ncommand: sakura", _0x5979bd, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "sasuke",
+  'desc': "Sends a random image of Sasuke.",
+  'category': "anime"
+}, async _0x3bbd33 => {
+  try {
+    const _0x516bfe = await fetch("https://api.maher-zubair.tech/anime/sasuke");
+    if (!_0x516bfe.ok) {
+      return await _0x3bbd33.send("*_Error: " + _0x516bfe.status + " " + _0x516bfe.statusText + '_*');
+    }
+    const _0x2d467e = await _0x516bfe.json();
+    if (_0x2d467e.status !== 0xc8) {
+      return await _0x3bbd33.send("*_Error: " + _0x2d467e.status + " - " + (_0x2d467e.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x3dcbd8
+    } = _0x2d467e;
+    if (!_0x3dcbd8) {
+      return await _0x3bbd33.send("*_No image found!_*");
+    }
+    await _0x3bbd33.bot.sendFromUrl(_0x3bbd33.from, _0x3dcbd8, "Random image of Sasuke.", _0x3bbd33, {}, "image");
+  } catch (_0x3cf2d4) {
+    await _0x3bbd33.error(_0x3cf2d4 + "\n\ncommand: sasuke", _0x3cf2d4, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': "husbu",
+  'desc': "Sends a random image of Husbu.",
+  'category': "anime"
+}, async _0x2948a2 => {
+  try {
+    const _0x4012a6 = await fetch("https://api.maher-zubair.tech/anime/husbu");
+    if (!_0x4012a6.ok) {
+      return await _0x2948a2.send("*_Error: " + _0x4012a6.status + " " + _0x4012a6.statusText + '_*');
+    }
+    const _0x7d5c50 = await _0x4012a6.json();
+    if (_0x7d5c50.status !== 0xc8) {
+      return await _0x2948a2.send("*_Error: " + _0x7d5c50.status + " - " + (_0x7d5c50.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x1032cf
+    } = _0x7d5c50;
+    if (!_0x1032cf) {
+      return await _0x2948a2.send("*_No image found!_*");
+    }
+    await _0x2948a2.bot.sendFromUrl(_0x2948a2.from, _0x1032cf, "Random image of Husbu.", _0x2948a2, {}, 'image');
+  } catch (_0x357bee) {
+    await _0x2948a2.error(_0x357bee + "\n\ncommand: husbu", _0x357bee, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': 'shota',
+  'desc': "Sends a random image of Shota.",
+  'category': "anime"
+}, async _0x12bf06 => {
+  try {
+    const _0x2a1f1a = await fetch("https://api.maher-zubair.tech/anime/shota");
+    if (!_0x2a1f1a.ok) {
+      return await _0x12bf06.send("*_Error: " + _0x2a1f1a.status + " " + _0x2a1f1a.statusText + '_*');
+    }
+    const _0x723202 = await _0x2a1f1a.json();
+    if (_0x723202.status !== 0xc8) {
+      return await _0x12bf06.send("*_Error: " + _0x723202.status + " - " + (_0x723202.developer || "Unknown error") + '_*');
+    }
+    const {
+      url: _0x41f774
+    } = _0x723202;
+    if (!_0x41f774) {
+      return await _0x12bf06.send("*_No image found!_*");
+    }
+    await _0x12bf06.bot.sendFromUrl(_0x12bf06.from, _0x41f774, "Random image of Shota.", _0x12bf06, {}, "image");
+  } catch (_0x5b2360) {
+    await _0x12bf06.error(_0x5b2360 + "\n\ncommand: shota", _0x5b2360, "*_Uhh dear, an error occurred!_*");
+  }
+});
+smd({
+  'pattern': 'animesearch',
+  'fromMe': false,
+  'desc': "Search for anime details",
+  'type': "anime"
+}, async (_0x410deb, _0x19de49) => {
+  try {
+    const _0x42b20b = _0x19de49[0x1].trim();
+    const _0x40b15d = await axios.get("https://api.maher-zubair.tech/anime/search?q=" + encodeURIComponent(_0x42b20b));
+    const _0x330a29 = _0x40b15d.data.result;
+    const _0x802f72 = _0x330a29.title.english || _0x330a29.title.romaji || _0x330a29.title.native;
+    const _0x5b9adb = _0x330a29.description;
+    const _0x407d35 = _0x330a29.genres.join(", ");
+    const _0x5b80ba = _0x330a29.status;
+    const _0x5e9383 = _0x330a29.episodes;
+    const _0x4255ea = _0x330a29.coverImage.medium;
+    const _0x14950f = "*Title:* " + _0x802f72 + "\n*Genres:* " + _0x407d35 + "\n*Status:* " + _0x5b80ba + "\n*Episodes:* " + _0x5e9383 + "\n*Description:* " + _0x5b9adb;
+    await _0x410deb.send(_0x14950f, {
+      'quoted': _0x410deb.data,
+      'thumbnail': _0x4255ea
+    });
+  } catch (_0x25f425) {
+    console.error("Error fetching anime details:", _0x25f425);
+    await _0x410deb.send("_Failed to fetch anime details._", {
+      'quoted': _0x410deb.data
+    });
+  }
+});
